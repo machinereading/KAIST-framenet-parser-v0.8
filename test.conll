@@ -1,0 +1,41 @@
+#begin document (friends-s01e01-00); part000
+friends-s01e01-00	0	0	There	EX	expl	there	-	-	Monica_Geller	*	55422	59256	000.pickle	-
+friends-s01e01-00	0	1	's	VBZ	ROOT	be	-	-	Monica_Geller	*	55422	59256	000.pickle	-
+friends-s01e01-00	0	2	nothing	NN	nsubj	nothing	-	-	Monica_Geller	*	55422	59256	000.pickle	-
+friends-s01e01-00	0	3	to	TO	mark	to	-	-	Monica_Geller	*	55422	59256	000.pickle	-
+friends-s01e01-00	0	4	tell	VB	acl	tell	-	-	Monica_Geller	*	55422	59256	000.pickle	-
+friends-s01e01-00	0	5	!	.	punct	!	-	-	Monica_Geller	*	55422	59256	000.pickle	-
+
+friends-s01e01-00	0	6	He	PRP	nsubj	he	-	-	Monica_Geller	*	55422	59256	000.pickle	(0)
+friends-s01e01-00	0	7	's	VBZ	cop	be	-	-	Monica_Geller	*	55422	59256	000.pickle	-
+friends-s01e01-00	0	8	just	RB	advmod	just	-	-	Monica_Geller	*	55422	59256	000.pickle	-
+friends-s01e01-00	0	9	some	DT	det	some	-	-	Monica_Geller	*	55422	59256	000.pickle	-
+friends-s01e01-00	0	10	guy	NN	ROOT	guy	-	-	Monica_Geller	*	55422	59256	000.pickle	(0)
+friends-s01e01-00	0	11	I	PRP	nsubj	I	-	-	Monica_Geller	*	55422	59256	000.pickle	(0)
+friends-s01e01-00	0	12	work	VBP	acl:relcl	work	-	-	Monica_Geller	*	55422	59256	000.pickle	-
+friends-s01e01-00	0	13	with	IN	nmod	with	-	-	Monica_Geller	*	55422	59256	000.pickle	-
+friends-s01e01-00	0	14	!	.	punct	!	-	-	Monica_Geller	*	55422	59256	000.pickle	-
+
+friends-s01e01-00	1	0	C'mon	VB	discourse	c'mon	-	-	Joey_Tribbiani	*	59459	64389	000.pickle	-
+friends-s01e01-00	1	1	,	,	punct	,	-	-	Joey_Tribbiani	*	59459	64389	000.pickle	-
+friends-s01e01-00	1	2	you	PRP	nsubj	you	-	-	Joey_Tribbiani	*	59459	64389	000.pickle	(0)
+friends-s01e01-00	1	3	're	VBP	aux	be	-	-	Joey_Tribbiani	*	59459	64389	000.pickle	-
+friends-s01e01-00	1	4	going	VBG	ROOT	go	-	-	Joey_Tribbiani	*	59459	64389	000.pickle	-
+friends-s01e01-00	1	5	out	RP	compound:prt	out	-	-	Joey_Tribbiani	*	59459	64389	000.pickle	-
+friends-s01e01-00	1	6	with	IN	case	with	-	-	Joey_Tribbiani	*	59459	64389	000.pickle	-
+friends-s01e01-00	1	7	the	DT	det	the	-	-	Joey_Tribbiani	*	59459	64389	000.pickle	-
+friends-s01e01-00	1	8	guy	NN	nmod	guy	-	-	Joey_Tribbiani	*	59459	64389	000.pickle	(0)
+friends-s01e01-00	1	9	!	.	punct	!	-	-	Joey_Tribbiani	*	59459	64389	000.pickle	-
+
+friends-s01e01-00	1	10	There	EX	expl	there	-	-	Joey_Tribbiani	*	59459	64389	000.pickle	-
+friends-s01e01-00	1	11	's	VBZ	auxpass	be	-	-	Joey_Tribbiani	*	59459	64389	000.pickle	-
+friends-s01e01-00	1	12	got	VBN	ROOT	get	-	-	Joey_Tribbiani	*	59459	64389	000.pickle	-
+friends-s01e01-00	1	13	ta	TO	mark	ta	-	-	Joey_Tribbiani	*	59459	64389	000.pickle	-
+friends-s01e01-00	1	14	be	VB	cop	be	-	-	Joey_Tribbiani	*	59459	64389	000.pickle	-
+friends-s01e01-00	1	15	something	NN	xcomp	something	-	-	Joey_Tribbiani	*	59459	64389	000.pickle	-
+friends-s01e01-00	1	16	wrong	JJ	amod	wrong	-	-	Joey_Tribbiani	*	59459	64389	000.pickle	-
+friends-s01e01-00	1	17	with	IN	case	with	-	-	Joey_Tribbiani	*	59459	64389	000.pickle	-
+friends-s01e01-00	1	18	him	PRP	nmod	he	-	-	Joey_Tribbiani	*	59459	64389	000.pickle	(0)
+friends-s01e01-00	1	19	!	.	punct	!	-	-	Joey_Tribbiani	*	59459	64389	000.pickle	-
+
+#end document

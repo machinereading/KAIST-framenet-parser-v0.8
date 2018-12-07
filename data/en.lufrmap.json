@@ -1,0 +1,10090 @@
+{
+    "spill.v": [
+        "Fluidic_motion"
+    ],
+    "war.n": [
+        "Hostile_encounter"
+    ],
+    "in.prep": [
+        "Participation",
+        "Taking_time",
+        "Temporal_collocation",
+        "Containment_relation",
+        "Medium",
+        "Fields",
+        "Locative_relation"
+    ],
+    "question.n": [
+        "Questioning",
+        "Point_of_dispute"
+    ],
+    "lead.v": [
+        "Cotheme",
+        "Leadership"
+    ],
+    "on.prep": [
+        "Locative_relation",
+        "Temporal_collocation",
+        "Topic",
+        "Being_in_operation"
+    ],
+    "floor.n": [
+        "Architectural_part"
+    ],
+    "today.n": [
+        "Temporal_collocation",
+        "Calendric_unit"
+    ],
+    "warfare.n": [
+        "Hostile_encounter"
+    ],
+    "door.n": [
+        "Connecting_architecture"
+    ],
+    "close.v": [
+        "Closure"
+    ],
+    "force.v": [
+        "Cause_motion",
+        "Causation"
+    ],
+    "hijack.v": [
+        "Piracy"
+    ],
+    "leader.n": [
+        "Leadership"
+    ],
+    "say.v": [
+        "Communication",
+        "Statement"
+    ],
+    "attack.n": [
+        "Attack"
+    ],
+    "send.v": [
+        "Sending",
+        "Causation"
+    ],
+    "enough.a": [
+        "Sufficiency"
+    ],
+    "president_(political).n": [
+        "Leadership"
+    ],
+    "go.v": [
+        "Motion",
+        "Becoming",
+        "Compatibility"
+    ],
+    "conduct.v": [
+        "Intentionally_act"
+    ],
+    "american.a": [
+        "Origin"
+    ],
+    "people.n": [
+        "People"
+    ],
+    "understand.v": [
+        "Grasp",
+        "Categorization"
+    ],
+    "investigation.n": [
+        "Criminal_investigation",
+        "Scrutiny"
+    ],
+    "demand.v": [
+        "Have_as_requirement",
+        "Request"
+    ],
+    "accuse.v": [
+        "Judgment_communication"
+    ],
+    "fail.v": [
+        "Successful_action",
+        "Success_or_failure"
+    ],
+    "allegation.n": [
+        "Statement"
+    ],
+    "probe.v": [
+        "Criminal_investigation",
+        "Scrutiny"
+    ],
+    "house.n": [
+        "Buildings"
+    ],
+    "white.a": [
+        "Color"
+    ],
+    "justify.v": [
+        "Justifying"
+    ],
+    "intelligence.n": [
+        "Information",
+        "Organization"
+    ],
+    "now.adv": [
+        "Temporal_collocation"
+    ],
+    "easy.a": [
+        "Difficulty"
+    ],
+    "debate.v": [
+        "Discussion"
+    ],
+    "secret.a": [
+        "Secrecy_status"
+    ],
+    "law.n": [
+        "Law"
+    ],
+    "chamber.n": [
+        "Building_subparts"
+    ],
+    "enraged.a": [
+        "Emotion_directed"
+    ],
+    "current.a": [
+        "Temporal_collocation"
+    ],
+    "previous.a": [
+        "Relative_time",
+        "Time_vector"
+    ],
+    "slap.v": [
+        "Cause_harm"
+    ],
+    "face.n": [
+        "Observable_body_parts",
+        "Part_orientational"
+    ],
+    "grand.a": [
+        "Dimension"
+    ],
+    "institution.n": [
+        "Institutions"
+    ],
+    "affront.n": [
+        "Cause_emotion"
+    ],
+    "there be.v": [
+        "Existence"
+    ],
+    "consideration.n": [
+        "Cogitation"
+    ],
+    "before.prep": [
+        "Time_vector"
+    ],
+    "side.n": [
+        "Part_orientational",
+        "Taking_sides"
+    ],
+    "other.a": [
+        "Increment"
+    ],
+    "refuse.v": [
+        "Agree_or_refuse_to_act"
+    ],
+    "finish.v": [
+        "Activity_finish"
+    ],
+    "long.a": [
+        "Measurable_attributes",
+        "Duration_attribute",
+        "Dimension"
+    ],
+    "await.v": [
+        "Expectation"
+    ],
+    "report.n": [
+        "Statement",
+        "Text"
+    ],
+    "stymie.v": [
+        "Thwarting"
+    ],
+    "way.n": [
+        "Self_motion",
+        "Roadways",
+        "Possibilities",
+        "Means"
+    ],
+    "obstruction_act.n": [
+        "Hindering"
+    ],
+    "stop.v": [
+        "Process_stop",
+        "Preventing",
+        "Activity_stop",
+        "Thwarting",
+        "Halt"
+    ],
+    "see.v": [
+        "Perception_experience",
+        "Grasp",
+        "Causation",
+        "Categorization",
+        "Touring",
+        "Reference_text"
+    ],
+    "believe.v": [
+        "Awareness",
+        "Religious_belief",
+        "Certainty",
+        "Trust"
+    ],
+    "issue.v": [
+        "Creating",
+        "Emanating"
+    ],
+    "feel.v": [
+        "Feeling",
+        "Perception_active",
+        "Opinion",
+        "Perception_experience"
+    ],
+    "indictment.n": [
+        "Notification_of_charges"
+    ],
+    "former.a": [
+        "Time_vector"
+    ],
+    "broad.a": [
+        "Dimension"
+    ],
+    "1000.num": [
+        "Cardinal_numbers"
+    ],
+    "good.a": [
+        "Desirability",
+        "Usefulness",
+        "Expertise",
+        "Morality_evaluation"
+    ],
+    "two.num": [
+        "Cardinal_numbers"
+    ],
+    "over.prep": [
+        "Relational_quantity",
+        "Locative_relation"
+    ],
+    "lose.v": [
+        "Earnings_and_losses",
+        "Finish_competition"
+    ],
+    "fifteen.num": [
+        "Cardinal_numbers"
+    ],
+    "wound.v": [
+        "Cause_harm"
+    ],
+    "seriously.adv": [
+        "Importance"
+    ],
+    "million.num": [
+        "Cardinal_numbers"
+    ],
+    "month.n": [
+        "Measure_duration",
+        "Calendric_unit"
+    ],
+    "end.n": [
+        "Temporal_subregion",
+        "Process_end"
+    ],
+    "more.a": [
+        "Increment"
+    ],
+    "hard.a": [
+        "Difficulty"
+    ],
+    "ask.v": [
+        "Questioning",
+        "Request"
+    ],
+    "complete.v": [
+        "Activity_finish"
+    ],
+    "insist.v": [
+        "Statement"
+    ],
+    "court.n": [
+        "Judicial_body"
+    ],
+    "signal.v": [
+        "Communication",
+        "Gesture"
+    ],
+    "ready.a": [
+        "Activity_ready_state"
+    ],
+    "battle.n": [
+        "Hostile_encounter"
+    ],
+    "may.v": [
+        "Likelihood"
+    ],
+    "seem.v": [
+        "Appearance"
+    ],
+    "want.v": [
+        "Desiring"
+    ],
+    "pick.n": [
+        "Choosing"
+    ],
+    "move.n": [
+        "Intentionally_act"
+    ],
+    "event.n": [
+        "Event"
+    ],
+    "nasty.a": [
+        "Desirability"
+    ],
+    "look.v": [
+        "Perception_active",
+        "Appearance",
+        "Seeking",
+        "Scrutiny"
+    ],
+    "might.v": [
+        "Likelihood"
+    ],
+    "election.n": [
+        "Change_of_leadership"
+    ],
+    "think.v": [
+        "Awareness",
+        "Opinion",
+        "Cogitation"
+    ],
+    "many.a": [
+        "Quantity"
+    ],
+    "likely.a": [
+        "Likelihood"
+    ],
+    "debate.n": [
+        "Discussion"
+    ],
+    "a lot.n": [
+        "Quantity"
+    ],
+    "concerned.a": [
+        "Emotion_directed"
+    ],
+    "attention.n": [
+        "Attention"
+    ],
+    "flu.n": [
+        "Medical_conditions"
+    ],
+    "hear.v": [
+        "Perception_experience",
+        "Hear"
+    ],
+    "deadly.a": [
+        "Killing"
+    ],
+    "form.n": [
+        "Type"
+    ],
+    "south.a": [
+        "Part_orientational"
+    ],
+    "already.adv": [
+        "Time_vector"
+    ],
+    "one.num": [
+        "Cardinal_numbers"
+    ],
+    "billion.num": [
+        "Cardinal_numbers"
+    ],
+    "possible.a": [
+        "Likelihood"
+    ],
+    "prepare.v": [
+        "Cooking_creation",
+        "Activity_prepare"
+    ],
+    "plan.n": [
+        "Purpose",
+        "Project"
+    ],
+    "seven.num": [
+        "Cardinal_numbers"
+    ],
+    "stockpile.v": [
+        "Amassing"
+    ],
+    "money.n": [
+        "Money"
+    ],
+    "much.art": [
+        "Relational_quantity"
+    ],
+    "twenty.num": [
+        "Cardinal_numbers"
+    ],
+    "protect.v": [
+        "Protecting"
+    ],
+    "first.a": [
+        "Ordinal_numbers"
+    ],
+    "worker.n": [
+        "Employing"
+    ],
+    "prevent.v": [
+        "Thwarting",
+        "Preventing"
+    ],
+    "buy.v": [
+        "Commerce_buy"
+    ],
+    "production.n": [
+        "Creating",
+        "Intentionally_create",
+        "Manufacturing"
+    ],
+    "some.art": [
+        "Relational_quantity"
+    ],
+    "senior.a": [
+        "Subordinates_and_superiors"
+    ],
+    "south.n": [
+        "Direction",
+        "Part_orientational"
+    ],
+    "at least.adv": [
+        "Relational_quantity"
+    ],
+    "where.adv": [
+        "Locative_relation"
+    ],
+    "past.a": [
+        "Relative_time"
+    ],
+    "kill.v": [
+        "Killing"
+    ],
+    "year.n": [
+        "Measure_duration",
+        "Calendric_unit"
+    ],
+    "strike.v": [
+        "Cause_harm",
+        "Attack",
+        "Impact"
+    ],
+    "about.prep": [
+        "Relational_quantity",
+        "Topic"
+    ],
+    "half.n": [
+        "Part_whole"
+    ],
+    "millions.n": [
+        "Quantity"
+    ],
+    "hundreds.n": [
+        "Quantity"
+    ],
+    "around.prep": [
+        "Locative_relation",
+        "Relational_quantity"
+    ],
+    "destroy.v": [
+        "Killing",
+        "Destroying"
+    ],
+    "try.v": [
+        "Attempt",
+        "Try_defendant"
+    ],
+    "disease.n": [
+        "Medical_conditions"
+    ],
+    "hospital.n": [
+        "Buildings"
+    ],
+    "university.n": [
+        "Locale_by_use"
+    ],
+    "doctor.n": [
+        "Medical_professionals"
+    ],
+    "always.adv": [
+        "Frequency"
+    ],
+    "study.v": [
+        "Education_teaching",
+        "Scrutiny"
+    ],
+    "know.v": [
+        "Awareness",
+        "Familiarity"
+    ],
+    "estimation.n": [
+        "Estimated_value"
+    ],
+    "interesting.a": [
+        "Stimulus_focus",
+        "Mental_stimulus_stimulus_focus"
+    ],
+    "all.a": [
+        "Quantity"
+    ],
+    "hand.n": [
+        "Observable_body_parts"
+    ],
+    "exist.v": [
+        "Existence"
+    ],
+    "talk.v": [
+        "Statement",
+        "Chatting"
+    ],
+    "health.n": [
+        "Medical_conditions"
+    ],
+    "citizen.n": [
+        "People_by_jurisdiction"
+    ],
+    "community.n": [
+        "Aggregate"
+    ],
+    "system.n": [
+        "Gizmo",
+        "System"
+    ],
+    "happen.v": [
+        "Eventive_affecting",
+        "Event",
+        "Coincidence"
+    ],
+    "probably.adv": [
+        "Likelihood"
+    ],
+    "can.v": [
+        "Possibility",
+        "Likelihood",
+        "Capability"
+    ],
+    "cluster.n": [
+        "Aggregate"
+    ],
+    "local.a": [
+        "Political_locales"
+    ],
+    "do.v": [
+        "Intentionally_act",
+        "Intentionally_affect"
+    ],
+    "outline.v": [
+        "Summarizing"
+    ],
+    "able.a": [
+        "Capability"
+    ],
+    "official.n": [
+        "Leadership"
+    ],
+    "when.adv": [
+        "Temporal_collocation"
+    ],
+    "federal.a": [
+        "Political_locales"
+    ],
+    "talk_(to).v": [
+        "Discussion"
+    ],
+    "state.n": [
+        "Political_locales",
+        "State_of_entity"
+    ],
+    "ill.a": [
+        "Medical_conditions"
+    ],
+    "important.a": [
+        "Importance"
+    ],
+    "cost.v": [
+        "Expensiveness"
+    ],
+    "come.v": [
+        "Arriving"
+    ],
+    "capacity.n": [
+        "Capability"
+    ],
+    "room.n": [
+        "Building_subparts"
+    ],
+    "full.a": [
+        "Abounding_with",
+        "Fullness",
+        "Completeness"
+    ],
+    "have.v": [
+        "Possession",
+        "Inclusion",
+        "Have_associated"
+    ],
+    "create.v": [
+        "Creating",
+        "Cause_to_start",
+        "Intentionally_create"
+    ],
+    "effective.a": [
+        "Being_in_effect",
+        "Usefulness"
+    ],
+    "strain.n": [
+        "Type"
+    ],
+    "design.v": [
+        "Coming_up_with"
+    ],
+    "impact.n": [
+        "Objective_influence"
+    ],
+    "shorten.v": [
+        "Change_event_duration"
+    ],
+    "laboratory.n": [
+        "Locale_by_use"
+    ],
+    "study.n": [
+        "Scrutiny"
+    ],
+    "obvious.a": [
+        "Obviousness"
+    ],
+    "work.v": [
+        "Working_on",
+        "Usefulness",
+        "Being_employed",
+        "Being_operational"
+    ],
+    "thanks.n": [
+        "Judgment_direct_address"
+    ],
+    "cold.n": [
+        "Medical_conditions"
+    ],
+    "hour.n": [
+        "Measure_duration",
+        "Calendric_unit"
+    ],
+    "ride.n": [
+        "Ride_vehicle"
+    ],
+    "plane.n": [
+        "Vehicle"
+    ],
+    "assure.v": [
+        "Telling"
+    ],
+    "soup.n": [
+        "Food"
+    ],
+    "chicken.n": [
+        "Food"
+    ],
+    "right.a": [
+        "Correctness",
+        "Morality_evaluation"
+    ],
+    "order.v": [
+        "Sentencing",
+        "Request"
+    ],
+    "call.n": [
+        "Contacting",
+        "Visiting"
+    ],
+    "free.a": [
+        "Expensiveness"
+    ],
+    "night.n": [
+        "Calendric_unit"
+    ],
+    "develop.v": [
+        "Coming_to_be",
+        "Cause_to_make_progress",
+        "Progress"
+    ],
+    "biological.a": [
+        "Weapon"
+    ],
+    "circle.n": [
+        "Shapes",
+        "Aggregate"
+    ],
+    "secretly.adv": [
+        "Secrecy_status"
+    ],
+    "program.n": [
+        "Project"
+    ],
+    "bw.n": [
+        "Hostile_encounter"
+    ],
+    "since.adv": [
+        "Time_vector"
+    ],
+    "claim.v": [
+        "Statement",
+        "Claim_ownership"
+    ],
+    "agent.n": [
+        "Active_substance",
+        "People_by_vocation"
+    ],
+    "weapon.n": [
+        "Weapon"
+    ],
+    "stock.n": [
+        "Store"
+    ],
+    "hold.v": [
+        "Inhibit_movement",
+        "Defend",
+        "Containing"
+    ],
+    "decry.v": [
+        "Judgment_communication"
+    ],
+    "ratify.v": [
+        "Ratification"
+    ],
+    "infrastructure.n": [
+        "Infrastructure"
+    ],
+    "sophisticated.a": [
+        "Stage_of_progress"
+    ],
+    "biotechnology.n": [
+        "Artifact"
+    ],
+    "leading.a": [
+        "First_rank"
+    ],
+    "personnel.n": [
+        "Employing"
+    ],
+    "include.v": [
+        "Inclusion"
+    ],
+    "facility.n": [
+        "Locale_by_use"
+    ],
+    "train.v": [
+        "Education_teaching"
+    ],
+    "expert.n": [
+        "Expertise"
+    ],
+    "exchange.n": [
+        "Exchange",
+        "Discussion"
+    ],
+    "participate.v": [
+        "Participation"
+    ],
+    "foreign.a": [
+        "Foreign_or_domestic_country"
+    ],
+    "acquire.v": [
+        "Getting"
+    ],
+    "interest.n": [
+        "Emotion_directed"
+    ],
+    "source.n": [
+        "Source_of_getting",
+        "Attributed_information"
+    ],
+    "equip.v": [
+        "Supply"
+    ],
+    "use.n": [
+        "Possibilities",
+        "Purpose",
+        "Using"
+    ],
+    "publicly.adv": [
+        "Secrecy_status"
+    ],
+    "state.v": [
+        "Statement"
+    ],
+    "iranian.a": [
+        "Origin"
+    ],
+    "produce.v": [
+        "Creating",
+        "Intentionally_create",
+        "Manufacturing"
+    ],
+    "dutch.a": [
+        "Origin"
+    ],
+    "scientist.n": [
+        "People_by_vocation"
+    ],
+    "canadian.a": [
+        "Origin"
+    ],
+    "use.v": [
+        "Using"
+    ],
+    "acquisition_((act)).n": [
+        "Getting"
+    ],
+    "difficult.a": [
+        "Difficulty"
+    ],
+    "concealed.a": [
+        "Secrecy_status"
+    ],
+    "development.n": [
+        "Cause_to_make_progress",
+        "Event",
+        "Progress"
+    ],
+    "country.n": [
+        "Political_locales"
+    ],
+    "dual.a": [
+        "Cardinal_numbers"
+    ],
+    "import.v": [
+        "Import_export",
+        "Importing"
+    ],
+    "first.adv": [
+        "First_experience"
+    ],
+    "potential.n": [
+        "Capability"
+    ],
+    "illicit.a": [
+        "Legality"
+    ],
+    "purpose.n": [
+        "Purpose"
+    ],
+    "industry.n": [
+        "Fields"
+    ],
+    "grow.v": [
+        "Change_position_on_a_scale",
+        "Expansion"
+    ],
+    "regional.a": [
+        "Locale"
+    ],
+    "including.prep": [
+        "Inclusion"
+    ],
+    "establish.v": [
+        "Intentionally_create"
+    ],
+    "BW.n": [
+        "Weapon"
+    ],
+    "reason.n": [
+        "Reason",
+        "Causation"
+    ],
+    "possess.v": [
+        "Possession"
+    ],
+    "approval.n": [
+        "Grant_permission"
+    ],
+    "set up.v": [
+        "Intentionally_create"
+    ],
+    "assist.v": [
+        "Assistance"
+    ],
+    "purchase_((act)).n": [
+        "Commerce_buy"
+    ],
+    "toxicologist.n": [
+        "People_by_vocation"
+    ],
+    "note.v": [
+        "Statement",
+        "Becoming_aware"
+    ],
+    "doubtful.a": [
+        "Certainty"
+    ],
+    "enough.adv": [
+        "Sufficiency"
+    ],
+    "related.a": [
+        "Cognitive_connection"
+    ],
+    "request.v": [
+        "Request"
+    ],
+    "contend.v": [
+        "Statement"
+    ],
+    "gas mask.n": [
+        "Accoutrements"
+    ],
+    "likely.adv": [
+        "Likelihood"
+    ],
+    "argument.n": [
+        "Reasoning",
+        "Quarreling"
+    ],
+    "component.n": [
+        "Ingredients"
+    ],
+    "allegedly.adv": [
+        "Unattributed_information"
+    ],
+    "technology.n": [
+        "Gizmo",
+        "Artifact"
+    ],
+    "firm.n": [
+        "Businesses"
+    ],
+    "arsenal.n": [
+        "Weapon"
+    ],
+    "hire.v": [
+        "Hiring"
+    ],
+    "allege.v": [
+        "Statement"
+    ],
+    "causative.a": [
+        "Causation"
+    ],
+    "research.v": [
+        "Research"
+    ],
+    "according to.prep": [
+        "Attributed_information"
+    ],
+    "indicate.v": [
+        "Communication",
+        "Evidence"
+    ],
+    "lethal.a": [
+        "Killing"
+    ],
+    "research.n": [
+        "Research"
+    ],
+    "open.a": [
+        "Secrecy_status",
+        "Openness"
+    ],
+    "cite.v": [
+        "Judgment_communication",
+        "Adducing"
+    ],
+    "associated.a": [
+        "Cognitive_connection",
+        "Membership"
+    ],
+    "section.n": [
+        "Part_whole"
+    ],
+    "delivery.n": [
+        "Delivery"
+    ],
+    "deliver.v": [
+        "Delivery"
+    ],
+    "capability.n": [
+        "Capability"
+    ],
+    "disperse.v": [
+        "Dispersal"
+    ],
+    "bomb.n": [
+        "Weapon"
+    ],
+    "warhead.n": [
+        "Weapon"
+    ],
+    "reportedly.adv": [
+        "Unattributed_information"
+    ],
+    "carry.v": [
+        "Carry_goods",
+        "Bringing"
+    ],
+    "capable.a": [
+        "Capability"
+    ],
+    "evidence.n": [
+        "Evidence"
+    ],
+    "defense.n": [
+        "Defend"
+    ],
+    "exercise.n": [
+        "Practice"
+    ],
+    "chemical.a": [
+        "Weapon"
+    ],
+    "military.n": [
+        "Military"
+    ],
+    "variety.n": [
+        "Diversity",
+        "Type",
+        "Aggregate"
+    ],
+    "human.n": [
+        "People"
+    ],
+    "manufacture.n": [
+        "Manufacturing"
+    ],
+    "organization.n": [
+        "Organization"
+    ],
+    "individual.n": [
+        "People"
+    ],
+    "called.a": [
+        "Being_named"
+    ],
+    "member.n": [
+        "Membership"
+    ],
+    "regarding.prep": [
+        "Topic"
+    ],
+    "verify.v": [
+        "Verification",
+        "Evidence"
+    ],
+    "remain.v": [
+        "State_continue",
+        "Remainder",
+        "Left_to_do",
+        "Existence"
+    ],
+    "government.n": [
+        "Organization",
+        "Leadership"
+    ],
+    "group.n": [
+        "Organization",
+        "Aggregate"
+    ],
+    "accusation.n": [
+        "Judgment_communication"
+    ],
+    "claim.n": [
+        "Statement",
+        "Claim_ownership"
+    ],
+    "writings.n": [
+        "Text"
+    ],
+    "attempt.n": [
+        "Attempt"
+    ],
+    "purchase.v": [
+        "Commerce_buy"
+    ],
+    "covert.a": [
+        "Secrecy_status"
+    ],
+    "application.n": [
+        "Purpose",
+        "Using"
+    ],
+    "utility.n": [
+        "Usefulness"
+    ],
+    "tobacco.n": [
+        "Intoxicants"
+    ],
+    "field.n": [
+        "Locale_by_use",
+        "Fields"
+    ],
+    "ailment.n": [
+        "Medical_conditions"
+    ],
+    "location.n": [
+        "Locale"
+    ],
+    "effort.n": [
+        "Attempt"
+    ],
+    "inspection.n": [
+        "Inspecting"
+    ],
+    "take place.v": [
+        "Event"
+    ],
+    "jeopardise.v": [
+        "Endangering"
+    ],
+    "activity.n": [
+        "Intentionally_act"
+    ],
+    "show.v": [
+        "Reasoning",
+        "Evidence"
+    ],
+    "information.n": [
+        "Information"
+    ],
+    "proof.n": [
+        "Evidence"
+    ],
+    "disprove.v": [
+        "Evidence"
+    ],
+    "material.n": [
+        "Text",
+        "Ingredients",
+        "Substance"
+    ],
+    "front.n": [
+        "Part_orientational",
+        "Front_for"
+    ],
+    "similar.a": [
+        "Similarity"
+    ],
+    "carry out.v": [
+        "Intentionally_act"
+    ],
+    "legitimate.a": [
+        "Legality"
+    ],
+    "advanced.a": [
+        "Stage_of_progress"
+    ],
+    "weaponization.n": [
+        "Processing_materials"
+    ],
+    "weaponize.v": [
+        "Processing_materials"
+    ],
+    "indication.n": [
+        "Sign"
+    ],
+    "unlikely.a": [
+        "Likelihood"
+    ],
+    "problem.n": [
+        "Predicament"
+    ],
+    "world.n": [
+        "Political_locales"
+    ],
+    "primary.a": [
+        "First_rank"
+    ],
+    "manufacture.v": [
+        "Manufacturing"
+    ],
+    "effect.n": [
+        "Objective_influence"
+    ],
+    "investigate.v": [
+        "Research",
+        "Scrutiny"
+    ],
+    "spray.v": [
+        "Cause_fluidic_motion"
+    ],
+    "crop.n": [
+        "Aggregate"
+    ],
+    "new.a": [
+        "Familiarity",
+        "Age"
+    ],
+    "formulate.v": [
+        "Coming_up_with"
+    ],
+    "disseminate.v": [
+        "Dispersal"
+    ],
+    "threat.n": [
+        "Risky_situation",
+        "Commitment"
+    ],
+    "reduce.v": [
+        "Cause_change_of_position_on_a_scale"
+    ],
+    "desire.v": [
+        "Desiring"
+    ],
+    "apply.v": [
+        "Using"
+    ],
+    "third.a": [
+        "Ordinal_numbers"
+    ],
+    "affect.v": [
+        "Objective_influence"
+    ],
+    "human_being.n": [
+        "People"
+    ],
+    "kind.n": [
+        "Type"
+    ],
+    "experience.n": [
+        "Perception_experience",
+        "Expertise"
+    ],
+    "equipment.n": [
+        "Gizmo",
+        "Supply"
+    ],
+    "undertake.v": [
+        "Attempt"
+    ],
+    "expertise.n": [
+        "Expertise"
+    ],
+    "biological weapon.n": [
+        "Weapon"
+    ],
+    "increase.v": [
+        "Cause_change_of_position_on_a_scale",
+        "Change_position_on_a_scale"
+    ],
+    "utilise.v": [
+        "Using"
+    ],
+    "evident.a": [
+        "Obviousness"
+    ],
+    "discuss.v": [
+        "Topic",
+        "Speak_on_topic",
+        "Discussion"
+    ],
+    "useful.a": [
+        "Usefulness"
+    ],
+    "unclear.a": [
+        "Obviousness"
+    ],
+    "proceed.v": [
+        "Process_continue",
+        "Activity_ongoing"
+    ],
+    "scrutiny.n": [
+        "Scrutiny"
+    ],
+    "like.prep": [
+        "Similarity"
+    ],
+    "distribute.v": [
+        "Dispersal"
+    ],
+    "name.n": [
+        "Being_named"
+    ],
+    "student.n": [
+        "Education_teaching"
+    ],
+    "town.n": [
+        "Political_locales"
+    ],
+    "center.n": [
+        "Locale_by_use"
+    ],
+    "located.a": [
+        "Being_located"
+    ],
+    "complex.n": [
+        "Locale_by_use",
+        "System"
+    ],
+    "associate.n": [
+        "Collaboration"
+    ],
+    "employ.v": [
+        "Employing",
+        "Using"
+    ],
+    "employee.n": [
+        "Employing"
+    ],
+    "teacher.n": [
+        "Education_teaching"
+    ],
+    "link.n": [
+        "Connectors",
+        "Make_cognitive_connection"
+    ],
+    "establishment.n": [
+        "Businesses",
+        "Intentionally_create"
+    ],
+    "expansion.n": [
+        "Cause_expansion",
+        "Expansion"
+    ],
+    "revolution.n": [
+        "Change_of_leadership"
+    ],
+    "found.v": [
+        "Intentionally_create"
+    ],
+    "undergo.v": [
+        "Undergoing"
+    ],
+    "rehabilitation.n": [
+        "Cure"
+    ],
+    "traditional.a": [
+        "Custom"
+    ],
+    "treatment.n": [
+        "Cure"
+    ],
+    "synthesis.n": [
+        "Intentionally_create"
+    ],
+    "large.a": [
+        "Dimension",
+        "Size"
+    ],
+    "process.v": [
+        "Processing_materials"
+    ],
+    "modification.n": [
+        "Cause_change"
+    ],
+    "render.v": [
+        "Causation"
+    ],
+    "biocompatible.a": [
+        "Compatibility"
+    ],
+    "objective.n": [
+        "Purpose"
+    ],
+    "modify.v": [
+        "Cause_change"
+    ],
+    "design.n": [
+        "Coming_up_with"
+    ],
+    "emphasis.n": [
+        "Place_weight_on"
+    ],
+    "relationship.n": [
+        "Cognitive_connection"
+    ],
+    "appear.v": [
+        "Coming_to_be",
+        "Appearance"
+    ],
+    "report.v": [
+        "Reporting",
+        "Statement"
+    ],
+    "cooperation.n": [
+        "Collaboration"
+    ],
+    "call.v": [
+        "Referring_by_name",
+        "Labeling",
+        "Contacting",
+        "Simple_naming",
+        "Deserving",
+        "Being_named",
+        "Request"
+    ],
+    "professor.n": [
+        "Education_teaching"
+    ],
+    "sign.v": [
+        "Text_creation",
+        "Sign_agreement"
+    ],
+    "agreement.n": [
+        "Make_agreement_on_action",
+        "Be_in_agreement_on_action",
+        "Documents"
+    ],
+    "formation.n": [
+        "Creating"
+    ],
+    "muslim.n": [
+        "People_by_religion"
+    ],
+    "herald.v": [
+        "Omen",
+        "Heralding"
+    ],
+    "against.prep": [
+        "Locative_relation",
+        "Taking_sides"
+    ],
+    "uprising.n": [
+        "Change_of_leadership"
+    ],
+    "destruction.n": [
+        "Destroying"
+    ],
+    "aim.n": [
+        "Purpose"
+    ],
+    "mean.v": [
+        "Linguistic_meaning",
+        "Causation",
+        "Evidence",
+        "Purpose"
+    ],
+    "because.c": [
+        "Causation"
+    ],
+    "beginning.n": [
+        "Temporal_subregion"
+    ],
+    "influence.v": [
+        "Subjective_influence",
+        "Objective_influence"
+    ],
+    "demand.n": [
+        "Request"
+    ],
+    "become.v": [
+        "Becoming"
+    ],
+    "bombing.n": [
+        "Attack"
+    ],
+    "terrorist.n": [
+        "Terrorism"
+    ],
+    "work.n": [
+        "Working_on",
+        "Being_employed"
+    ],
+    "authority.n": [
+        "Leadership"
+    ],
+    "provide.v": [
+        "Supply"
+    ],
+    "by.prep": [
+        "Locative_relation",
+        "Means"
+    ],
+    "influence.n": [
+        "Subjective_influence",
+        "Objective_influence"
+    ],
+    "service.n": [
+        "Public_services",
+        "Rite"
+    ],
+    "corrupt.a": [
+        "Morality_evaluation"
+    ],
+    "person.n": [
+        "People"
+    ],
+    "street.n": [
+        "Roadways"
+    ],
+    "funds.n": [
+        "Money"
+    ],
+    "needy.a": [
+        "Wealthiness"
+    ],
+    "process.n": [
+        "Process",
+        "Means"
+    ],
+    "attempt.v": [
+        "Attempt"
+    ],
+    "terrorism.n": [
+        "Terrorism"
+    ],
+    "skeptical.a": [
+        "Certainty"
+    ],
+    "ability.n": [
+        "Capability"
+    ],
+    "tell.v": [
+        "Request",
+        "Telling"
+    ],
+    "conclude.v": [
+        "Process_end",
+        "Activity_finish",
+        "Coming_to_believe"
+    ],
+    "impress.v": [
+        "Experiencer_obj"
+    ],
+    "settler.n": [
+        "Colonization"
+    ],
+    "must.v": [
+        "Being_obligated",
+        "Required_event"
+    ],
+    "armed.a": [
+        "Bearing_arms"
+    ],
+    "end.v": [
+        "Process_end",
+        "Cause_to_end"
+    ],
+    "means.n": [
+        "Means"
+    ],
+    "quest.n": [
+        "Attempt"
+    ],
+    "army.n": [
+        "Military"
+    ],
+    "reject.v": [
+        "Respond_to_proposal"
+    ],
+    "continue.v": [
+        "Process_continue",
+        "Activity_ongoing"
+    ],
+    "retaliate.v": [
+        "Revenge"
+    ],
+    "miss.v": [
+        "Hit_or_miss",
+        "Success_or_failure"
+    ],
+    "assassinate.v": [
+        "Killing"
+    ],
+    "assassination.n": [
+        "Killing"
+    ],
+    "death.n": [
+        "Death"
+    ],
+    "same.a": [
+        "Identicality"
+    ],
+    "second.a": [
+        "Ordinal_numbers"
+    ],
+    "begin.v": [
+        "Process_start",
+        "Activity_start"
+    ],
+    "have to.v": [
+        "Being_obligated",
+        "Required_event"
+    ],
+    "hope.n": [
+        "Desiring"
+    ],
+    "give.v": [
+        "Giving"
+    ],
+    "give_out.v": [
+        "Giving"
+    ],
+    "require.v": [
+        "Imposing_obligation",
+        "Have_as_requirement",
+        "Needing"
+    ],
+    "fight.v": [
+        "Hostile_encounter"
+    ],
+    "only.a": [
+        "Sole_instance"
+    ],
+    "chance.n": [
+        "Daring",
+        "Likelihood"
+    ],
+    "command.n": [
+        "Leadership"
+    ],
+    "nuclear weapon.n": [
+        "Weapon"
+    ],
+    "necessary.a": [
+        "Being_necessary"
+    ],
+    "revelation.n": [
+        "Reveal_secret"
+    ],
+    "reaction.n": [
+        "Response"
+    ],
+    "restart.v": [
+        "Cause_to_resume"
+    ],
+    "missile.n": [
+        "Weapon"
+    ],
+    "supply.n": [
+        "Supply",
+        "Store"
+    ],
+    "key.a": [
+        "Importance"
+    ],
+    "build.v": [
+        "Building"
+    ],
+    "agree.v": [
+        "Make_agreement_on_action",
+        "Agree_or_refuse_to_act",
+        "Be_in_agreement_on_assessment"
+    ],
+    "reactor.n": [
+        "Locale_by_use"
+    ],
+    "critical.a": [
+        "Importance",
+        "Judgment"
+    ],
+    "assistance.n": [
+        "Assistance"
+    ],
+    "seek.v": [
+        "Seeking_to_achieve",
+        "Seeking"
+    ],
+    "chemical weapon.n": [
+        "Weapon"
+    ],
+    "quantity.n": [
+        "Quantity"
+    ],
+    "ballistic missile.n": [
+        "Weapon"
+    ],
+    "help.n": [
+        "Assistance"
+    ],
+    "range.n": [
+        "Diversity",
+        "Range"
+    ],
+    "kilometer.n": [
+        "Measure_linear_extent"
+    ],
+    "launch.v": [
+        "Shoot_projectiles",
+        "Getting_vehicle_underway",
+        "Launch_process"
+    ],
+    "steal.v": [
+        "Theft"
+    ],
+    "depend.v": [
+        "Reliance",
+        "Contingency"
+    ],
+    "enriched.a": [
+        "Degree_of_processing"
+    ],
+    "uranium.n": [
+        "Substance"
+    ],
+    "negotiate.v": [
+        "Discussion"
+    ],
+    "needed.a": [
+        "Being_necessary"
+    ],
+    "fashion.v": [
+        "Building"
+    ],
+    "allow.v": [
+        "Permitting",
+        "Grant_permission"
+    ],
+    "respond.v": [
+        "Response",
+        "Communication_response"
+    ],
+    "discovery.n": [
+        "Becoming_aware"
+    ],
+    "high.a": [
+        "Dimension",
+        "Measurable_attributes",
+        "Position_on_a_scale"
+    ],
+    "chemical.n": [
+        "Substance"
+    ],
+    "obligated.a": [
+        "Being_obligated"
+    ],
+    "eliminate.v": [
+        "Killing",
+        "Removing"
+    ],
+    "another.a": [
+        "Increment"
+    ],
+    "conflict.n": [
+        "Hostile_encounter"
+    ],
+    "region.n": [
+        "Locale"
+    ],
+    "supplier.n": [
+        "Supply"
+    ],
+    "goal.n": [
+        "Purpose"
+    ],
+    "enrichment.n": [
+        "Processing_materials"
+    ],
+    "gas.n": [
+        "Substance"
+    ],
+    "visit.v": [
+        "Arriving",
+        "Visiting"
+    ],
+    "plant.n": [
+        "Locale_by_use"
+    ],
+    "team.n": [
+        "Aggregate"
+    ],
+    "learn.v": [
+        "Education_teaching",
+        "Becoming_aware",
+        "Coming_to_believe"
+    ],
+    "centrifuge.n": [
+        "Gizmo"
+    ],
+    "visit.n": [
+        "Arriving",
+        "Visiting"
+    ],
+    "place.v": [
+        "Placing"
+    ],
+    "examine.v": [
+        "Inspecting",
+        "Scrutiny"
+    ],
+    "obligation.n": [
+        "Being_obligated"
+    ],
+    "violate.v": [
+        "Compliance"
+    ],
+    "construction.n": [
+        "Building"
+    ],
+    "inform.v": [
+        "Reporting",
+        "Telling"
+    ],
+    "test.v": [
+        "Examination",
+        "Operational_testing"
+    ],
+    "occur.v": [
+        "Event"
+    ],
+    "violation.n": [
+        "Compliance"
+    ],
+    "weaponry.n": [
+        "Weapon"
+    ],
+    "maintain.v": [
+        "Statement",
+        "Activity_ongoing"
+    ],
+    "deny.v": [
+        "Statement"
+    ],
+    "linked.a": [
+        "Cognitive_connection"
+    ],
+    "start.v": [
+        "Activity_start",
+        "Process_start"
+    ],
+    "possibly.adv": [
+        "Likelihood"
+    ],
+    "concerning.prep": [
+        "Topic"
+    ],
+    "article.n": [
+        "Text"
+    ],
+    "confirm.v": [
+        "Verification",
+        "Statement",
+        "Evidence"
+    ],
+    "intend.v": [
+        "Purpose"
+    ],
+    "signatory.n": [
+        "Sign_agreement"
+    ],
+    "suspect.v": [
+        "Suspicion",
+        "Awareness"
+    ],
+    "site.n": [
+        "Locale_by_use",
+        "Locale"
+    ],
+    "monitor.v": [
+        "Scrutiny"
+    ],
+    "identify.v": [
+        "Verification",
+        "Categorization"
+    ],
+    "leave.v": [
+        "Quitting",
+        "Departing",
+        "Causation",
+        "Giving"
+    ],
+    "enrich.v": [
+        "Processing_materials"
+    ],
+    "power_((rule)).n": [
+        "Leadership"
+    ],
+    "resume.v": [
+        "Activity_resume",
+        "Process_resume"
+    ],
+    "familiar.a": [
+        "Expertise",
+        "Familiarity"
+    ],
+    "manufacturing.n": [
+        "Manufacturing"
+    ],
+    "flee.v": [
+        "Fleeing"
+    ],
+    "return.v": [
+        "Arriving"
+    ],
+    "supply.v": [
+        "Supply"
+    ],
+    "sell.v": [
+        "Commerce_sell"
+    ],
+    "accept.v": [
+        "Receiving",
+        "Respond_to_proposal"
+    ],
+    "pay.v": [
+        "Commerce_pay"
+    ],
+    "ownership.n": [
+        "Possession"
+    ],
+    "late.a": [
+        "Temporal_subregion"
+    ],
+    "transfer.n": [
+        "Transfer"
+    ],
+    "refrain.v": [
+        "Forgoing"
+    ],
+    "urge.v": [
+        "Request",
+        "Attempt_suasion"
+    ],
+    "deal.n": [
+        "Make_agreement_on_action",
+        "Be_in_agreement_on_action"
+    ],
+    "procure.v": [
+        "Getting"
+    ],
+    "help.v": [
+        "Assistance"
+    ],
+    "support.v": [
+        "Supporting",
+        "Taking_sides"
+    ],
+    "receive.v": [
+        "Receiving"
+    ],
+    "export.v": [
+        "Exporting",
+        "Import_export"
+    ],
+    "lift.v": [
+        "Cause_to_end"
+    ],
+    "intention.n": [
+        "Purpose"
+    ],
+    "training.n": [
+        "Education_teaching"
+    ],
+    "contract.n": [
+        "Documents"
+    ],
+    "propose.v": [
+        "Statement"
+    ],
+    "project.n": [
+        "Project"
+    ],
+    "request.n": [
+        "Request"
+    ],
+    "transfer.v": [
+        "Transfer"
+    ],
+    "interested.a": [
+        "Experiencer_focus",
+        "Desiring"
+    ],
+    "talk.n": [
+        "Discussion"
+    ],
+    "halt.v": [
+        "Activity_stop"
+    ],
+    "subsequent.a": [
+        "Relative_time"
+    ],
+    "negotiation.n": [
+        "Discussion"
+    ],
+    "approve.v": [
+        "Grant_permission"
+    ],
+    "involvement.n": [
+        "Participation"
+    ],
+    "persist.v": [
+        "Process_continue"
+    ],
+    "head.n": [
+        "Observable_body_parts",
+        "Leadership"
+    ],
+    "export_((act)).n": [
+        "Exporting",
+        "Import_export"
+    ],
+    "existence.n": [
+        "Existence"
+    ],
+    "ship.v": [
+        "Sending"
+    ],
+    "fabrication.n": [
+        "Manufacturing"
+    ],
+    "permit.v": [
+        "Grant_permission",
+        "Permitting",
+        "Make_possible_to_do"
+    ],
+    "sale.n": [
+        "Commerce_sell"
+    ],
+    "pressure.n": [
+        "Attempt_suasion"
+    ],
+    "involved.a": [
+        "Participation"
+    ],
+    "oil.n": [
+        "Substance"
+    ],
+    "delay.v": [
+        "Change_event_time",
+        "Hindering"
+    ],
+    "concern.n": [
+        "Point_of_dispute",
+        "Emotion_directed"
+    ],
+    "national.n": [
+        "People_by_jurisdiction"
+    ],
+    "ambition.n": [
+        "Desiring"
+    ],
+    "power_((govt)).n": [
+        "Leadership"
+    ],
+    "journal.n": [
+        "Text"
+    ],
+    "term.v": [
+        "Labeling"
+    ],
+    "express.v": [
+        "Expressing_publicly",
+        "Encoding"
+    ],
+    "dispute.n": [
+        "Quarreling"
+    ],
+    "breach.n": [
+        "Compliance"
+    ],
+    "construct.v": [
+        "Building"
+    ],
+    "declare.v": [
+        "Statement"
+    ],
+    "nuclear.a": [
+        "Bearing_arms",
+        "Weapon"
+    ],
+    "make.v": [
+        "Cooking_creation",
+        "Intentionally_create",
+        "Building",
+        "Causation",
+        "Cause_change",
+        "Self_motion",
+        "Earnings_and_losses",
+        "Manufacturing"
+    ],
+    "need.v": [
+        "Required_event",
+        "Have_as_requirement",
+        "Needing"
+    ],
+    "head.v": [
+        "Self_motion",
+        "Leadership"
+    ],
+    "knowledge.n": [
+        "Awareness"
+    ],
+    "oppose.v": [
+        "Taking_sides"
+    ],
+    "assert.v": [
+        "Statement"
+    ],
+    "consider.v": [
+        "Categorization",
+        "Cogitation"
+    ],
+    "withdraw.v": [
+        "Removing",
+        "Withdraw_from_participation"
+    ],
+    "action.n": [
+        "Intentionally_act"
+    ],
+    "at.prep": [
+        "Locative_relation",
+        "Temporal_collocation"
+    ],
+    "dozens.n": [
+        "Quantity"
+    ],
+    "tool.n": [
+        "Gizmo"
+    ],
+    "arise.v": [
+        "Coming_to_be"
+    ],
+    "number.n": [
+        "Quantity"
+    ],
+    "amount.n": [
+        "Quantity"
+    ],
+    "rich.a": [
+        "Stimulus_focus",
+        "Position_on_a_scale"
+    ],
+    "reliance.n": [
+        "Reliance"
+    ],
+    "importance.n": [
+        "Importance"
+    ],
+    "tie.n": [
+        "Social_connection",
+        "Make_cognitive_connection"
+    ],
+    "maintenance.n": [
+        "Activity_ongoing"
+    ],
+    "subvert.v": [
+        "Subversion"
+    ],
+    "regard.v": [
+        "Regard",
+        "Categorization"
+    ],
+    "fear.v": [
+        "Experiencer_focus"
+    ],
+    "disagreement.n": [
+        "Quarreling"
+    ],
+    "different.a": [
+        "Similarity",
+        "Identicality"
+    ],
+    "cease.v": [
+        "Activity_stop"
+    ],
+    "pledge.v": [
+        "Commitment"
+    ],
+    "contrary.a": [
+        "Compliance"
+    ],
+    "suspend.v": [
+        "Activity_pause"
+    ],
+    "view.v": [
+        "Perception_active",
+        "Categorization"
+    ],
+    "know-how.n": [
+        "Expertise"
+    ],
+    "conversion.n": [
+        "Cause_change"
+    ],
+    "adhere.v": [
+        "Compliance"
+    ],
+    "pledge.n": [
+        "Commitment"
+    ],
+    "reveal.v": [
+        "Reveal_secret",
+        "Evidence"
+    ],
+    "renew.v": [
+        "Activity_resume",
+        "Rejuvenation"
+    ],
+    "weapon of mass destruction.n": [
+        "Weapon"
+    ],
+    "suggest.v": [
+        "Statement",
+        "Evidence"
+    ],
+    "get.v": [
+        "Arriving",
+        "Board_vehicle",
+        "Getting",
+        "Bringing",
+        "Becoming",
+        "Disembarking"
+    ],
+    "freeze.v": [
+        "Activity_pause"
+    ],
+    "exchange.v": [
+        "Exchange"
+    ],
+    "announcement.n": [
+        "Statement"
+    ],
+    "lead_(to).v": [
+        "Causation"
+    ],
+    "aid.v": [
+        "Assistance"
+    ],
+    "obtain.v": [
+        "Getting"
+    ],
+    "prohibit.v": [
+        "Deny_permission"
+    ],
+    "announce.v": [
+        "Statement"
+    ],
+    "export_((entity)).n": [
+        "Import_export"
+    ],
+    "gain.v": [
+        "Getting",
+        "Change_position_on_a_scale"
+    ],
+    "assurance.n": [
+        "Telling"
+    ],
+    "sufficient.a": [
+        "Sufficiency"
+    ],
+    "statement.n": [
+        "Statement"
+    ],
+    "defend.v": [
+        "Defend",
+        "Justifying"
+    ],
+    "additional.a": [
+        "Increment"
+    ],
+    "sure.a": [
+        "Certainty",
+        "Likelihood"
+    ],
+    "decision.n": [
+        "Deciding"
+    ],
+    "contact.v": [
+        "Contacting"
+    ],
+    "hope.v": [
+        "Desiring"
+    ],
+    "laud.v": [
+        "Judgment_communication"
+    ],
+    "ordinary.a": [
+        "Typicality"
+    ],
+    "assess.v": [
+        "Assessing"
+    ],
+    "lawmaker.n": [
+        "Leadership"
+    ],
+    "sanction.n": [
+        "Revenge"
+    ],
+    "Wednesday.n": [
+        "Calendric_unit"
+    ],
+    "make sure.v": [
+        "Verification"
+    ],
+    "lifting.n": [
+        "Cause_to_end"
+    ],
+    "hurt.v": [
+        "Cause_harm"
+    ],
+    "innocent.a": [
+        "Guilt_or_innocence"
+    ],
+    "rid.v": [
+        "Emptying"
+    ],
+    "economic.a": [
+        "Economy"
+    ],
+    "deal.v": [
+        "Resolve_problem"
+    ],
+    "international.a": [
+        "Political_locales",
+        "Foreign_or_domestic_country"
+    ],
+    "to.prep": [
+        "Locative_relation",
+        "Goal"
+    ],
+    "item.n": [
+        "Entity"
+    ],
+    "into.prep": [
+        "Into",
+        "Goal"
+    ],
+    "food.n": [
+        "Food"
+    ],
+    "recently.adv": [
+        "Temporal_collocation"
+    ],
+    "trip.n": [
+        "Travel"
+    ],
+    "plan.v": [
+        "Purpose"
+    ],
+    "idyllic.a": [
+        "Desirability"
+    ],
+    "island.n": [
+        "Natural_features"
+    ],
+    "top.a": [
+        "Occupy_rank"
+    ],
+    "getaway.n": [
+        "Travel"
+    ],
+    "sunshine.n": [
+        "Weather"
+    ],
+    "warm.a": [
+        "Ambient_temperature",
+        "Social_interaction_evaluation"
+    ],
+    "guaranteed.a": [
+        "Likelihood"
+    ],
+    "a little.n": [
+        "Quantity"
+    ],
+    "beach.n": [
+        "Natural_features"
+    ],
+    "beautiful.a": [
+        "Aesthetics"
+    ],
+    "hotel.n": [
+        "Buildings"
+    ],
+    "fine.a": [
+        "Desirability"
+    ],
+    "relaxation.n": [
+        "Stimulus_focus"
+    ],
+    "rest.n": [
+        "Stimulus_focus",
+        "Rest"
+    ],
+    "nation.n": [
+        "Political_locales"
+    ],
+    "stereotype.v": [
+        "Categorization"
+    ],
+    "growing.a": [
+        "Change_position_on_a_scale"
+    ],
+    "confidence.n": [
+        "Certainty"
+    ],
+    "mile.n": [
+        "Measure_linear_extent"
+    ],
+    "point.n": [
+        "Locale"
+    ],
+    "length.n": [
+        "Dimension",
+        "Shapes"
+    ],
+    "wide.a": [
+        "Dimension"
+    ],
+    "west.n": [
+        "Direction",
+        "Part_orientational"
+    ],
+    "western.a": [
+        "Part_orientational"
+    ],
+    "tip.n": [
+        "Part_orientational"
+    ],
+    "wake.v": [
+        "Cause_to_wake"
+    ],
+    "caress.v": [
+        "Manipulation"
+    ],
+    "kiss.v": [
+        "Manipulation"
+    ],
+    "eastern.a": [
+        "Part_orientational"
+    ],
+    "east.n": [
+        "Direction"
+    ],
+    "diverse.a": [
+        "Diversity"
+    ],
+    "geographically.adv": [
+        "Domain"
+    ],
+    "blanketed.a": [
+        "Abounding_with"
+    ],
+    "mountain.n": [
+        "Quantity",
+        "Natural_features"
+    ],
+    "hill.n": [
+        "Natural_features"
+    ],
+    "rainforest.n": [
+        "Biological_area"
+    ],
+    "sand.n": [
+        "Substance"
+    ],
+    "cliff.n": [
+        "Natural_features"
+    ],
+    "grassland.n": [
+        "Biological_area"
+    ],
+    "scrub.n": [
+        "Biological_area"
+    ],
+    "area.n": [
+        "Dimension",
+        "Locale",
+        "Fields"
+    ],
+    "waterfall.n": [
+        "Natural_features"
+    ],
+    "river.n": [
+        "Natural_features"
+    ],
+    "storm.n": [
+        "Weather"
+    ],
+    "cascade.n": [
+        "Natural_features",
+        "System"
+    ],
+    "take to the air.v": [
+        "Self_motion"
+    ],
+    "still.adv": [
+        "Continued_state_of_affairs"
+    ],
+    "live.v": [
+        "Residence"
+    ],
+    "swamp.n": [
+        "Biological_area"
+    ],
+    "rare.a": [
+        "Frequency"
+    ],
+    "reef.n": [
+        "Natural_features"
+    ],
+    "wall.n": [
+        "Architectural_part"
+    ],
+    "recreation.n": [
+        "Stimulus_focus"
+    ],
+    "sea.n": [
+        "Natural_features"
+    ],
+    "a few.art": [
+        "Quantity"
+    ],
+    "temperature.n": [
+        "Temperature",
+        "Ambient_temperature"
+    ],
+    "here.adv": [
+        "Locative_relation"
+    ],
+    "vary.v": [
+        "Cause_change",
+        "Similarity"
+    ],
+    "interior.n": [
+        "Part_inner_outer"
+    ],
+    "drop.v": [
+        "Change_position_on_a_scale"
+    ],
+    "coffee.n": [
+        "Food"
+    ],
+    "sugar.n": [
+        "Food"
+    ],
+    "ample.a": [
+        "Sufficiency"
+    ],
+    "vegetable.n": [
+        "Food"
+    ],
+    "fruit.n": [
+        "Food"
+    ],
+    "hundred.num": [
+        "Cardinal_numbers"
+    ],
+    "four.num": [
+        "Cardinal_numbers"
+    ],
+    "ago.prep": [
+        "Time_vector"
+    ],
+    "bring.v": [
+        "Causation",
+        "Bringing"
+    ],
+    "colonist.n": [
+        "Colonization"
+    ],
+    "rule.v": [
+        "Leadership"
+    ],
+    "bitter.a": [
+        "Chemical-sense_description"
+    ],
+    "taste.n": [
+        "Sensation"
+    ],
+    "german.n": [
+        "People_by_origin"
+    ],
+    "jew.n": [
+        "People_by_religion"
+    ],
+    "smattering.n": [
+        "Quantity"
+    ],
+    "population.n": [
+        "Aggregate"
+    ],
+    "give rise.v": [
+        "Causation"
+    ],
+    "fascinating.a": [
+        "Mental_stimulus_stimulus_focus"
+    ],
+    "national.a": [
+        "Political_locales",
+        "Origin"
+    ],
+    "identity.n": [
+        "Identicality"
+    ],
+    "meld.v": [
+        "Cause_to_amalgamate"
+    ],
+    "independence.n": [
+        "Change_of_leadership"
+    ],
+    "future.n": [
+        "Possibilities"
+    ],
+    "so.adv": [
+        "Sufficiency",
+        "Degree"
+    ],
+    "change.v": [
+        "Cause_change",
+        "Replacing",
+        "Exchange",
+        "Undergo_change"
+    ],
+    "esteem.n": [
+        "Regard"
+    ],
+    "route.n": [
+        "Roadways"
+    ],
+    "example.n": [
+        "Instance"
+    ],
+    "find.v": [
+        "Locating",
+        "Becoming_aware",
+        "Verdict",
+        "Coming_to_believe"
+    ],
+    "numerous.a": [
+        "Quantity"
+    ],
+    "parish.n": [
+        "Political_locales"
+    ],
+    "settlement_((entity)).n": [
+        "Colonization"
+    ],
+    "three.num": [
+        "Cardinal_numbers"
+    ],
+    "name.v": [
+        "Name_conferral",
+        "Appointing",
+        "Indicating"
+    ],
+    "day.n": [
+        "Measure_duration",
+        "Calendric_unit"
+    ],
+    "rule.n": [
+        "Leadership"
+    ],
+    "however.adv": [
+        "Concessive"
+    ],
+    "early.a": [
+        "Temporal_subregion",
+        "Temporal_collocation",
+        "Relative_time"
+    ],
+    "from.prep": [
+        "Origin",
+        "Time_vector"
+    ],
+    "often.adv": [
+        "Frequency"
+    ],
+    "function.n": [
+        "Contingency"
+    ],
+    "concern.v": [
+        "Topic"
+    ],
+    "strong.a": [
+        "Being_strong",
+        "Exertive_force"
+    ],
+    "further.a": [
+        "Increment"
+    ],
+    "education.n": [
+        "Education_teaching"
+    ],
+    "business.n": [
+        "Businesses"
+    ],
+    "goods.n": [
+        "Commerce_scenario"
+    ],
+    "surprise.n": [
+        "Experiencer_obj"
+    ],
+    "brother.n": [
+        "Kinship"
+    ],
+    "version.n": [
+        "Type"
+    ],
+    "turn.v": [
+        "Change_direction",
+        "Undergo_change",
+        "Becoming",
+        "Cause_change",
+        "Moving_in_place"
+    ],
+    "music.n": [
+        "Performing_arts"
+    ],
+    "influential.a": [
+        "Subjective_influence"
+    ],
+    "internationally.adv": [
+        "Political_locales"
+    ],
+    "originate.v": [
+        "Origin"
+    ],
+    "mane.n": [
+        "Observable_body_parts"
+    ],
+    "characteristic.a": [
+        "Distinctiveness"
+    ],
+    "enjoy.v": [
+        "Emotions_of_mental_activity",
+        "Experiencer_focus"
+    ],
+    "lively.a": [
+        "Lively_place"
+    ],
+    "young.a": [
+        "Age"
+    ],
+    "lyric.n": [
+        "Text"
+    ],
+    "beat.n": [
+        "Temporal_pattern"
+    ],
+    "sociable.a": [
+        "Sociability"
+    ],
+    "neighbor.n": [
+        "People_by_residence"
+    ],
+    "gossip.n": [
+        "Chatting"
+    ],
+    "latest.a": [
+        "Relative_time"
+    ],
+    "chat.n": [
+        "Chatting"
+    ],
+    "conversation.n": [
+        "Chatting"
+    ],
+    "friendly.a": [
+        "Social_interaction_evaluation",
+        "Sociability"
+    ],
+    "friend.n": [
+        "Personal_relationship"
+    ],
+    "come_(across).v": [
+        "Becoming_aware"
+    ],
+    "discover.v": [
+        "Becoming_aware"
+    ],
+    "very.adv": [
+        "Degree"
+    ],
+    "wave.v": [
+        "Moving_in_place",
+        "Gesture"
+    ],
+    "relation.n": [
+        "Relation"
+    ],
+    "expect.v": [
+        "Expectation"
+    ],
+    "shy.a": [
+        "Sociability"
+    ],
+    "walk.v": [
+        "Self_motion"
+    ],
+    "smile.n": [
+        "Facial_expression"
+    ],
+    "visitor.n": [
+        "Visiting"
+    ],
+    "single.a": [
+        "Sole_instance",
+        "Personal_relationship"
+    ],
+    "prepared.a": [
+        "Activity_ready_state"
+    ],
+    "host.n": [
+        "Aggregate"
+    ],
+    "back.n": [
+        "Observable_body_parts",
+        "Part_orientational"
+    ],
+    "throw.v": [
+        "Cause_motion"
+    ],
+    "appreciative.a": [
+        "Regard"
+    ],
+    "guffaw.n": [
+        "Sounds"
+    ],
+    "induce.v": [
+        "Causation"
+    ],
+    "rhythmic.a": [
+        "Temporal_pattern"
+    ],
+    "sit.v": [
+        "Posture",
+        "Being_located",
+        "Change_posture"
+    ],
+    "take.v": [
+        "Removing",
+        "Ride_vehicle",
+        "Bringing",
+        "Taking_time",
+        "Conquering",
+        "Taking",
+        "Have_as_requirement",
+        "Ingest_substance"
+    ],
+    "marijuana.n": [
+        "Intoxicants"
+    ],
+    "heavily.adv": [
+        "Degree"
+    ],
+    "dance.v": [
+        "Self_motion"
+    ],
+    "chat.v": [
+        "Chatting"
+    ],
+    "herb.n": [
+        "Food"
+    ],
+    "known.a": [
+        "Being_named"
+    ],
+    "describe.v": [
+        "Statement",
+        "Communicate_categorization"
+    ],
+    "worry.v": [
+        "Emotion_active"
+    ],
+    "few.a": [
+        "Quantity"
+    ],
+    "sometimes.adv": [
+        "Frequency"
+    ],
+    "minute.n": [
+        "Measure_duration",
+        "Calendric_unit"
+    ],
+    "popular.a": [
+        "Desirability"
+    ],
+    "task.n": [
+        "Being_obligated"
+    ],
+    "daily.a": [
+        "Frequency"
+    ],
+    "carry on.v": [
+        "Activity_ongoing"
+    ],
+    "alter.v": [
+        "Cause_change"
+    ],
+    "climate.n": [
+        "Weather"
+    ],
+    "aware.a": [
+        "Awareness"
+    ],
+    "occasional.a": [
+        "Frequency"
+    ],
+    "a while.n": [
+        "Measure_duration"
+    ],
+    "wait.v": [
+        "Waiting",
+        "Holding_off_on"
+    ],
+    "bad.a": [
+        "Desirability",
+        "Morality_evaluation"
+    ],
+    "tourism.n": [
+        "Touring"
+    ],
+    "renowned.a": [
+        "Fame"
+    ],
+    "almost.prep": [
+        "Relational_quantity"
+    ],
+    "restaurant.n": [
+        "Locale_by_use"
+    ],
+    "package.n": [
+        "Aggregate"
+    ],
+    "shopping.n": [
+        "Shopping"
+    ],
+    "bar.n": [
+        "Buildings"
+    ],
+    "frequently.adv": [
+        "Frequency"
+    ],
+    "never.adv": [
+        "Frequency"
+    ],
+    "tear.v": [
+        "Removing"
+    ],
+    "sight.n": [
+        "Sensation",
+        "Range"
+    ],
+    "step.v": [
+        "Self_motion"
+    ],
+    "smell.n": [
+        "Sensation"
+    ],
+    "sound.n": [
+        "Sounds",
+        "Sensation"
+    ],
+    "hat.n": [
+        "Accoutrements"
+    ],
+    "man.n": [
+        "People"
+    ],
+    "wear.v": [
+        "Wearing"
+    ],
+    "red.a": [
+        "Color"
+    ],
+    "cover.v": [
+        "Filling",
+        "Adorning",
+        "Topic"
+    ],
+    "sights.n": [
+        "Touring"
+    ],
+    "cook.v": [
+        "Apply_heat"
+    ],
+    "evening.n": [
+        "Calendric_unit"
+    ],
+    "song.n": [
+        "Text"
+    ],
+    "boom.v": [
+        "Make_noise"
+    ],
+    "car.n": [
+        "Vehicle"
+    ],
+    "descend_(on).v": [
+        "Arriving"
+    ],
+    "fathom.v": [
+        "Grasp"
+    ],
+    "try.n": [
+        "Attempt"
+    ],
+    "ritual.n": [
+        "Custom"
+    ],
+    "wonderful.a": [
+        "Desirability",
+        "Usefulness"
+    ],
+    "but.c": [
+        "Concessive"
+    ],
+    "underneath.prep": [
+        "Locative_relation"
+    ],
+    "initial.a": [
+        "Version_sequence"
+    ],
+    "peel.v": [
+        "Emptying"
+    ],
+    "art.n": [
+        "Fields",
+        "Craft"
+    ],
+    "abundance.n": [
+        "Quantity"
+    ],
+    "explore.v": [
+        "Scrutiny"
+    ],
+    "modern.a": [
+        "Temporal_collocation",
+        "Stage_of_progress"
+    ],
+    "history.n": [
+        "History",
+        "Individual_history"
+    ],
+    "wing.n": [
+        "Building_subparts"
+    ],
+    "meet.v": [
+        "Make_acquaintance",
+        "Come_together"
+    ],
+    "between.prep": [
+        "Locative_relation"
+    ],
+    "punishment_penalty.n": [
+        "Rewards_and_punishments"
+    ],
+    "six.num": [
+        "Cardinal_numbers"
+    ],
+    "main.a": [
+        "Importance",
+        "First_rank"
+    ],
+    "definition.n": [
+        "Communicate_categorization"
+    ],
+    "contain.v": [
+        "Containing",
+        "Inclusion"
+    ],
+    "gracious.a": [
+        "Social_interaction_evaluation"
+    ],
+    "duty.n": [
+        "Being_obligated"
+    ],
+    "gather.v": [
+        "Come_together"
+    ],
+    "perform.v": [
+        "Intentionally_act"
+    ],
+    "belief.n": [
+        "Opinion"
+    ],
+    "ancestor.n": [
+        "Kinship"
+    ],
+    "willing.a": [
+        "Willingness"
+    ],
+    "policy.n": [
+        "Law"
+    ],
+    "should.v": [
+        "Being_obligated",
+        "Required_event",
+        "Desirable_event"
+    ],
+    "mention.v": [
+        "Statement"
+    ],
+    "issue.n": [
+        "Text",
+        "Point_of_dispute"
+    ],
+    "join.v": [
+        "Becoming_a_member"
+    ],
+    "abide_((by)).v": [
+        "Compliance"
+    ],
+    "requirement.n": [
+        "Being_necessary"
+    ],
+    "previously.adv": [
+        "Time_vector"
+    ],
+    "membership_(status).n": [
+        "Membership"
+    ],
+    "charge.n": [
+        "Judgment_communication",
+        "Notification_of_charges",
+        "Leadership"
+    ],
+    "disobey.v": [
+        "Compliance"
+    ],
+    "any.a": [
+        "Quantity"
+    ],
+    "rejection.n": [
+        "Respond_to_proposal"
+    ],
+    "filial.a": [
+        "Kinship"
+    ],
+    "conduct.n": [
+        "Conduct"
+    ],
+    "confirmation.n": [
+        "Verification"
+    ],
+    "observe.v": [
+        "Compliance",
+        "Statement",
+        "Becoming_aware"
+    ],
+    "companion.n": [
+        "Personal_relationship"
+    ],
+    "verification.n": [
+        "Verification"
+    ],
+    "avoid.v": [
+        "Preventing",
+        "Avoiding"
+    ],
+    "adherence.n": [
+        "Compliance"
+    ],
+    "eat.v": [
+        "Ingestion"
+    ],
+    "military.a": [
+        "Military"
+    ],
+    "other.n": [
+        "Increment"
+    ],
+    "leadership.n": [
+        "Leadership"
+    ],
+    "participation.n": [
+        "Participation"
+    ],
+    "commander.n": [
+        "Leadership"
+    ],
+    "bless.v": [
+        "Rite"
+    ],
+    "relative.n": [
+        "Kinship"
+    ],
+    "spread.v": [
+        "Filling",
+        "Dispersal"
+    ],
+    "safeguard.v": [
+        "Protecting"
+    ],
+    "deception.n": [
+        "Prevarication"
+    ],
+    "every.prep": [
+        "Frequency"
+    ],
+    "case.n": [
+        "Instance",
+        "Reasoning",
+        "Trial"
+    ],
+    "certain.a": [
+        "Idiosyncrasy",
+        "Certainty",
+        "Likelihood"
+    ],
+    "married.a": [
+        "Personal_relationship"
+    ],
+    "week.n": [
+        "Measure_duration",
+        "Calendric_unit"
+    ],
+    "five.num": [
+        "Cardinal_numbers"
+    ],
+    "bachelor.n": [
+        "Personal_relationship"
+    ],
+    "travel.n": [
+        "Travel"
+    ],
+    "submit.v": [
+        "Compliance",
+        "Submitting_documents"
+    ],
+    "manner.n": [
+        "Conduct"
+    ],
+    "five hundred.num": [
+        "Cardinal_numbers"
+    ],
+    "after.prep": [
+        "Relative_time",
+        "Time_vector"
+    ],
+    "pilgrimage.n": [
+        "Travel"
+    ],
+    "period.n": [
+        "Frequency"
+    ],
+    "family.n": [
+        "Kinship",
+        "Aggregate"
+    ],
+    "origin.n": [
+        "Origin"
+    ],
+    "reward.n": [
+        "Rewards_and_punishments"
+    ],
+    "fourth.a": [
+        "Ordinal_numbers"
+    ],
+    "punishment_act.n": [
+        "Rewards_and_punishments"
+    ],
+    "party.n": [
+        "Participation",
+        "Social_event",
+        "Aggregate"
+    ],
+    "conflicting.a": [
+        "Compatibility"
+    ],
+    "judge.v": [
+        "Assessing"
+    ],
+    "subordinate.n": [
+        "Subordinates_and_superiors"
+    ],
+    "obey.v": [
+        "Compliance"
+    ],
+    "permissible.a": [
+        "Legality"
+    ],
+    "conform.v": [
+        "Compliance"
+    ],
+    "secure.v": [
+        "Getting",
+        "Protecting"
+    ],
+    "commitment.n": [
+        "Commitment"
+    ],
+    "precede.v": [
+        "Relative_time"
+    ],
+    "soldier.n": [
+        "People_by_vocation"
+    ],
+    "commit.v": [
+        "Commitment"
+    ],
+    "book.n": [
+        "Text",
+        "Part_ordered_segments"
+    ],
+    "vow.v": [
+        "Commitment"
+    ],
+    "sin.n": [
+        "Misdeed"
+    ],
+    "thank.v": [
+        "Judgment_direct_address"
+    ],
+    "prayer.n": [
+        "Rite"
+    ],
+    "last.a": [
+        "Ordinal_numbers",
+        "Relative_time"
+    ],
+    "middle.n": [
+        "Part_inner_outer",
+        "Temporal_subregion"
+    ],
+    "opt.v": [
+        "Choosing"
+    ],
+    "diddle.v": [
+        "Manipulation"
+    ],
+    "finger.n": [
+        "Observable_body_parts"
+    ],
+    "born.v": [
+        "Being_born"
+    ],
+    "die.v": [
+        "Death"
+    ],
+    "respect.v": [
+        "Judgment"
+    ],
+    "deserve.v": [
+        "Deserving"
+    ],
+    "respect.n": [
+        "Judgment"
+    ],
+    "level.n": [
+        "Rank"
+    ],
+    "pitch.v": [
+        "Cause_motion"
+    ],
+    "staff.n": [
+        "Employing"
+    ],
+    "short.a": [
+        "Dimension",
+        "Duration_attribute"
+    ],
+    "load.v": [
+        "Placing",
+        "Filling"
+    ],
+    "beginner.n": [
+        "Activity_start"
+    ],
+    "decade.n": [
+        "Measure_duration",
+        "Calendric_unit"
+    ],
+    "global.a": [
+        "Political_locales"
+    ],
+    "shrink.v": [
+        "Expansion"
+    ],
+    "decrease.v": [
+        "Change_position_on_a_scale"
+    ],
+    "cut.n": [
+        "Cause_change_of_position_on_a_scale"
+    ],
+    "security.n": [
+        "Being_at_risk"
+    ],
+    "prove.v": [
+        "Reasoning",
+        "Evidence"
+    ],
+    "stay.v": [
+        "Temporary_stay",
+        "State_continue",
+        "Residence"
+    ],
+    "home.n": [
+        "Foreign_or_domestic_country",
+        "Buildings"
+    ],
+    "acclaim.v": [
+        "Judgment_communication"
+    ],
+    "collaborate.v": [
+        "Collaboration"
+    ],
+    "teach.v": [
+        "Education_teaching"
+    ],
+    "owner.n": [
+        "Possession"
+    ],
+    "aluminum.n": [
+        "Substance"
+    ],
+    "price.n": [
+        "Commerce_scenario"
+    ],
+    "brand.n": [
+        "Type"
+    ],
+    "cause.n": [
+        "Causation"
+    ],
+    "penchant.n": [
+        "Inclination"
+    ],
+    "portion.n": [
+        "Part_whole"
+    ],
+    "cause.v": [
+        "Causation"
+    ],
+    "power.n": [
+        "Electricity"
+    ],
+    "cool.a": [
+        "Temperature",
+        "Ambient_temperature"
+    ],
+    "bring_together.v": [
+        "Cause_to_amalgamate"
+    ],
+    "of.prep": [
+        "Partitive",
+        "Origin"
+    ],
+    "hit.v": [
+        "Impact"
+    ],
+    "rural.a": [
+        "Locale_by_use"
+    ],
+    "dent.v": [
+        "Damaging"
+    ],
+    "sister.n": [
+        "Kinship"
+    ],
+    "mother.n": [
+        "Kinship"
+    ],
+    "find_out.v": [
+        "Becoming_aware"
+    ],
+    "cancer.n": [
+        "Medical_conditions"
+    ],
+    "gun.n": [
+        "Weapon"
+    ],
+    "chinese.a": [
+        "Origin"
+    ],
+    "cost.n": [
+        "Expensiveness"
+    ],
+    "operate.v": [
+        "Operating_a_system",
+        "Being_in_operation",
+        "Using"
+    ],
+    "praise.v": [
+        "Judgment_communication"
+    ],
+    "upon.prep": [
+        "Locative_relation"
+    ],
+    "fall.v": [
+        "Conquering",
+        "Motion_directional",
+        "Change_position_on_a_scale"
+    ],
+    "confront.v": [
+        "Hostile_encounter"
+    ],
+    "clique.n": [
+        "Aggregate"
+    ],
+    "depose.v": [
+        "Change_of_leadership"
+    ],
+    "regime.n": [
+        "Leadership",
+        "Law"
+    ],
+    "sabotage.n": [
+        "Offenses"
+    ],
+    "plant.v": [
+        "Placing"
+    ],
+    "raid.n": [
+        "Attack"
+    ],
+    "sickening.a": [
+        "Stimulus_focus"
+    ],
+    "poisonous.a": [
+        "Toxic_substance"
+    ],
+    "attack.v": [
+        "Attack"
+    ],
+    "kidnap.v": [
+        "Kidnapping"
+    ],
+    "surveillance.n": [
+        "Scrutiny"
+    ],
+    "set fire to.v": [
+        "Setting_fire"
+    ],
+    "danger.n": [
+        "Risky_situation",
+        "Being_at_risk"
+    ],
+    "in_order.adv": [
+        "Purpose"
+    ],
+    "adopt.v": [
+        "Adopt_selection"
+    ],
+    "method.n": [
+        "Means"
+    ],
+    "outside.n": [
+        "Part_inner_outer"
+    ],
+    "operation.n": [
+        "Businesses",
+        "Using"
+    ],
+    "have got.v": [
+        "Possession"
+    ],
+    "city.n": [
+        "Locale_by_use",
+        "Political_locales"
+    ],
+    "choose.v": [
+        "Choosing"
+    ],
+    "next to.prep": [
+        "Locative_relation"
+    ],
+    "highway.n": [
+        "Roadways"
+    ],
+    "access.n": [
+        "Having_or_lacking_access"
+    ],
+    "control.v": [
+        "Control"
+    ],
+    "parking lot.n": [
+        "Locale_by_use"
+    ],
+    "protection_((entity)).n": [
+        "Protecting"
+    ],
+    "outside.a": [
+        "Part_inner_outer"
+    ],
+    "distant.a": [
+        "Locative_relation"
+    ],
+    "erect.v": [
+        "Building"
+    ],
+    "crash.v": [
+        "Impact",
+        "Cause_impact",
+        "Motion_noise"
+    ],
+    "road.n": [
+        "Roadways"
+    ],
+    "centimeter.n": [
+        "Measure_linear_extent"
+    ],
+    "height.n": [
+        "Dimension"
+    ],
+    "insert.v": [
+        "Placing"
+    ],
+    "fifty.num": [
+        "Cardinal_numbers"
+    ],
+    "building.n": [
+        "Buildings"
+    ],
+    "fill.v": [
+        "Filling"
+    ],
+    "barrel.n": [
+        "Measure_volume",
+        "Containers"
+    ],
+    "meter.n": [
+        "Measure_linear_extent"
+    ],
+    "thirty.num": [
+        "Cardinal_numbers"
+    ],
+    "nail.n": [
+        "Connectors"
+    ],
+    "wire.n": [
+        "Connectors"
+    ],
+    "fast.a": [
+        "Speed"
+    ],
+    "shield.v": [
+        "Protecting"
+    ],
+    "inside.prep": [
+        "Locative_relation"
+    ],
+    "sixty.num": [
+        "Cardinal_numbers"
+    ],
+    "part.n": [
+        "Part_whole",
+        "Performers_and_roles",
+        "Membership"
+    ],
+    "tower.n": [
+        "Building_subparts",
+        "Buildings"
+    ],
+    "dangerous.a": [
+        "Risky_situation"
+    ],
+    "zone.n": [
+        "Locale"
+    ],
+    "shape.n": [
+        "Shapes"
+    ],
+    "because of.prep": [
+        "Causation"
+    ],
+    "hidden.a": [
+        "Eclipse"
+    ],
+    "circular.a": [
+        "Shapes"
+    ],
+    "park.v": [
+        "Placing"
+    ],
+    "belong.v": [
+        "Possession",
+        "Membership"
+    ],
+    "spot.n": [
+        "Locale"
+    ],
+    "designate.v": [
+        "Linguistic_meaning",
+        "Appointing"
+    ],
+    "inside.a": [
+        "Part_inner_outer"
+    ],
+    "follow.v": [
+        "Compliance",
+        "Relative_time",
+        "Cotheme"
+    ],
+    "regulation.n": [
+        "Law"
+    ],
+    "bus.n": [
+        "Vehicle"
+    ],
+    "light((weight)).a": [
+        "Dimension"
+    ],
+    "jot down.v": [
+        "Text_creation"
+    ],
+    "suspicious.a": [
+        "Suspiciousness"
+    ],
+    "vehicle.n": [
+        "Vehicle"
+    ],
+    "salesman.n": [
+        "People_by_vocation"
+    ],
+    "company.n": [
+        "Businesses"
+    ],
+    "approach.v": [
+        "Arriving"
+    ],
+    "stranger.n": [
+        "Indigenous_origin"
+    ],
+    "track.v": [
+        "Cotheme"
+    ],
+    "kiosk.n": [
+        "Buildings"
+    ],
+    "serve.v": [
+        "Assistance"
+    ],
+    "communication_((act)).n": [
+        "Communication"
+    ],
+    "entrance.n": [
+        "Arriving"
+    ],
+    "check.v": [
+        "Inspecting"
+    ],
+    "required.a": [
+        "Being_necessary"
+    ],
+    "condition.n": [
+        "Terms_of_agreement",
+        "State_of_entity"
+    ],
+    "weather.n": [
+        "Weather"
+    ],
+    "communication_((entity)).n": [
+        "Communication"
+    ],
+    "direct.v": [
+        "Aiming"
+    ],
+    "control.n": [
+        "Be_in_control",
+        "Prohibiting"
+    ],
+    "low.a": [
+        "Position_on_a_scale"
+    ],
+    "shelter.n": [
+        "Buildings"
+    ],
+    "inside.n": [
+        "Part_inner_outer"
+    ],
+    "communicate.v": [
+        "Communication"
+    ],
+    "constantly.adv": [
+        "Frequency"
+    ],
+    "roam.v": [
+        "Self_motion"
+    ],
+    "locality.n": [
+        "Political_locales"
+    ],
+    "periodic.a": [
+        "Frequency"
+    ],
+    "procedure.n": [
+        "Means"
+    ],
+    "observation.n": [
+        "Perception_active"
+    ],
+    "finding.n": [
+        "Documents"
+    ],
+    "engage.v": [
+        "Intentionally_act"
+    ],
+    "form.v": [
+        "Coming_to_be",
+        "Creating",
+        "Reshaping"
+    ],
+    "dusk.n": [
+        "Calendric_unit"
+    ],
+    "dinner.n": [
+        "Social_event"
+    ],
+    "tour.v": [
+        "Travel"
+    ],
+    "midnight.n": [
+        "Calendric_unit"
+    ],
+    "comb.v": [
+        "Scouring"
+    ],
+    "surrounding.a": [
+        "Locative_relation"
+    ],
+    "need.n": [
+        "Needing"
+    ],
+    "hide.v": [
+        "Hiding_objects"
+    ],
+    "path.n": [
+        "Roadways",
+        "Path_traveled"
+    ],
+    "belongings.n": [
+        "Possession"
+    ],
+    "foreigner.n": [
+        "People_by_origin"
+    ],
+    "effects.n": [
+        "Possession"
+    ],
+    "strict.a": [
+        "Strictness"
+    ],
+    "install.v": [
+        "Installing",
+        "Change_of_leadership"
+    ],
+    "responsibility.n": [
+        "Being_obligated"
+    ],
+    "evacuation.n": [
+        "Removing"
+    ],
+    "place.n": [
+        "Locale"
+    ],
+    "test.n": [
+        "Examination",
+        "Operational_testing"
+    ],
+    "run.v": [
+        "Operating_a_system",
+        "Self_motion",
+        "Leadership"
+    ],
+    "bulletin.n": [
+        "Text"
+    ],
+    "safely.adv": [
+        "Risky_situation"
+    ],
+    "store.v": [
+        "Storing"
+    ],
+    "keep.v": [
+        "Storing",
+        "Cause_to_continue",
+        "Activity_ongoing"
+    ],
+    "alert.a": [
+        "Attention"
+    ],
+    "resident.n": [
+        "Residence"
+    ],
+    "advise.v": [
+        "Attempt_suasion"
+    ],
+    "child.n": [
+        "People_by_age",
+        "Kinship"
+    ],
+    "safety.n": [
+        "Being_at_risk"
+    ],
+    "fifth.a": [
+        "Ordinal_numbers"
+    ],
+    "mechanical.a": [
+        "Gizmo"
+    ],
+    "brief.a": [
+        "Duration_attribute"
+    ],
+    "prehistoric.a": [
+        "Temporal_collocation"
+    ],
+    "vessel.n": [
+        "Vehicle"
+    ],
+    "start.n": [
+        "Temporal_subregion"
+    ],
+    "mark.v": [
+        "Sign"
+    ],
+    "ford.v": [
+        "Intentional_traversing"
+    ],
+    "push.v": [
+        "Cause_motion",
+        "Subjective_influence",
+        "Cause_change_of_position_on_a_scale"
+    ],
+    "reach.v": [
+        "Arriving"
+    ],
+    "set out.v": [
+        "Departing"
+    ],
+    "northernmost.a": [
+        "Part_orientational"
+    ],
+    "colony.n": [
+        "Colonization"
+    ],
+    "eventually.adv": [
+        "Time_vector"
+    ],
+    "cut.v": [
+        "Cause_change_of_position_on_a_scale",
+        "Cutting"
+    ],
+    "stab.v": [
+        "Cause_harm"
+    ],
+    "traveler.n": [
+        "Travel"
+    ],
+    "element.n": [
+        "Ingredients"
+    ],
+    "come together.v": [
+        "Amalgamation"
+    ],
+    "age.n": [
+        "Calendric_unit",
+        "Age"
+    ],
+    "basic.a": [
+        "Being_necessary"
+    ],
+    "regularly.adv": [
+        "Frequency"
+    ],
+    "major.a": [
+        "Importance"
+    ],
+    "change.n": [
+        "Undergo_change"
+    ],
+    "evolve.v": [
+        "Coming_to_be"
+    ],
+    "era.n": [
+        "Calendric_unit"
+    ],
+    "reproduce.v": [
+        "Duplication"
+    ],
+    "distinctive.a": [
+        "Distinctiveness"
+    ],
+    "museum.n": [
+        "Locale_by_use"
+    ],
+    "throughout.prep": [
+        "Locative_relation"
+    ],
+    "fish.v": [
+        "Hunting"
+    ],
+    "farm.v": [
+        "Agriculture"
+    ],
+    "dawning.n": [
+        "Temporal_subregion"
+    ],
+    "trade.v": [
+        "Exchange"
+    ],
+    "local.n": [
+        "Indigenous_origin"
+    ],
+    "trade.n": [
+        "Exchange"
+    ],
+    "significant.a": [
+        "Importance"
+    ],
+    "south.adv": [
+        "Direction"
+    ],
+    "thrive.v": [
+        "Thriving"
+    ],
+    "north.adv": [
+        "Direction"
+    ],
+    "at present.adv": [
+        "Temporal_collocation"
+    ],
+    "magnificent.a": [
+        "Desirability"
+    ],
+    "remains.n": [
+        "Remainder"
+    ],
+    "massive.a": [
+        "Dimension"
+    ],
+    "whole.a": [
+        "Ranked_expectation"
+    ],
+    "foot.n": [
+        "Observable_body_parts",
+        "Measure_linear_extent"
+    ],
+    "thousands.n": [
+        "Quantity"
+    ],
+    "smash.v": [
+        "Cause_to_fragment"
+    ],
+    "drown.v": [
+        "Killing"
+    ],
+    "base.n": [
+        "Locale_by_use",
+        "Infrastructure"
+    ],
+    "race.n": [
+        "Type"
+    ],
+    "acquisitive.a": [
+        "Mental_property"
+    ],
+    "conquer.v": [
+        "Conquering"
+    ],
+    "epic.a": [
+        "Text",
+        "Fame"
+    ],
+    "chronicle.v": [
+        "Recording"
+    ],
+    "poem.n": [
+        "Text"
+    ],
+    "later.adv": [
+        "Relative_time",
+        "Time_vector"
+    ],
+    "northern.a": [
+        "Part_orientational"
+    ],
+    "dark.a": [
+        "Dimension"
+    ],
+    "barbaric.a": [
+        "Social_interaction_evaluation"
+    ],
+    "forget.v": [
+        "Remembering_information"
+    ],
+    "disappear.v": [
+        "Ceasing_to_be"
+    ],
+    "custody.n": [
+        "Possession"
+    ],
+    "bring_about.v": [
+        "Causation"
+    ],
+    "greek.a": [
+        "Origin"
+    ],
+    "coast.n": [
+        "Relational_natural_features"
+    ],
+    "mainland.n": [
+        "Locative_relation"
+    ],
+    "city-state.n": [
+        "Political_locales"
+    ],
+    "southern.a": [
+        "Part_orientational"
+    ],
+    "increase.n": [
+        "Change_position_on_a_scale"
+    ],
+    "flourish.v": [
+        "Thriving"
+    ],
+    "competition.n": [
+        "Competition"
+    ],
+    "prowess.n": [
+        "Expertise"
+    ],
+    "admire.v": [
+        "Judgment"
+    ],
+    "promote.v": [
+        "Cause_change_of_position_on_a_scale"
+    ],
+    "poetry.n": [
+        "Text"
+    ],
+    "write.v": [
+        "Text_creation",
+        "Statement"
+    ],
+    "ruler.n": [
+        "Leadership"
+    ],
+    "coastal.a": [
+        "Natural_features"
+    ],
+    "inland.a": [
+        "Locative_relation"
+    ],
+    "settlement_((act)).n": [
+        "Colonization"
+    ],
+    "empire.n": [
+        "Political_locales"
+    ],
+    "rise.n": [
+        "Change_position_on_a_scale"
+    ],
+    "match.v": [
+        "Evaluative_comparison"
+    ],
+    "rise.v": [
+        "Motion_directional",
+        "Path_shape",
+        "Change_position_on_a_scale",
+        "Change_posture"
+    ],
+    "overrun.v": [
+        "Invading"
+    ],
+    "capture.v": [
+        "Conquering"
+    ],
+    "raze.v": [
+        "Destroying"
+    ],
+    "back.v": [
+        "Taking_sides"
+    ],
+    "contribute.v": [
+        "Giving"
+    ],
+    "clash.v": [
+        "Hostile_encounter"
+    ],
+    "finally.adv": [
+        "Time_vector"
+    ],
+    "Persian.n": [
+        "People_by_origin"
+    ],
+    "defeat.v": [
+        "Beat_opponent"
+    ],
+    "punish.v": [
+        "Rewards_and_punishments"
+    ],
+    "alliance.n": [
+        "Alliance"
+    ],
+    "protection_((event)).n": [
+        "Protecting"
+    ],
+    "victory.n": [
+        "Finish_competition"
+    ],
+    "ancient.a": [
+        "Temporal_collocation",
+        "Age"
+    ],
+    "following.a": [
+        "Relative_time"
+    ],
+    "work together.v": [
+        "Collaboration"
+    ],
+    "several.a": [
+        "Quantity"
+    ],
+    "league.n": [
+        "Organization"
+    ],
+    "wrangle.n": [
+        "Quarreling"
+    ],
+    "century.n": [
+        "Measure_duration",
+        "Calendric_unit"
+    ],
+    "many.n": [
+        "Quantity"
+    ],
+    "temple.n": [
+        "Buildings"
+    ],
+    "slowly.adv": [
+        "Taking_time"
+    ],
+    "although.scon": [
+        "Concessive"
+    ],
+    "go on.v": [
+        "Process_continue"
+    ],
+    "victor.n": [
+        "Finish_competition"
+    ],
+    "son.n": [
+        "Kinship"
+    ],
+    "usher in.v": [
+        "Sign"
+    ],
+    "general.n": [
+        "Leadership"
+    ],
+    "divide.v": [
+        "Separating"
+    ],
+    "famous.a": [
+        "Fame"
+    ],
+    "clan.n": [
+        "Kinship"
+    ],
+    "swift.a": [
+        "Taking_time"
+    ],
+    "successful.a": [
+        "Successful_action",
+        "Success_or_failure"
+    ],
+    "absorb.v": [
+        "Soaking_up"
+    ],
+    "gradually.adv": [
+        "Taking_time"
+    ],
+    "pagan.n": [
+        "People_by_religion"
+    ],
+    "arrive.v": [
+        "Arriving"
+    ],
+    "small.a": [
+        "Dimension",
+        "Size"
+    ],
+    "final.a": [
+        "Process_end",
+        "Version_sequence"
+    ],
+    "assured.a": [
+        "Likelihood"
+    ],
+    "future.a": [
+        "Temporal_collocation"
+    ],
+    "rename.v": [
+        "Name_conferral"
+    ],
+    "dominant.a": [
+        "Dominate_situation"
+    ],
+    "capital.n": [
+        "Money",
+        "Relational_political_locales"
+    ],
+    "emperor.n": [
+        "Leadership"
+    ],
+    "countryside.n": [
+        "Locale_by_use"
+    ],
+    "invader.n": [
+        "Attack"
+    ],
+    "outlying.a": [
+        "Locative_relation"
+    ],
+    "wave.n": [
+        "Quantity"
+    ],
+    "counter.v": [
+        "Thwarting"
+    ],
+    "force.n": [
+        "Military",
+        "Being_in_effect"
+    ],
+    "enlist.v": [
+        "Becoming_a_member"
+    ],
+    "weaken.v": [
+        "Cause_change_of_strength"
+    ],
+    "christian.n": [
+        "People_by_religion"
+    ],
+    "millennium.n": [
+        "Measure_duration",
+        "Calendric_unit"
+    ],
+    "discrimination.n": [
+        "Differentiation"
+    ],
+    "slaughter.v": [
+        "Killing"
+    ],
+    "manuscript.n": [
+        "Text"
+    ],
+    "monastery.n": [
+        "Buildings"
+    ],
+    "strip.v": [
+        "Removing"
+    ],
+    "while.c": [
+        "Relative_time"
+    ],
+    "pirate.v": [
+        "Piracy"
+    ],
+    "land.n": [
+        "Political_locales",
+        "Locale_by_ownership"
+    ],
+    "no.a": [
+        "Quantity"
+    ],
+    "so.c": [
+        "Causation"
+    ],
+    "raid.v": [
+        "Attack"
+    ],
+    "move.v": [
+        "Cause_motion",
+        "Motion"
+    ],
+    "settlement.n": [
+        "Locale_by_use"
+    ],
+    "pattern.n": [
+        "Pattern"
+    ],
+    "port.n": [
+        "Locale_by_use"
+    ],
+    "european.a": [
+        "Origin"
+    ],
+    "various.a": [
+        "Diversity"
+    ],
+    "fiefdom.n": [
+        "Political_locales"
+    ],
+    "cul-de-sac.n": [
+        "Roadways"
+    ],
+    "confuse.v": [
+        "Experiencer_obj"
+    ],
+    "narrow.a": [
+        "Dimension",
+        "Clarity_of_resolution"
+    ],
+    "fortify.v": [
+        "Cause_change_of_strength"
+    ],
+    "valuable.a": [
+        "Usefulness"
+    ],
+    "defeat.n": [
+        "Beat_opponent"
+    ],
+    "citadel.n": [
+        "Buildings"
+    ],
+    "reinforce.v": [
+        "Cause_change_of_strength"
+    ],
+    "threaten.v": [
+        "Omen",
+        "Commitment"
+    ],
+    "thirteenth.a": [
+        "Ordinal_numbers"
+    ],
+    "eject.v": [
+        "Removing"
+    ],
+    "unsuccessful.a": [
+        "Successful_action",
+        "Success_or_failure"
+    ],
+    "siege.n": [
+        "Besieging"
+    ],
+    "bolster.v": [
+        "Supporting"
+    ],
+    "stretch.v": [
+        "Expansion"
+    ],
+    "for.prep": [
+        "Taking_sides"
+    ],
+    "peninsula.n": [
+        "Natural_features"
+    ],
+    "ottoman.a": [
+        "Origin"
+    ],
+    "boundary.n": [
+        "Boundary"
+    ],
+    "define.v": [
+        "Communicate_categorization",
+        "Categorization"
+    ],
+    "Greek.n": [
+        "People_by_origin"
+    ],
+    "russian.a": [
+        "Origin"
+    ],
+    "cave.n": [
+        "Natural_features"
+    ],
+    "nineteenth.a": [
+        "Ordinal_numbers"
+    ],
+    "play.v": [
+        "Competition",
+        "Performers_and_roles"
+    ],
+    "lie.v": [
+        "Being_located"
+    ],
+    "lane.n": [
+        "Roadways"
+    ],
+    "massacre.n": [
+        "Killing"
+    ],
+    "insurrection.n": [
+        "Change_of_leadership"
+    ],
+    "Turk.n": [
+        "People_by_origin"
+    ],
+    "achieve.v": [
+        "Accomplishment"
+    ],
+    "disparate.a": [
+        "Similarity"
+    ],
+    "unify.v": [
+        "Cause_to_amalgamate"
+    ],
+    "expand.v": [
+        "Cause_expansion"
+    ],
+    "envelop.v": [
+        "Adorning"
+    ],
+    "commence.v": [
+        "Activity_start"
+    ],
+    "disastrous.a": [
+        "Catastrophe"
+    ],
+    "sound.v": [
+        "Appearance",
+        "Make_noise"
+    ],
+    "relinquish.v": [
+        "Surrendering_possession"
+    ],
+    "italian.n": [
+        "People_by_origin"
+    ],
+    "territory.n": [
+        "Political_locales"
+    ],
+    "ottoman.n": [
+        "People_by_origin"
+    ],
+    "debacle.n": [
+        "Catastrophe"
+    ],
+    "strip.n": [
+        "Shapes"
+    ],
+    "hand.v": [
+        "Giving"
+    ],
+    "upset.v": [
+        "Preventing"
+    ],
+    "administer.v": [
+        "Leadership"
+    ],
+    "tired.a": [
+        "Biological_urge"
+    ],
+    "promise.v": [
+        "Commitment"
+    ],
+    "break out.v": [
+        "Process_start"
+    ],
+    "strife.n": [
+        "Hostile_encounter"
+    ],
+    "victim.n": [
+        "Undergoing"
+    ],
+    "turkish.a": [
+        "Origin"
+    ],
+    "offshore.a": [
+        "Locative_relation"
+    ],
+    "clothes.n": [
+        "Clothing"
+    ],
+    "put.v": [
+        "Placing",
+        "Causation",
+        "Encoding"
+    ],
+    "oust.v": [
+        "Removing"
+    ],
+    "italian.a": [
+        "Origin"
+    ],
+    "ideal.a": [
+        "Usefulness"
+    ],
+    "succeed.v": [
+        "Successful_action",
+        "Success_or_failure"
+    ],
+    "strengthen.v": [
+        "Cause_change_of_strength"
+    ],
+    "naval.a": [
+        "Military"
+    ],
+    "harbor.n": [
+        "Locale_by_use"
+    ],
+    "fragment.v": [
+        "Cause_to_fragment"
+    ],
+    "fighting.n": [
+        "Hostile_encounter"
+    ],
+    "struggle.n": [
+        "Hostile_encounter"
+    ],
+    "growth.n": [
+        "Cause_change_of_position_on_a_scale",
+        "Change_position_on_a_scale"
+    ],
+    "decline.v": [
+        "Agree_or_refuse_to_act",
+        "Change_position_on_a_scale"
+    ],
+    "network.n": [
+        "Network"
+    ],
+    "economy.n": [
+        "Economy"
+    ],
+    "backwater.n": [
+        "Isolated_places"
+    ],
+    "transport.n": [
+        "Bringing"
+    ],
+    "until.prep": [
+        "Time_vector"
+    ],
+    "terror.n": [
+        "Fear"
+    ],
+    "poverty.n": [
+        "Wealthiness"
+    ],
+    "exciting.a": [
+        "Stimulus_focus"
+    ],
+    "summer.n": [
+        "Calendric_unit"
+    ],
+    "escape.v": [
+        "Avoiding",
+        "Escaping"
+    ],
+    "damp.a": [
+        "Being_wet"
+    ],
+    "union.n": [
+        "Organization"
+    ],
+    "airfield.n": [
+        "Locale_by_use"
+    ],
+    "improve.v": [
+        "Cause_to_make_progress"
+    ],
+    "ferry.n": [
+        "Vehicle"
+    ],
+    "increasingly.adv": [
+        "Change_position_on_a_scale"
+    ],
+    "woman.n": [
+        "People"
+    ],
+    "marriage.n": [
+        "Forming_relationships",
+        "Personal_relationship"
+    ],
+    "prime minister.n": [
+        "Leadership"
+    ],
+    "divorce.n": [
+        "Forming_relationships"
+    ],
+    "forefather.n": [
+        "Kinship"
+    ],
+    "discussion.n": [
+        "Discussion"
+    ],
+    "war.v": [
+        "Hostile_encounter"
+    ],
+    "aid_((entity)).n": [
+        "Assistance"
+    ],
+    "sign.n": [
+        "Sign"
+    ],
+    "devastating.a": [
+        "Stimulus_focus"
+    ],
+    "diminish.v": [
+        "Cause_change_of_position_on_a_scale",
+        "Change_position_on_a_scale"
+    ],
+    "advance.v": [
+        "Change_event_time",
+        "Progress"
+    ],
+    "as.adv": [
+        "Relative_time"
+    ],
+    "agency.n": [
+        "Organization"
+    ],
+    "preliminary.a": [
+        "Preliminaries"
+    ],
+    "underground.a": [
+        "Locative_relation"
+    ],
+    "accredited.a": [
+        "Appointing"
+    ],
+    "diplomat.n": [
+        "Leadership"
+    ],
+    "feverishly.adv": [
+        "Experiencer_focus"
+    ],
+    "so far.adv": [
+        "Continued_state_of_affairs"
+    ],
+    "preparation.n": [
+        "Activity_prepare"
+    ],
+    "emplace.v": [
+        "Placing"
+    ],
+    "underground.adv": [
+        "Locative_relation"
+    ],
+    "above-ground.a": [
+        "Locative_relation"
+    ],
+    "set.n": [
+        "Aggregate"
+    ],
+    "November.n": [
+        "Calendric_unit"
+    ],
+    "hall.n": [
+        "Buildings"
+    ],
+    "delay.n": [
+        "Change_event_time"
+    ],
+    "yesterday.n": [
+        "Calendric_unit"
+    ],
+    "inspector.n": [
+        "Scrutiny"
+    ],
+    "entire.a": [
+        "Ranked_expectation"
+    ],
+    "outside.prep": [
+        "Locative_relation"
+    ],
+    "Iranian.n": [
+        "People_by_origin"
+    ],
+    "installation.n": [
+        "Installing"
+    ],
+    "crate.n": [
+        "Containers"
+    ],
+    "unmonitored.a": [
+        "Scrutiny"
+    ],
+    "add.v": [
+        "Statement"
+    ],
+    "uninterrupted.a": [
+        "Interrupt_process"
+    ],
+    "address.v": [
+        "Statement",
+        "Resolve_problem",
+        "Speak_on_topic",
+        "Topic"
+    ],
+    "position.v": [
+        "Placing"
+    ],
+    "safeguard.n": [
+        "Protecting"
+    ],
+    "treaty.n": [
+        "Be_in_agreement_on_action",
+        "Documents"
+    ],
+    "cooperate.v": [
+        "Collaboration"
+    ],
+    "surveillance_((entity)).n": [
+        "Scrutiny"
+    ],
+    "sheik.n": [
+        "Leadership"
+    ],
+    "estimate.v": [
+        "Estimating"
+    ],
+    "minister.n": [
+        "Leadership"
+    ],
+    "office.n": [
+        "Building_subparts"
+    ],
+    "own.v": [
+        "Possession"
+    ],
+    "situated.a": [
+        "Being_located"
+    ],
+    "near.prep": [
+        "Locative_relation"
+    ],
+    "north.a": [
+        "Part_orientational"
+    ],
+    "container.n": [
+        "Containers"
+    ],
+    "annual.a": [
+        "Frequency"
+    ],
+    "coincide.v": [
+        "Simultaneity"
+    ],
+    "unemployment.n": [
+        "Unemployment_rate"
+    ],
+    "foreseeable.a": [
+        "Expectation"
+    ],
+    "predictable.a": [
+        "Expectation"
+    ],
+    "ominous.a": [
+        "Omen"
+    ],
+    "doubt.n": [
+        "Certainty"
+    ],
+    "perceive.v": [
+        "Categorization"
+    ],
+    "deploy.v": [
+        "Arranging"
+    ],
+    "domestic.a": [
+        "Foreign_or_domestic_country"
+    ],
+    "dependent.a": [
+        "Contingency"
+    ],
+    "predict.v": [
+        "Predicting"
+    ],
+    "estimate.n": [
+        "Estimated_value"
+    ],
+    "dispersion.n": [
+        "Dispersal"
+    ],
+    "distinct.a": [
+        "Similarity",
+        "Identicality"
+    ],
+    "necessity.n": [
+        "Being_necessary"
+    ],
+    "indigenous.a": [
+        "Indigenous_origin"
+    ],
+    "desire.n": [
+        "Desiring"
+    ],
+    "travel.v": [
+        "Travel"
+    ],
+    "launch.n": [
+        "Shoot_projectiles"
+    ],
+    "payment.n": [
+        "Commerce_pay"
+    ],
+    "assembly.n": [
+        "Building",
+        "Aggregate"
+    ],
+    "bring about.v": [
+        "Accomplishment",
+        "Cause_to_start"
+    ],
+    "rear.n": [
+        "Part_orientational"
+    ],
+    "drag on.v": [
+        "Process_continue"
+    ],
+    "strike.n": [
+        "Attack"
+    ],
+    "enter.v": [
+        "Arriving",
+        "Activity_start",
+        "Becoming_a_member"
+    ],
+    "thwart.v": [
+        "Thwarting"
+    ],
+    "risk.n": [
+        "Daring",
+        "Risky_situation",
+        "Run_risk"
+    ],
+    "Scud-B missile.n": [
+        "Weapon"
+    ],
+    "end_final-subevent.n": [
+        "Process_end"
+    ],
+    "comparable.a": [
+        "Evaluative_comparison"
+    ],
+    "class.n": [
+        "Type",
+        "Aggregate"
+    ],
+    "type.n": [
+        "Type"
+    ],
+    "arrival.n": [
+        "Arriving"
+    ],
+    "total.n": [
+        "Amounting_to"
+    ],
+    "fire.v": [
+        "Shoot_projectiles"
+    ],
+    "come to a end.v": [
+        "Process_end"
+    ],
+    "remainder.n": [
+        "Left_to_do"
+    ],
+    "assemble.v": [
+        "Building",
+        "Creating",
+        "Gathering_up"
+    ],
+    "initiate.v": [
+        "Activity_start"
+    ],
+    "Scud-B.n": [
+        "Weapon"
+    ],
+    "inventory.n": [
+        "Store"
+    ],
+    "progress.n": [
+        "Progress"
+    ],
+    "morning.n": [
+        "Calendric_unit"
+    ],
+    "response.n": [
+        "Response",
+        "Communication_response"
+    ],
+    "enlarge.v": [
+        "Cause_expansion"
+    ],
+    "iraqi.a": [
+        "Origin"
+    ],
+    "victorious.a": [
+        "Finish_competition"
+    ],
+    "over.a": [
+        "Process_completed_state"
+    ],
+    "exhausted.a": [
+        "Biological_urge"
+    ],
+    "depleted.a": [
+        "Used_up"
+    ],
+    "liquid.n": [
+        "Substance"
+    ],
+    "rely.v": [
+        "Reliance"
+    ],
+    "complete.a": [
+        "Process_completed_state",
+        "Completeness"
+    ],
+    "aka.a": [
+        "Being_named"
+    ],
+    "rationalize.v": [
+        "Justifying"
+    ],
+    "close.a": [
+        "Social_connection"
+    ],
+    "lure.v": [
+        "Manipulate_into_doing"
+    ],
+    "rival.v": [
+        "Evaluative_comparison"
+    ],
+    "nascent.a": [
+        "Process_start"
+    ],
+    "meeting.n": [
+        "Social_event",
+        "Discussion"
+    ],
+    "bully.v": [
+        "Manipulate_into_doing"
+    ],
+    "reach.n": [
+        "Range"
+    ],
+    "articulate.v": [
+        "Expressing_publicly"
+    ],
+    "reliable.a": [
+        "Trust"
+    ],
+    "evaluation.n": [
+        "Assessing"
+    ],
+    "essential.a": [
+        "Being_necessary"
+    ],
+    "willingness.n": [
+        "Willingness"
+    ],
+    "complement.v": [
+        "Rest"
+    ],
+    "on-going.a": [
+        "Process_continue"
+    ],
+    "foresee.v": [
+        "Expectation"
+    ],
+    "province.n": [
+        "Political_locales"
+    ],
+    "testing.n": [
+        "Operational_testing"
+    ],
+    "probable.a": [
+        "Likelihood"
+    ],
+    "opponent.n": [
+        "Taking_sides"
+    ],
+    "resolve.v": [
+        "Resolve_problem"
+    ],
+    "measures.n": [
+        "Intentionally_act"
+    ],
+    "dismantlement.n": [
+        "Destroying"
+    ],
+    "acclaim.n": [
+        "Judgment_communication"
+    ],
+    "certainty.n": [
+        "Certainty"
+    ],
+    "implement.v": [
+        "Execute_plan"
+    ],
+    "dismantle.v": [
+        "Destroying"
+    ],
+    "to date.adv": [
+        "Continued_state_of_affairs"
+    ],
+    "demonstrate.v": [
+        "Reasoning",
+        "Evidence"
+    ],
+    "disarmament.n": [
+        "Emptying"
+    ],
+    "completeness.n": [
+        "Completeness"
+    ],
+    "subsequently.adv": [
+        "Relative_time"
+    ],
+    "accede.v": [
+        "Sign_agreement"
+    ],
+    "instrumental.a": [
+        "Importance"
+    ],
+    "connection.n": [
+        "Social_connection"
+    ],
+    "smuggling.n": [
+        "Smuggling"
+    ],
+    "generation.n": [
+        "Intentionally_create",
+        "Stage_of_progress"
+    ],
+    "dwindle.v": [
+        "Change_position_on_a_scale"
+    ],
+    "reserve.n": [
+        "Store"
+    ],
+    "principal.a": [
+        "First_rank"
+    ],
+    "codenamed.a": [
+        "Being_named"
+    ],
+    "characterize.v": [
+        "Distinctiveness",
+        "Communicate_categorization"
+    ],
+    "outset.n": [
+        "Temporal_subregion"
+    ],
+    "CW.n": [
+        "Weapon"
+    ],
+    "neighboring.a": [
+        "Locative_relation"
+    ],
+    "onslaught.n": [
+        "Attack"
+    ],
+    "total.a": [
+        "Completeness",
+        "Amounting_to"
+    ],
+    "guerrilla.n": [
+        "People_by_vocation"
+    ],
+    "precipitate.v": [
+        "Causation"
+    ],
+    "device.n": [
+        "Gizmo"
+    ],
+    "toxic.a": [
+        "Toxic_substance"
+    ],
+    "chief.a": [
+        "First_rank"
+    ],
+    "clothing.n": [
+        "Clothing"
+    ],
+    "procurement_((act)).n": [
+        "Getting"
+    ],
+    "transformation.n": [
+        "Cause_change"
+    ],
+    "shadowy.a": [
+        "Secrecy_status"
+    ],
+    "unscrupulous.a": [
+        "Morality_evaluation"
+    ],
+    "irritant.n": [
+        "Active_substance"
+    ],
+    "grenade.n": [
+        "Weapon"
+    ],
+    "shell.n": [
+        "Weapon"
+    ],
+    "artillery.n": [
+        "Weapon"
+    ],
+    "incapacitant.n": [
+        "Active_substance"
+    ],
+    "several.n": [
+        "Quantity"
+    ],
+    "suitability.n": [
+        "Suitability"
+    ],
+    "illegal.a": [
+        "Legality"
+    ],
+    "cocaine.n": [
+        "Intoxicants"
+    ],
+    "drug.n": [
+        "Intoxicants"
+    ],
+    "LSD.n": [
+        "Intoxicants"
+    ],
+    "mid.a": [
+        "Temporal_subregion"
+    ],
+    "clear.a": [
+        "Obviousness"
+    ],
+    "flight test.n": [
+        "Operational_testing"
+    ],
+    "similarity_((count)).n": [
+        "Similarity"
+    ],
+    "opposition_((act)).n": [
+        "Taking_sides"
+    ],
+    "proliferation.n": [
+        "Proliferating_in_number"
+    ],
+    "suffer.v": [
+        "Catastrophe"
+    ],
+    "public.a": [
+        "Secrecy_status"
+    ],
+    "comment.n": [
+        "Statement"
+    ],
+    "ton.n": [
+        "Measure_mass"
+    ],
+    "aid_((act)).n": [
+        "Assistance"
+    ],
+    "precursor.n": [
+        "Ingredients"
+    ],
+    "corroborate.v": [
+        "Evidence"
+    ],
+    "sift.v": [
+        "Scouring"
+    ],
+    "alleged.a": [
+        "Unattributed_information"
+    ],
+    "handful.n": [
+        "Quantity"
+    ],
+    "bias.n": [
+        "Partiality"
+    ],
+    "piece together.v": [
+        "Building"
+    ],
+    "entanglement.n": [
+        "Participation"
+    ],
+    "weak.a": [
+        "Exertive_force"
+    ],
+    "put an end to.v": [
+        "Cause_to_end"
+    ],
+    "step.n": [
+        "Self_motion",
+        "Intentionally_act",
+        "Connecting_architecture"
+    ],
+    "crime.n": [
+        "Committing_crime"
+    ],
+    "abhorrence.n": [
+        "Experiencer_focus"
+    ],
+    "condemn.v": [
+        "Judgment_communication",
+        "Sentencing"
+    ],
+    "moral.a": [
+        "Morality_evaluation"
+    ],
+    "decide.v": [
+        "Deciding",
+        "Choosing"
+    ],
+    "instance.n": [
+        "Instance"
+    ],
+    "guilty.a": [
+        "Contrition",
+        "Guilt_or_innocence",
+        "Verdict"
+    ],
+    "admit.v": [
+        "Statement",
+        "Reveal_secret"
+    ],
+    "gear.n": [
+        "Gizmo"
+    ],
+    "atropine.n": [
+        "Substance"
+    ],
+    "account.n": [
+        "Text"
+    ],
+    "metric ton.n": [
+        "Measure_mass"
+    ],
+    "mustard gas.n": [
+        "Weapon"
+    ],
+    "rumor.n": [
+        "Unattributed_information"
+    ],
+    "mine.n": [
+        "Locale_by_use",
+        "Weapon"
+    ],
+    "uncertain.a": [
+        "Certainty"
+    ],
+    "potential.a": [
+        "Capability"
+    ],
+    "pursue.v": [
+        "Cotheme",
+        "Seeking_to_achieve"
+    ],
+    "implementation.n": [
+        "Execute_plan"
+    ],
+    "declaration.n": [
+        "Statement"
+    ],
+    "stockpile.n": [
+        "Store"
+    ],
+    "active.a": [
+        "Being_active"
+    ],
+    "unclassified.a": [
+        "Secrecy_status"
+    ],
+    "import_((entity)).n": [
+        "Import_export",
+        "Importing"
+    ],
+    "worth.a": [
+        "Deserving"
+    ],
+    "lined.a": [
+        "Abounding_with"
+    ],
+    "ingredient.n": [
+        "Ingredients"
+    ],
+    "order.n": [
+        "Request",
+        "Sequence"
+    ],
+    "suitable.a": [
+        "Suitability"
+    ],
+    "mix.v": [
+        "Cause_to_amalgamate"
+    ],
+    "suited.a": [
+        "Suitability"
+    ],
+    "ban.v": [
+        "Prohibiting"
+    ],
+    "term.n": [
+        "Terms_of_agreement",
+        "Simple_name"
+    ],
+    "shipment_((act)).n": [
+        "Sending"
+    ],
+    "goggles.n": [
+        "Accoutrements"
+    ],
+    "mask.n": [
+        "Accoutrements"
+    ],
+    "unsuitable.a": [
+        "Suitability"
+    ],
+    "indian.a": [
+        "Origin"
+    ],
+    "completion.n": [
+        "Activity_finish"
+    ],
+    "replacement.n": [
+        "Take_place_of"
+    ],
+    "suit.n": [
+        "Clothing"
+    ],
+    "finnish.a": [
+        "Origin"
+    ],
+    "copy.n": [
+        "Duplication"
+    ],
+    "deficient.a": [
+        "Position_on_a_scale"
+    ],
+    "tank car.n": [
+        "Vehicle"
+    ],
+    "railroad.n": [
+        "Roadways"
+    ],
+    "transport.v": [
+        "Bringing"
+    ],
+    "transaction.n": [
+        "Commercial_transaction"
+    ],
+    "ascertain.v": [
+        "Coming_to_believe"
+    ],
+    "conclusion.n": [
+        "Coming_to_believe"
+    ],
+    "Sunday.n": [
+        "Calendric_unit"
+    ],
+    "challenge.n": [
+        "Difficulty",
+        "Competition"
+    ],
+    "coalition.n": [
+        "Alliance"
+    ],
+    "far left.n": [
+        "People_along_political_spectrum"
+    ],
+    "topple.v": [
+        "Change_of_leadership"
+    ],
+    "reform.n": [
+        "Reforming_a_system"
+    ],
+    "growth-oriented.a": [
+        "Place_weight_on"
+    ],
+    "left.adv": [
+        "Direction"
+    ],
+    "mandate.n": [
+        "Grant_permission"
+    ],
+    "correct.a": [
+        "Suitability"
+    ],
+    "high-water mark.n": [
+        "Extreme_point"
+    ],
+    "look back.v": [
+        "Remembering_experience"
+    ],
+    "far-left.n": [
+        "People_along_political_spectrum"
+    ],
+    "rejuvenation.n": [
+        "Rejuvenation"
+    ],
+    "point (to).v": [
+        "Adducing"
+    ],
+    "cure.v": [
+        "Cure"
+    ],
+    "plenty.n": [
+        "Sufficiency"
+    ],
+    "actual.a": [
+        "Actually_occurring_entity"
+    ],
+    "joblessness.n": [
+        "Unemployment_rate"
+    ],
+    "record.v": [
+        "Recording"
+    ],
+    "rate.n": [
+        "Speed",
+        "Frequency"
+    ],
+    "housing.n": [
+        "Buildings"
+    ],
+    "scarce.a": [
+        "Scarcity"
+    ],
+    "school.n": [
+        "Locale_by_use"
+    ],
+    "public service.n": [
+        "Public_services"
+    ],
+    "mail.n": [
+        "Sent_items"
+    ],
+    "disgraceful.a": [
+        "Disgraceful_situation"
+    ],
+    "pocket.n": [
+        "Locale",
+        "Clothing_parts"
+    ],
+    "left.n": [
+        "People_along_political_spectrum"
+    ],
+    "parallel.n": [
+        "Similarity"
+    ],
+    "charge.v": [
+        "Judgment_communication"
+    ],
+    "abandon.v": [
+        "Activity_stop",
+        "Abandonment"
+    ],
+    "face.v": [
+        "Confronting_problem"
+    ],
+    "accomplishment.n": [
+        "Accomplishment"
+    ],
+    "considerable.a": [
+        "Importance"
+    ],
+    "time.n": [
+        "Measure_duration",
+        "Event_instance",
+        "Timespan"
+    ],
+    "jobless.a": [
+        "Being_employed"
+    ],
+    "pace.n": [
+        "Speed"
+    ],
+    "through.prep": [
+        "Time_vector"
+    ],
+    "August.n": [
+        "Calendric_unit"
+    ],
+    "split.v": [
+        "Separating",
+        "Becoming_separated"
+    ],
+    "reaffirm.v": [
+        "Statement"
+    ],
+    "revolutionary.n": [
+        "Change_of_leadership"
+    ],
+    "combine.v": [
+        "Amalgamation",
+        "Cause_to_amalgamate"
+    ],
+    "reduction.n": [
+        "Cause_change_of_position_on_a_scale"
+    ],
+    "enough.n": [
+        "Sufficiency"
+    ],
+    "big.a": [
+        "Trendiness",
+        "Size"
+    ],
+    "nearly.adv": [
+        "Relational_quantity"
+    ],
+    "forty.num": [
+        "Cardinal_numbers"
+    ],
+    "endorse.v": [
+        "Taking_sides"
+    ],
+    "revenue.n": [
+        "Earnings_and_losses"
+    ],
+    "more.n": [
+        "Increment"
+    ],
+    "income.n": [
+        "Earnings_and_losses"
+    ],
+    "yield.v": [
+        "Creating"
+    ],
+    "starve.v": [
+        "Prevent_from_having",
+        "Death"
+    ],
+    "success.n": [
+        "Success_or_failure"
+    ],
+    "sad.a": [
+        "Stimulus_focus",
+        "Emotion_directed"
+    ],
+    "peculiar.a": [
+        "Idiosyncrasy"
+    ],
+    "English.n": [
+        "People_by_origin"
+    ],
+    "peculiarity.n": [
+        "Idiosyncrasy"
+    ],
+    "unintelligible.a": [
+        "Grasp"
+    ],
+    "at most.adv": [
+        "Relational_quantity"
+    ],
+    "scene.n": [
+        "Sensation"
+    ],
+    "evoke.v": [
+        "Evoking"
+    ],
+    "amid.prep": [
+        "Locative_relation"
+    ],
+    "lovely.a": [
+        "Aesthetics"
+    ],
+    "faithful.n": [
+        "People_by_religion"
+    ],
+    "cascade.v": [
+        "Fluidic_motion"
+    ],
+    "stand.v": [
+        "Being_located",
+        "Posture"
+    ],
+    "church.n": [
+        "Buildings"
+    ],
+    "bell.n": [
+        "Noise_makers"
+    ],
+    "parishioner.n": [
+        "People_by_jurisdiction"
+    ],
+    "rhythmically.adv": [
+        "Temporal_pattern"
+    ],
+    "pull.v": [
+        "Manipulation"
+    ],
+    "attached.a": [
+        "Being_attached"
+    ],
+    "rope.n": [
+        "Connectors"
+    ],
+    "autumn.n": [
+        "Calendric_unit"
+    ],
+    "peal.n": [
+        "Sounds"
+    ],
+    "ringer.n": [
+        "Cause_to_make_noise"
+    ],
+    "band.n": [
+        "Aggregate"
+    ],
+    "elsewhere.adv": [
+        "Locative_relation"
+    ],
+    "drive.v": [
+        "Operate_vehicle",
+        "Cause_motion",
+        "Subjective_influence"
+    ],
+    "youngster.n": [
+        "People_by_age"
+    ],
+    "belfry.n": [
+        "Building_subparts"
+    ],
+    "ring.v": [
+        "Cause_to_make_noise"
+    ],
+    "drift.v": [
+        "Motion"
+    ],
+    "dance.n": [
+        "Social_event"
+    ],
+    "youth.n": [
+        "People_by_age"
+    ],
+    "old.a": [
+        "Age"
+    ],
+    "peal.v": [
+        "Make_noise"
+    ],
+    "no longer.adv": [
+        "Temporal_collocation"
+    ],
+    "third.n": [
+        "Part_whole"
+    ],
+    "fit.a": [
+        "Suitability"
+    ],
+    "continental.a": [
+        "Natural_features"
+    ],
+    "mind-boggling.a": [
+        "Stimulus_focus"
+    ],
+    "invent.v": [
+        "Coming_up_with",
+        "Achieving_first"
+    ],
+    "weigh.v": [
+        "Dimension"
+    ],
+    "twelve.num": [
+        "Cardinal_numbers"
+    ],
+    "rhythm.n": [
+        "Temporal_pattern"
+    ],
+    "signal.n": [
+        "Gesture"
+    ],
+    "memorise.v": [
+        "Memorization"
+    ],
+    "series.n": [
+        "Sequence"
+    ],
+    "Thursday.n": [
+        "Calendric_unit"
+    ],
+    "district.n": [
+        "Political_locales"
+    ],
+    "practice.n": [
+        "Practice"
+    ],
+    "look.n": [
+        "Perception_active"
+    ],
+    "ceiling.n": [
+        "Architectural_part"
+    ],
+    "ten.num": [
+        "Cardinal_numbers"
+    ],
+    "stance.n": [
+        "Posture"
+    ],
+    "speak.v": [
+        "Text_creation",
+        "Statement",
+        "Chatting"
+    ],
+    "snake.v": [
+        "Motion"
+    ],
+    "pull.n": [
+        "Manipulation"
+    ],
+    "stare.v": [
+        "Perception_active"
+    ],
+    "watch.v": [
+        "Perception_active"
+    ],
+    "absorbed.a": [
+        "Mental_stimulus_exp_focus"
+    ],
+    "mount.v": [
+        "Attaching"
+    ],
+    "huge.a": [
+        "Size"
+    ],
+    "swing.v": [
+        "Moving_in_place"
+    ],
+    "wheel.n": [
+        "Artifact"
+    ],
+    "above.prep": [
+        "Locative_relation"
+    ],
+    "another.n": [
+        "Increment"
+    ],
+    "skilled.a": [
+        "Expertise"
+    ],
+    "satisfaction.n": [
+        "Experiencer_focus"
+    ],
+    "solemn.a": [
+        "Stimulus_focus"
+    ],
+    "filled.a": [
+        "Abounding_with"
+    ],
+    "master.n": [
+        "Subordinates_and_superiors"
+    ],
+    "obsession.n": [
+        "Emotion_active"
+    ],
+    "stick.v": [
+        "Being_attached"
+    ],
+    "bottom.n": [
+        "Part_orientational"
+    ],
+    "sweat.n": [
+        "Excreting"
+    ],
+    "below.prep": [
+        "Locative_relation"
+    ],
+    "skip.v": [
+        "Self_motion"
+    ],
+    "membership.n": [
+        "Membership"
+    ],
+    "press.v": [
+        "Attempt_suasion"
+    ],
+    "attend.v": [
+        "Attending",
+        "Attention"
+    ],
+    "set.v": [
+        "Placing"
+    ],
+    "sack.v": [
+        "Firing"
+    ],
+    "fed up.a": [
+        "Emotion_directed"
+    ],
+    "treat.v": [
+        "Communicate_categorization"
+    ],
+    "club.n": [
+        "Organization"
+    ],
+    "eight.num": [
+        "Cardinal_numbers"
+    ],
+    "silent.a": [
+        "Volubility"
+    ],
+    "attendance.n": [
+        "Attending"
+    ],
+    "dust-up.n": [
+        "Hostile_encounter"
+    ],
+    "wound.n": [
+        "Medical_conditions"
+    ],
+    "stairs.n": [
+        "Connecting_architecture"
+    ],
+    "altar.n": [
+        "Building_subparts"
+    ],
+    "fault.n": [
+        "Judgment"
+    ],
+    "exit.n": [
+        "Departing"
+    ],
+    "crunch.n": [
+        "Sounds"
+    ],
+    "feelings.n": [
+        "Feeling"
+    ],
+    "since.c": [
+        "Causation"
+    ],
+    "draw.v": [
+        "Cause_motion",
+        "Create_physical_artwork"
+    ],
+    "aim.v": [
+        "Purpose"
+    ],
+    "entitled.a": [
+        "Being_named"
+    ],
+    "booklet.n": [
+        "Text"
+    ],
+    "college.n": [
+        "Locale_by_use"
+    ],
+    "recognize.v": [
+        "Becoming_aware"
+    ],
+    "lack.n": [
+        "Possession"
+    ],
+    "out of.prep": [
+        "Partitive"
+    ],
+    "lucky.a": [
+        "Luck"
+    ],
+    "everywhere.adv": [
+        "Locative_relation"
+    ],
+    "sole.a": [
+        "Sole_instance"
+    ],
+    "galling.a": [
+        "Stimulus_focus"
+    ],
+    "file.v": [
+        "Submitting_documents"
+    ],
+    "weekly.a": [
+        "Frequency"
+    ],
+    "letter.n": [
+        "Text"
+    ],
+    "newspaper.n": [
+        "Text"
+    ],
+    "remark.v": [
+        "Statement"
+    ],
+    "faint.v": [
+        "Fall_asleep"
+    ],
+    "tea.n": [
+        "Food"
+    ],
+    "frequency.n": [
+        "Frequency"
+    ],
+    "average.a": [
+        "Typicality"
+    ],
+    "acne.n": [
+        "Body_mark"
+    ],
+    "dressed.a": [
+        "Wearing"
+    ],
+    "torrent.n": [
+        "Quantity"
+    ],
+    "decorated.a": [
+        "Abounding_with"
+    ],
+    "reply.n": [
+        "Communication_response"
+    ],
+    "lady.n": [
+        "People"
+    ],
+    "March.n": [
+        "Calendric_unit"
+    ],
+    "release.v": [
+        "Releasing"
+    ],
+    "prison.n": [
+        "Prison"
+    ],
+    "count (on).v": [
+        "Reliance_on_expectation"
+    ],
+    "wife.n": [
+        "Personal_relationship"
+    ],
+    "unable.a": [
+        "Capability"
+    ],
+    "end up.v": [
+        "Becoming"
+    ],
+    "job.n": [
+        "Being_obligated",
+        "Being_employed"
+    ],
+    "trouble.n": [
+        "Predicament",
+        "Experiencer_obj"
+    ],
+    "failure.n": [
+        "Success_or_failure"
+    ],
+    "unemployed.a": [
+        "Being_employed"
+    ],
+    "employment.n": [
+        "Being_employed"
+    ],
+    "multiple.a": [
+        "Quantity"
+    ],
+    "promising.a": [
+        "Omen"
+    ],
+    "manufacturer.n": [
+        "Manufacturing"
+    ],
+    "safe.a": [
+        "Risky_situation",
+        "Being_at_risk"
+    ],
+    "mention.n": [
+        "Statement"
+    ],
+    "speculate.v": [
+        "Coming_to_believe"
+    ],
+    "resemble.v": [
+        "Similarity"
+    ],
+    "word.n": [
+        "Simple_name"
+    ],
+    "bread.n": [
+        "Food"
+    ],
+    "under.prep": [
+        "Locative_relation",
+        "Relational_quantity"
+    ],
+    "tunnel.n": [
+        "Roadways"
+    ],
+    "archaeologist.n": [
+        "People_by_vocation"
+    ],
+    "tribe.n": [
+        "Aggregate"
+    ],
+    "formidable.a": [
+        "Stimulus_focus"
+    ],
+    "kingdom.n": [
+        "Political_locales"
+    ],
+    "neutral.a": [
+        "Partiality"
+    ],
+    "tabernacle.n": [
+        "Buildings"
+    ],
+    "rest.v": [
+        "State_continue"
+    ],
+    "deem.v": [
+        "Categorization"
+    ],
+    "tradition.n": [
+        "Custom"
+    ],
+    "sacrifice.v": [
+        "Rite"
+    ],
+    "marry.v": [
+        "Forming_relationships"
+    ],
+    "palace.n": [
+        "Buildings"
+    ],
+    "mansion.n": [
+        "Buildings"
+    ],
+    "splendid.a": [
+        "Desirability"
+    ],
+    "reader.n": [
+        "Reading"
+    ],
+    "captivate.v": [
+        "Experiencer_obj"
+    ],
+    "adorn.v": [
+        "Adorning"
+    ],
+    "north.n": [
+        "Part_orientational"
+    ],
+    "fury.n": [
+        "Emotion_directed"
+    ],
+    "arouse.v": [
+        "Cause_to_start"
+    ],
+    "besiege.v": [
+        "Besieging"
+    ],
+    "invade.v": [
+        "Invading"
+    ],
+    "king.n": [
+        "Leadership"
+    ],
+    "burn.v": [
+        "Cause_harm"
+    ],
+    "also_known_as.a": [
+        "Being_named"
+    ],
+    "tolerant.a": [
+        "Strictness"
+    ],
+    "overthrow.v": [
+        "Change_of_leadership"
+    ],
+    "finished.a": [
+        "Process_completed_state",
+        "Activity_done_state"
+    ],
+    "sacrifice.n": [
+        "Rite"
+    ],
+    "cleanse.v": [
+        "Emptying"
+    ],
+    "descendant.n": [
+        "Kinship"
+    ],
+    "commonwealth.n": [
+        "Political_locales"
+    ],
+    "beside.prep": [
+        "Locative_relation"
+    ],
+    "legion.n": [
+        "Aggregate"
+    ],
+    "desert.n": [
+        "Biological_area"
+    ],
+    "scion.n": [
+        "Kinship"
+    ],
+    "reign.v": [
+        "Leadership"
+    ],
+    "courtyard.n": [
+        "Locale_by_use"
+    ],
+    "reminder.n": [
+        "Evoking"
+    ],
+    "fortress.n": [
+        "Buildings"
+    ],
+    "hate.v": [
+        "Experiencer_focus"
+    ],
+    "torture.v": [
+        "Cause_harm"
+    ],
+    "subject.n": [
+        "People_by_jurisdiction"
+    ],
+    "infant.n": [
+        "People_by_age"
+    ],
+    "with.prep": [
+        "Accompaniment"
+    ],
+    "village.n": [
+        "Political_locales",
+        "Locale_by_use"
+    ],
+    "valley.n": [
+        "Natural_features"
+    ],
+    "dissatisfied.a": [
+        "Experiencer_focus"
+    ],
+    "domination.n": [
+        "Dominate_situation"
+    ],
+    "entry.n": [
+        "Arriving"
+    ],
+    "arrest.v": [
+        "Arrest"
+    ],
+    "execution.n": [
+        "Execution"
+    ],
+    "trial.n": [
+        "Trial"
+    ],
+    "rife.a": [
+        "Abounding_with"
+    ],
+    "crucifixion.n": [
+        "Killing"
+    ],
+    "defender.n": [
+        "Defend"
+    ],
+    "execute.v": [
+        "Execution"
+    ],
+    "revolt.n": [
+        "Change_of_leadership"
+    ],
+    "reside.v": [
+        "Residence"
+    ],
+    "queen.n": [
+        "Leadership"
+    ],
+    "demolish.v": [
+        "Destroying"
+    ],
+    "structure.n": [
+        "Buildings"
+    ],
+    "devastation.n": [
+        "Destroying"
+    ],
+    "chapter.n": [
+        "Part_ordered_segments"
+    ],
+    "ascend.v": [
+        "Traversing"
+    ],
+    "count.v": [
+        "Reliance",
+        "Being_in_category",
+        "Categorization"
+    ],
+    "among.prep": [
+        "Locative_relation",
+        "Be_subset_of",
+        "Inclusion"
+    ],
+    "mosque.n": [
+        "Buildings"
+    ],
+    "impressive.a": [
+        "Stimulus_focus"
+    ],
+    "manage.v": [
+        "Operating_a_system",
+        "Success_or_failure"
+    ],
+    "earlier.a": [
+        "Temporal_subregion"
+    ],
+    "barracks.n": [
+        "Buildings"
+    ],
+    "decline.n": [
+        "Change_position_on_a_scale"
+    ],
+    "fulfillment.n": [
+        "Experiencer_focus"
+    ],
+    "west.a": [
+        "Part_orientational"
+    ],
+    "partition.n": [
+        "Separating"
+    ],
+    "enforce.v": [
+        "Enforcing"
+    ],
+    "erupt.v": [
+        "Process_start"
+    ],
+    "lack.v": [
+        "Possession"
+    ],
+    "connect.v": [
+        "Attaching"
+    ],
+    "separate.v": [
+        "Differentiation",
+        "Separating"
+    ],
+    "evacuate.v": [
+        "Removing"
+    ],
+    "east.a": [
+        "Part_orientational"
+    ],
+    "partition.v": [
+        "Separating"
+    ],
+    "fortification.n": [
+        "Buildings"
+    ],
+    "June.n": [
+        "Calendric_unit"
+    ],
+    "incident.n": [
+        "Catastrophe"
+    ],
+    "mayor.n": [
+        "Leadership"
+    ],
+    "megalopolis.n": [
+        "Political_locales"
+    ],
+    "tug.v": [
+        "Manipulation"
+    ],
+    "read.v": [
+        "Reading"
+    ],
+    "politician.n": [
+        "People_by_vocation"
+    ],
+    "parent.n": [
+        "Kinship"
+    ],
+    "educational.a": [
+        "Education_teaching"
+    ],
+    "dominate.v": [
+        "Dominate_situation",
+        "Dominate_competitor"
+    ],
+    "answer.n": [
+        "Communication_response"
+    ],
+    "encourage.v": [
+        "Attempt_suasion"
+    ],
+    "wish.v": [
+        "Desiring"
+    ],
+    "opinion.n": [
+        "Opinion",
+        "Regard"
+    ],
+    "incompetence.n": [
+        "Expertise"
+    ],
+    "ignorance.n": [
+        "Awareness"
+    ],
+    "authoritarian.a": [
+        "Strictness"
+    ],
+    "rebellion.n": [
+        "Change_of_leadership"
+    ],
+    "instruction.n": [
+        "Education_teaching"
+    ],
+    "as yet.adv": [
+        "Continued_state_of_affairs"
+    ],
+    "surprising.a": [
+        "Stimulus_focus"
+    ],
+    "traditionally.adv": [
+        "Custom"
+    ],
+    "fortunately.adv": [
+        "Luck"
+    ],
+    "decent.a": [
+        "Desirability"
+    ],
+    "adolescent.n": [
+        "People_by_age"
+    ],
+    "prevail.v": [
+        "Beat_opponent"
+    ],
+    "determine.v": [
+        "Contingency",
+        "Coming_to_believe"
+    ],
+    "inch.n": [
+        "Measure_linear_extent"
+    ],
+    "ought to.v": [
+        "Required_event"
+    ],
+    "agreeable.a": [
+        "Stimulus_focus"
+    ],
+    "disappointing.a": [
+        "Stimulus_focus"
+    ],
+    "nice.a": [
+        "Stimulus_focus"
+    ],
+    "irksome.a": [
+        "Stimulus_focus"
+    ],
+    "schoolteacher.n": [
+        "Education_teaching"
+    ],
+    "unfair.a": [
+        "Fairness_evaluation"
+    ],
+    "dump.v": [
+        "Judgment_communication"
+    ],
+    "few.n": [
+        "Quantity"
+    ],
+    "remember.v": [
+        "Memory"
+    ],
+    "inspire.v": [
+        "Subjective_influence"
+    ],
+    "competent.a": [
+        "Expertise"
+    ],
+    "sense.n": [
+        "Linguistic_meaning",
+        "Sensation"
+    ],
+    "compare.v": [
+        "Evaluative_comparison"
+    ],
+    "brilliant.a": [
+        "Mental_property"
+    ],
+    "crisis.n": [
+        "Catastrophe"
+    ],
+    "educate.v": [
+        "Education_teaching"
+    ],
+    "posture.n": [
+        "Posture"
+    ],
+    "shred.n": [
+        "Part_piece"
+    ],
+    "poor.a": [
+        "Wealthiness"
+    ],
+    "beforehand.adv": [
+        "Time_vector"
+    ],
+    "mute.a": [
+        "Volubility"
+    ],
+    "helpful.a": [
+        "Assistance"
+    ],
+    "option.n": [
+        "Possibilities"
+    ],
+    "inclined.a": [
+        "Inclination"
+    ],
+    "conference.n": [
+        "Discussion"
+    ],
+    "governor.n": [
+        "Leadership"
+    ],
+    "recent.a": [
+        "Relative_time"
+    ],
+    "advocate.v": [
+        "Attempt_suasion"
+    ],
+    "school year.n": [
+        "Calendric_unit"
+    ],
+    "desirable.a": [
+        "Desirability"
+    ],
+    "afterward.adv": [
+        "Time_vector"
+    ],
+    "wash.v": [
+        "Removing"
+    ],
+    "quickly.adv": [
+        "Speed"
+    ],
+    "difference_((count)).n": [
+        "Similarity"
+    ],
+    "let.v": [
+        "Grant_permission"
+    ],
+    "parental.a": [
+        "Kinship"
+    ],
+    "bad idea.n": [
+        "Desirable_event"
+    ],
+    "sum up.v": [
+        "Summarizing"
+    ],
+    "blame.v": [
+        "Judgment_communication",
+        "Judgment"
+    ],
+    "kid.n": [
+        "People_by_age",
+        "Kinship"
+    ],
+    "scrutinize.v": [
+        "Scrutiny"
+    ],
+    "switch.v": [
+        "Change_tool"
+    ],
+    "decisive.a": [
+        "Importance"
+    ],
+    "elect.v": [
+        "Change_of_leadership"
+    ],
+    "institute.v": [
+        "Execute_plan"
+    ],
+    "though.scon": [
+        "Concessive"
+    ],
+    "pupil.n": [
+        "Education_teaching"
+    ],
+    "zero.num": [
+        "Cardinal_numbers"
+    ],
+    "pile.v": [
+        "Filling"
+    ],
+    "flow.v": [
+        "Fluidic_motion"
+    ],
+    "real.a": [
+        "Existence"
+    ],
+    "master.v": [
+        "Education_teaching"
+    ],
+    "clearly.adv": [
+        "Obviousness"
+    ],
+    "absurd.a": [
+        "Mental_property"
+    ],
+    "trendy.a": [
+        "Trendiness"
+    ],
+    "dubious.a": [
+        "Suspiciousness"
+    ],
+    "appreciate.v": [
+        "Judgment",
+        "Regard"
+    ],
+    "principal.n": [
+        "Leadership"
+    ],
+    "measure.n": [
+        "Quantity"
+    ],
+    "govern.v": [
+        "Leadership"
+    ],
+    "interference.n": [
+        "Hindering"
+    ],
+    "ruffled.a": [
+        "Emotion_directed"
+    ],
+    "Tuesday.n": [
+        "Calendric_unit"
+    ],
+    "search.v": [
+        "Seeking"
+    ],
+    "devastate.v": [
+        "Destroying"
+    ],
+    "frightening.a": [
+        "Stimulus_focus"
+    ],
+    "earthquake.n": [
+        "Moving_in_place"
+    ],
+    "comfort.n": [
+        "Experiencer_focus"
+    ],
+    "solace.n": [
+        "Experiencer_focus"
+    ],
+    "quake.n": [
+        "Moving_in_place"
+    ],
+    "Californian.n": [
+        "People_by_origin"
+    ],
+    "link.v": [
+        "Attaching",
+        "Make_cognitive_connection"
+    ],
+    "knock.v": [
+        "Cause_harm"
+    ],
+    "teem.v": [
+        "Abounding_with"
+    ],
+    "nickname.n": [
+        "Being_named"
+    ],
+    "avenue.n": [
+        "Roadways"
+    ],
+    "broken.a": [
+        "Being_operational"
+    ],
+    "smile.v": [
+        "Making_faces"
+    ],
+    "glance.v": [
+        "Perception_active"
+    ],
+    "mouth.v": [
+        "Communication_manner"
+    ],
+    "temblor.n": [
+        "Moving_in_place"
+    ],
+    "pass.v": [
+        "Traversing",
+        "Process_end",
+        "Path_shape"
+    ],
+    "shake.v": [
+        "Moving_in_place"
+    ],
+    "toss.v": [
+        "Cause_motion"
+    ],
+    "library.n": [
+        "Buildings"
+    ],
+    "second.n": [
+        "Measure_duration"
+    ],
+    "window.n": [
+        "Connecting_architecture"
+    ],
+    "wonder.v": [
+        "Cogitation"
+    ],
+    "shower.v": [
+        "Placing",
+        "Filling"
+    ],
+    "shop.n": [
+        "Businesses",
+        "Locale_by_use"
+    ],
+    "black.a": [
+        "Color"
+    ],
+    "daughter.n": [
+        "Kinship"
+    ],
+    "tank.n": [
+        "Vehicle",
+        "Containers"
+    ],
+    "downtown.n": [
+        "Locale_by_use"
+    ],
+    "nervous.a": [
+        "Experiencer_focus"
+    ],
+    "liquefy.v": [
+        "Change_of_phase"
+    ],
+    "truck.n": [
+        "Vehicle"
+    ],
+    "border.n": [
+        "Boundary"
+    ],
+    "flop.v": [
+        "Moving_in_place"
+    ],
+    "afterwards.adv": [
+        "Time_vector"
+    ],
+    "ruin.v": [
+        "Bungling"
+    ],
+    "ride_out.v": [
+        "Surviving"
+    ],
+    "bridge.n": [
+        "Roadways"
+    ],
+    "horrible.a": [
+        "Desirability"
+    ],
+    "cross.v": [
+        "Traversing"
+    ],
+    "bay.n": [
+        "Natural_features"
+    ],
+    "body.n": [
+        "Observable_body_parts",
+        "Aggregate"
+    ],
+    "guest room.n": [
+        "Building_subparts"
+    ],
+    "type.v": [
+        "Text_creation"
+    ],
+    "position.n": [
+        "Posture"
+    ],
+    "astride.prep": [
+        "Locative_relation"
+    ],
+    "notice.v": [
+        "Becoming_aware"
+    ],
+    "behavior.n": [
+        "Conduct"
+    ],
+    "swarm.n": [
+        "Aggregate"
+    ],
+    "interval.n": [
+        "Frequency"
+    ],
+    "quiver.n": [
+        "Moving_in_place"
+    ],
+    "kitchen.n": [
+        "Building_subparts"
+    ],
+    "unpredictable.a": [
+        "Expectation"
+    ],
+    "distressed.a": [
+        "Emotion_directed"
+    ],
+    "roll.v": [
+        "Moving_in_place",
+        "Motion"
+    ],
+    "unfazed.a": [
+        "Experiencer_focus"
+    ],
+    "ooze.v": [
+        "Fluidic_motion"
+    ],
+    "sidewalk.n": [
+        "Roadways"
+    ],
+    "amazing.a": [
+        "Stimulus_focus"
+    ],
+    "memory.n": [
+        "Memory"
+    ],
+    "calm.a": [
+        "Experiencer_focus"
+    ],
+    "quiet_down.v": [
+        "Become_silent"
+    ],
+    "slide.v": [
+        "Motion"
+    ],
+    "realize.v": [
+        "Coming_to_believe"
+    ],
+    "roof.n": [
+        "Architectural_part"
+    ],
+    "jump.v": [
+        "Self_motion"
+    ],
+    "scream.v": [
+        "Make_noise"
+    ],
+    "can.n": [
+        "Containers"
+    ],
+    "fly.v": [
+        "Operate_vehicle",
+        "Ride_vehicle",
+        "Motion"
+    ],
+    "scoot.v": [
+        "Cause_motion"
+    ],
+    "shiver.v": [
+        "Body_movement"
+    ],
+    "pray.v": [
+        "Rite"
+    ],
+    "frightened.a": [
+        "Fear"
+    ],
+    "picture.n": [
+        "Physical_artworks"
+    ],
+    "cry.v": [
+        "Communication_noise"
+    ],
+    "beer.n": [
+        "Food"
+    ],
+    "drink.v": [
+        "Ingestion"
+    ],
+    "sit down.v": [
+        "Change_posture"
+    ],
+    "therapy.n": [
+        "Medical_specialties",
+        "Cure"
+    ],
+    "couple.n": [
+        "Personal_relationship",
+        "Cardinal_numbers"
+    ],
+    "meet with.v": [
+        "Meet_with"
+    ],
+    "rock.v": [
+        "Moving_in_place"
+    ],
+    "breathe.v": [
+        "Breathing"
+    ],
+    "lunge.v": [
+        "Self_motion"
+    ],
+    "scared.a": [
+        "Experiencer_focus"
+    ],
+    "ocean.n": [
+        "Natural_features"
+    ],
+    "freaked.a": [
+        "Fear"
+    ],
+    "all over.prep": [
+        "Locative_relation"
+    ],
+    "slither.v": [
+        "Self_motion"
+    ],
+    "emerge.v": [
+        "Coming_to_be",
+        "Departing"
+    ],
+    "guess.v": [
+        "Coming_to_believe"
+    ],
+    "flesh.n": [
+        "Observable_body_parts"
+    ],
+    "fight.n": [
+        "Hostile_encounter"
+    ],
+    "symptom.n": [
+        "Sign"
+    ],
+    "commonplace.a": [
+        "Typicality"
+    ],
+    "nausea.n": [
+        "Biological_urge"
+    ],
+    "along.prep": [
+        "Locative_relation"
+    ],
+    "great.a": [
+        "Desirability"
+    ],
+    "alive.a": [
+        "Dead_or_alive"
+    ],
+    "blue.a": [
+        "Color"
+    ],
+    "sit up.v": [
+        "Change_posture"
+    ],
+    "Saturday.n": [
+        "Calendric_unit"
+    ],
+    "named.a": [
+        "Being_named"
+    ],
+    "two hundred.num": [
+        "Cardinal_numbers"
+    ],
+    "unique.a": [
+        "Idiosyncrasy"
+    ],
+    "sector.n": [
+        "Fields"
+    ],
+    "lake.n": [
+        "Natural_features"
+    ],
+    "during.prep": [
+        "Temporal_collocation"
+    ],
+    "hunt.v": [
+        "Hunting",
+        "Seeking"
+    ],
+    "evaporate.v": [
+        "Change_of_phase"
+    ],
+    "glacier.n": [
+        "Natural_features"
+    ],
+    "melt.v": [
+        "Change_of_phase"
+    ],
+    "sporadic.a": [
+        "Frequency"
+    ],
+    "obscure.a": [
+        "Obscurity"
+    ],
+    "slow.a": [
+        "Taking_time"
+    ],
+    "native.a": [
+        "Indigenous_origin"
+    ],
+    "surface.n": [
+        "Part_inner_outer"
+    ],
+    "bubble.v": [
+        "Fluidic_motion"
+    ],
+    "spring.n": [
+        "Natural_features",
+        "Calendric_unit"
+    ],
+    "presence.n": [
+        "Presence"
+    ],
+    "wash.n": [
+        "Natural_features"
+    ],
+    "stream.n": [
+        "Natural_features"
+    ],
+    "collection.n": [
+        "Aggregate"
+    ],
+    "metropolis.n": [
+        "Political_locales"
+    ],
+    "advancement.n": [
+        "Progress"
+    ],
+    "inhabit.v": [
+        "Residence"
+    ],
+    "technique.n": [
+        "Means"
+    ],
+    "vanish.v": [
+        "Departing"
+    ],
+    "dub.v": [
+        "Name_conferral"
+    ],
+    "trail.n": [
+        "Roadways"
+    ],
+    "result_(in).v": [
+        "Causation"
+    ],
+    "crucial.a": [
+        "Importance"
+    ],
+    "acre.n": [
+        "Measure_area"
+    ],
+    "survive.v": [
+        "Surviving"
+    ],
+    "plight.n": [
+        "Predicament"
+    ],
+    "search.n": [
+        "Scrutiny"
+    ],
+    "pioneer.n": [
+        "Achieving_first"
+    ],
+    "redirect.v": [
+        "Redirecting"
+    ],
+    "mormon.n": [
+        "People_by_religion"
+    ],
+    "fort.n": [
+        "Buildings"
+    ],
+    "hectare.n": [
+        "Measure_area"
+    ],
+    "abandoned.a": [
+        "Abandonment"
+    ],
+    "farmer.n": [
+        "People_by_vocation"
+    ],
+    "slay.v": [
+        "Killing"
+    ],
+    "a bit.a": [
+        "Quantity"
+    ],
+    "ranch.n": [
+        "Locale_by_use"
+    ],
+    "burgeon.v": [
+        "Progress"
+    ],
+    "turn.n": [
+        "Temporal_subregion"
+    ],
+    "non-native.a": [
+        "Indigenous_origin"
+    ],
+    "eager.a": [
+        "Desiring"
+    ],
+    "train.n": [
+        "Vehicle"
+    ],
+    "crew.n": [
+        "Aggregate"
+    ],
+    "track.n": [
+        "Roadways"
+    ],
+    "bear.v": [
+        "Path_shape"
+    ],
+    "centre.n": [
+        "Part_inner_outer"
+    ],
+    "down.adv": [
+        "Direction"
+    ],
+    "depot.n": [
+        "Locale_by_use"
+    ],
+    "1200.num": [
+        "Cardinal_numbers"
+    ],
+    "afternoon.n": [
+        "Calendric_unit"
+    ],
+    "within.prep": [
+        "Temporal_collocation"
+    ],
+    "anxious.a": [
+        "Emotion_directed"
+    ],
+    "block.n": [
+        "Measure_linear_extent"
+    ],
+    "property.n": [
+        "Possession"
+    ],
+    "rail.n": [
+        "Roadways"
+    ],
+    "spring up.v": [
+        "Coming_to_be"
+    ],
+    "tent.n": [
+        "Buildings"
+    ],
+    "replace.v": [
+        "Take_place_of",
+        "Replacing"
+    ],
+    "ninety.num": [
+        "Cardinal_numbers"
+    ],
+    "portent.n": [
+        "Omen"
+    ],
+    "balloon.v": [
+        "Change_position_on_a_scale"
+    ],
+    "electricity.n": [
+        "Electricity"
+    ],
+    "halt.n": [
+        "Process_stop"
+    ],
+    "line.n": [
+        "Roadways",
+        "Boundary"
+    ],
+    "consolidate.v": [
+        "Cause_to_amalgamate"
+    ],
+    "then.adv": [
+        "Temporal_collocation"
+    ],
+    "legislature.n": [
+        "Leadership"
+    ],
+    "outlaw.v": [
+        "Prohibiting",
+        "Deny_permission"
+    ],
+    "county.n": [
+        "Political_locales"
+    ],
+    "unfortunate.a": [
+        "Desirability"
+    ],
+    "prosperity.n": [
+        "Thriving"
+    ],
+    "fortuitous.a": [
+        "Luck"
+    ],
+    "authorize.v": [
+        "Grant_permission"
+    ],
+    "canyon.n": [
+        "Natural_features"
+    ],
+    "southeast.prep": [
+        "Locative_relation"
+    ],
+    "influx.n": [
+        "Arriving"
+    ],
+    "dry up.v": [
+        "Becoming_dry"
+    ],
+    "financially.adv": [
+        "Domain"
+    ],
+    "at the time.adv": [
+        "Temporal_collocation"
+    ],
+    "solidify.v": [
+        "Cause_change_of_phase"
+    ],
+    "legislator.n": [
+        "Leadership"
+    ],
+    "horde.n": [
+        "Aggregate"
+    ],
+    "machine.n": [
+        "Gizmo"
+    ],
+    "lengthy.a": [
+        "Duration_attribute"
+    ],
+    "legal.a": [
+        "Legality"
+    ],
+    "reputation.n": [
+        "Fame"
+    ],
+    "both.a": [
+        "Quantity"
+    ],
+    "result.n": [
+        "Earnings_and_losses",
+        "Causation"
+    ],
+    "air force.n": [
+        "Military"
+    ],
+    "December.n": [
+        "Calendric_unit"
+    ],
+    "murder.v": [
+        "Killing"
+    ],
+    "boss.n": [
+        "Leadership"
+    ],
+    "displeased.a": [
+        "Emotion_directed"
+    ],
+    "infiltration.n": [
+        "Attack"
+    ],
+    "cash.n": [
+        "Money"
+    ],
+    "pleasurable.a": [
+        "Stimulus_focus"
+    ],
+    "star.n": [
+        "Performers_and_roles"
+    ],
+    "mediocre.a": [
+        "Desirability"
+    ],
+    "January.n": [
+        "Calendric_unit"
+    ],
+    "stay.n": [
+        "Temporary_stay"
+    ],
+    "legendary.a": [
+        "Fame"
+    ],
+    "film.v": [
+        "Behind_the_scenes"
+    ],
+    "cheap.a": [
+        "Expensiveness"
+    ],
+    "businessperson.n": [
+        "People_by_vocation"
+    ],
+    "penthouse.n": [
+        "Buildings"
+    ],
+    "vacate.v": [
+        "Quitting_a_place"
+    ],
+    "along with.prep": [
+        "Accompaniment"
+    ],
+    "airport.n": [
+        "Buildings"
+    ],
+    "from_to.prep": [
+        "Delimitation_of_diversity"
+    ],
+    "lasting.a": [
+        "Duration_attribute"
+    ],
+    "skim.v": [
+        "Removing"
+    ],
+    "profit.n": [
+        "Earnings_and_losses"
+    ],
+    "corporation.n": [
+        "Businesses"
+    ],
+    "competitive.a": [
+        "Competition"
+    ],
+    "reinvigorate.v": [
+        "Rejuvenation"
+    ],
+    "removal.n": [
+        "Removing"
+    ],
+    "demolition.n": [
+        "Destroying"
+    ],
+    "box.n": [
+        "Containers"
+    ],
+    "middle.a": [
+        "Temporal_subregion"
+    ],
+    "approach.n": [
+        "Means"
+    ],
+    "criticize.v": [
+        "Judgment_communication"
+    ],
+    "signature.a": [
+        "Distinctiveness"
+    ],
+    "cater.v": [
+        "Assistance"
+    ],
+    "expensive.a": [
+        "Expensiveness"
+    ],
+    "artistic.a": [
+        "Fields"
+    ],
+    "expectation.n": [
+        "Expectation"
+    ],
+    "raise.v": [
+        "Causation",
+        "Cause_change_of_position_on_a_scale"
+    ],
+    "skyrocket.v": [
+        "Change_position_on_a_scale"
+    ],
+    "venue.n": [
+        "Locale_by_event"
+    ],
+    "rank.v": [
+        "Assessing",
+        "Occupy_rank"
+    ],
+    "possessor.n": [
+        "Possession"
+    ],
+    "assessment.n": [
+        "Assessing"
+    ],
+    "testimony.n": [
+        "Documents"
+    ],
+    "munitions.n": [
+        "Ammunition"
+    ],
+    "deployment.n": [
+        "Arranging"
+    ],
+    "calendar year.n": [
+        "Calendric_unit"
+    ],
+    "millimeter.n": [
+        "Measure_linear_extent"
+    ],
+    "piece.n": [
+        "Part_piece"
+    ],
+    "represent.v": [
+        "Communicate_categorization"
+    ],
+    "manual.n": [
+        "Text"
+    ],
+    "military forces.n": [
+        "Military"
+    ],
+    "offensive.a": [
+        "Attack"
+    ],
+    "gains.n": [
+        "Cause_to_make_progress"
+    ],
+    "ordnance.n": [
+        "Weapon"
+    ],
+    "emphasize.v": [
+        "Convey_importance",
+        "Place_weight_on"
+    ],
+    "raw.a": [
+        "Degree_of_processing"
+    ],
+    "shipment.n": [
+        "Sent_items"
+    ],
+    "data.n": [
+        "Information"
+    ],
+    "offensive.n": [
+        "Attack"
+    ],
+    "view.n": [
+        "Opinion"
+    ],
+    "terrorize.v": [
+        "Cause_to_experience"
+    ],
+    "distance.n": [
+        "Range"
+    ],
+    "cw.n": [
+        "Hostile_encounter"
+    ],
+    "distribution.n": [
+        "Dispersal"
+    ],
+    "factory.n": [
+        "Locale_by_use"
+    ],
+    "Scud-C missile.n": [
+        "Weapon"
+    ],
+    "round.n": [
+        "Ammunition"
+    ],
+    "defect.v": [
+        "Quitting_a_place"
+    ],
+    "storage.n": [
+        "Storing"
+    ],
+    "in terms.prep": [
+        "Domain"
+    ],
+    "armed forces.n": [
+        "Military"
+    ],
+    "side.v": [
+        "Taking_sides"
+    ],
+    "in favor.prep": [
+        "Taking_sides"
+    ],
+    "prohibition.n": [
+        "Prohibiting"
+    ],
+    "persuade.v": [
+        "Suasion"
+    ],
+    "rebuff.v": [
+        "Respond_to_proposal"
+    ],
+    "knowledgeable.a": [
+        "Expertise"
+    ],
+    "theft.n": [
+        "Theft"
+    ],
+    "disgruntled.a": [
+        "Emotion_directed"
+    ],
+    "billions.n": [
+        "Quantity"
+    ],
+    "message.n": [
+        "Statement"
+    ],
+    "director.n": [
+        "Leadership"
+    ],
+    "serious.a": [
+        "Importance"
+    ],
+    "survival.n": [
+        "Surviving"
+    ],
+    "institute.n": [
+        "Locale_by_use"
+    ],
+    "amateur.n": [
+        "Expertise"
+    ],
+    "competitor.n": [
+        "Competition"
+    ],
+    "thief.n": [
+        "Theft"
+    ],
+    "remedy.n": [
+        "Cure"
+    ],
+    "next.a": [
+        "Relative_time"
+    ],
+    "notoriety.n": [
+        "Fame"
+    ],
+    "invite.v": [
+        "Request"
+    ],
+    "disaster.n": [
+        "Catastrophe"
+    ],
+    "dose.n": [
+        "Quantity"
+    ],
+    "lab.n": [
+        "Locale_by_use"
+    ],
+    "chief.n": [
+        "Leadership"
+    ],
+    "homeland.n": [
+        "Foreign_or_domestic_country"
+    ],
+    "decontamination.n": [
+        "Emptying"
+    ],
+    "put together.v": [
+        "Building"
+    ],
+    "drill.n": [
+        "Practice"
+    ],
+    "April Fool's Day.n": [
+        "Commemorative"
+    ],
+    "specialist.n": [
+        "Expertise"
+    ],
+    "upset.a": [
+        "Experiencer_focus"
+    ],
+    "attacker.n": [
+        "Attack"
+    ],
+    "excellent.a": [
+        "Desirability"
+    ],
+    "participant.n": [
+        "Participation"
+    ],
+    "act.v": [
+        "Intentionally_act",
+        "Performers_and_roles"
+    ],
+    "nurse.n": [
+        "Medical_professionals"
+    ],
+    "remove.v": [
+        "Removing"
+    ],
+    "chairman.n": [
+        "Leadership"
+    ],
+    "medicine.n": [
+        "Medical_specialties"
+    ],
+    "scan.v": [
+        "Scrutiny"
+    ],
+    "mishap.n": [
+        "Catastrophe"
+    ],
+    "injure.v": [
+        "Cause_harm"
+    ],
+    "reprocessing.n": [
+        "Processing_materials"
+    ],
+    "kilogram.n": [
+        "Measure_mass"
+    ],
+    "secure.a": [
+        "Being_at_risk"
+    ],
+    "spent.a": [
+        "Used_up"
+    ],
+    "non-proliferation.n": [
+        "Proliferating_in_number"
+    ],
+    "detect.v": [
+        "Becoming_aware",
+        "Perception_experience"
+    ],
+    "variant.n": [
+        "Similarity"
+    ],
+    "smart.a": [
+        "Mental_property"
+    ],
+    "lead.a": [
+        "First_rank"
+    ],
+    "WMD.n": [
+        "Weapon"
+    ],
+    "bioterrorism.n": [
+        "Terrorism"
+    ],
+    "inspect.v": [
+        "Inspecting"
+    ],
+    "shipment_((items)).n": [
+        "Sending"
+    ],
+    "contraband.n": [
+        "Smuggling"
+    ],
+    "possibility.n": [
+        "Likelihood"
+    ],
+    "clandestine.a": [
+        "Secrecy_status"
+    ],
+    "challenging.a": [
+        "Difficulty"
+    ],
+    "uncertainty.n": [
+        "Certainty"
+    ],
+    "analyst.n": [
+        "Scrutiny"
+    ],
+    "understanding.n": [
+        "Awareness"
+    ],
+    "analysis.n": [
+        "Scrutiny"
+    ],
+    "analytic.a": [
+        "Scrutiny"
+    ],
+    "explosive.a": [
+        "Weapon",
+        "Expansion"
+    ],
+    "fabricate.v": [
+        "Manufacturing"
+    ],
+    "plutonium.n": [
+        "Substance"
+    ],
+    "extract.v": [
+        "Removing"
+    ],
+    "explosive.n": [
+        "Weapon"
+    ],
+    "transform.v": [
+        "Cause_change"
+    ],
+    "mill.v": [
+        "Grinding"
+    ],
+    "milled.a": [
+        "Ground_up"
+    ],
+    "atomic weapon.n": [
+        "Weapon"
+    ],
+    "secretive.a": [
+        "Candidness"
+    ],
+    "translation.n": [
+        "Translating"
+    ],
+    "double agent.n": [
+        "People_by_vocation"
+    ],
+    "poison.n": [
+        "Toxic_substance"
+    ],
+    "honor.v": [
+        "Compliance"
+    ],
+    "knock down.v": [
+        "Cause_change_of_position_on_a_scale"
+    ],
+    "comply.v": [
+        "Compliance"
+    ],
+    "post.v": [
+        "Sending"
+    ],
+    "alarm.n": [
+        "Noise_makers"
+    ],
+    "producer.n": [
+        "Manufacturing"
+    ],
+    "toxin.n": [
+        "Toxic_substance"
+    ],
+    "energy.n": [
+        "Electricity"
+    ],
+    "retaliation.n": [
+        "Revenge"
+    ],
+    "illustrate.v": [
+        "Evidence"
+    ],
+    "acknowledge.v": [
+        "Statement"
+    ],
+    "nerve gas.n": [
+        "Weapon"
+    ],
+    "japanese.a": [
+        "Origin"
+    ],
+    "release.n": [
+        "Releasing"
+    ],
+    "casualty.n": [
+        "Undergoing",
+        "Catastrophe"
+    ],
+    "aspect.n": [
+        "Distinctiveness"
+    ],
+    "vulnerable.a": [
+        "Being_at_risk"
+    ],
+    "likelihood.n": [
+        "Likelihood"
+    ],
+    "summarize.v": [
+        "Summarizing"
+    ],
+    "focus.v": [
+        "Place_weight_on"
+    ],
+    "prevention.n": [
+        "Preventing"
+    ],
+    "hurdle.n": [
+        "Hindering"
+    ],
+    "bioterrorist.n": [
+        "Terrorism"
+    ],
+    "intimidate.v": [
+        "Experiencer_obj"
+    ],
+    "unlawful.a": [
+        "Legality"
+    ],
+    "segment.n": [
+        "Part_whole"
+    ],
+    "perpetrate.v": [
+        "Committing_crime"
+    ],
+    "sow.v": [
+        "Filling"
+    ],
+    "act.n": [
+        "Intentionally_act"
+    ],
+    "label.v": [
+        "Labeling"
+    ],
+    "incorporate.v": [
+        "Inclusion"
+    ],
+    "motivation.n": [
+        "Reason"
+    ],
+    "choice.n": [
+        "Choosing"
+    ],
+    "elicit.v": [
+        "Cause_to_start"
+    ],
+    "differ.v": [
+        "Similarity"
+    ],
+    "distinguish.v": [
+        "Differentiation"
+    ],
+    "nonliving.a": [
+        "Dead_or_alive"
+    ],
+    "skin.n": [
+        "Observable_body_parts"
+    ],
+    "illness.n": [
+        "Medical_conditions"
+    ],
+    "fatal.a": [
+        "Killing"
+    ],
+    "living.a": [
+        "Dead_or_alive"
+    ],
+    "favor.v": [
+        "Partiality",
+        "Preference"
+    ],
+    "American.n": [
+        "People_by_origin"
+    ],
+    "frighten.v": [
+        "Experiencer_obj"
+    ],
+    "destructive.a": [
+        "Destroying"
+    ],
+    "particular.a": [
+        "Idiosyncrasy"
+    ],
+    "characteristic.n": [
+        "Distinctiveness"
+    ],
+    "tactic.n": [
+        "Means"
+    ],
+    "motivate.v": [
+        "Subjective_influence"
+    ],
+    "risky.a": [
+        "Risky_situation"
+    ],
+    "plague.n": [
+        "Medical_conditions"
+    ],
+    "defection.n": [
+        "Quitting_a_place"
+    ],
+    "mechanism.n": [
+        "Means"
+    ],
+    "historically.adv": [
+        "Domain"
+    ],
+    "expose.v": [
+        "Reveal_secret"
+    ],
+    "troubling.a": [
+        "Stimulus_focus"
+    ],
+    "provoke.v": [
+        "Cause_to_start"
+    ],
+    "breed.n": [
+        "Type"
+    ],
+    "irrational.a": [
+        "Mental_property"
+    ],
+    "pursuit.n": [
+        "Cotheme",
+        "Seeking_to_achieve"
+    ],
+    "classify.v": [
+        "Categorization"
+    ],
+    "showdown.n": [
+        "Hostile_encounter"
+    ],
+    "confrontation.n": [
+        "Hostile_encounter"
+    ],
+    "clash.n": [
+        "Hostile_encounter"
+    ],
+    "evil.a": [
+        "Morality_evaluation"
+    ],
+    "offspring.n": [
+        "Kinship"
+    ],
+    "expel.v": [
+        "Removing"
+    ],
+    "revenge.n": [
+        "Revenge"
+    ],
+    "seize.v": [
+        "Taking"
+    ],
+    "document.n": [
+        "Documents"
+    ],
+    "gulf.n": [
+        "Natural_features"
+    ],
+    "congressman.n": [
+        "Leadership"
+    ],
+    "elderly.n": [
+        "People_by_age"
+    ],
+    "malnutrition.n": [
+        "Medical_conditions"
+    ],
+    "eye.n": [
+        "Observable_body_parts"
+    ],
+    "curable.a": [
+        "Cure"
+    ],
+    "seventy.num": [
+        "Cardinal_numbers"
+    ],
+    "drug lord.n": [
+        "Leadership"
+    ],
+    "near thing.a": [
+        "Difficulty"
+    ],
+    "cartel.n": [
+        "Organization"
+    ],
+    "extradite.v": [
+        "Extradition"
+    ],
+    "revive.v": [
+        "Cause_to_resume"
+    ],
+    "extradition.n": [
+        "Extradition"
+    ],
+    "dynamite.n": [
+        "Weapon"
+    ],
+    "trafficker.n": [
+        "Commerce_scenario"
+    ],
+    "pound.n": [
+        "Measure_mass"
+    ],
+    "sooner rather than later.adv": [
+        "Time_vector"
+    ],
+    "fiasco.n": [
+        "Bungling"
+    ],
+    "reassurance.n": [
+        "Reassuring"
+    ],
+    "defensive.a": [
+        "Defend"
+    ],
+    "persistent.a": [
+        "Process_continue"
+    ],
+    "questionable.a": [
+        "Suspiciousness"
+    ],
+    "reliability.n": [
+        "Trust"
+    ],
+    "remnant.n": [
+        "Remainder"
+    ],
+    "arms.n": [
+        "Weapon"
+    ],
+    "accurate.a": [
+        "Accuracy",
+        "Correctness"
+    ],
+    "causative agent.n": [
+        "Active_substance"
+    ],
+    "contravene.v": [
+        "Compliance"
+    ],
+    "importation.n": [
+        "Importing"
+    ],
+    "impede.v": [
+        "Hindering"
+    ],
+    "intercontinental.a": [
+        "Range"
+    ],
+    "silo.n": [
+        "Locale_by_use"
+    ],
+    "designation.n": [
+        "Referring_by_name"
+    ],
+    "submarine.n": [
+        "Vehicle"
+    ],
+    "designated.a": [
+        "Being_named"
+    ],
+    "creation.n": [
+        "Intentionally_create"
+    ],
+    "prompt.v": [
+        "Cause_to_start"
+    ],
+    "argue.v": [
+        "Reasoning"
+    ],
+    "promise.n": [
+        "Commitment"
+    ],
+    "freeze.n": [
+        "Activity_pause"
+    ],
+    "word.v": [
+        "Encoding"
+    ],
+    "acknowledgment.n": [
+        "Statement"
+    ],
+    "step up.v": [
+        "Cause_change_of_position_on_a_scale"
+    ],
+    "submission.n": [
+        "Submitting_documents"
+    ],
+    "flight test.v": [
+        "Operational_testing"
+    ],
+    "boy.n": [
+        "People_by_age"
+    ],
+    "boat.n": [
+        "Vehicle"
+    ],
+    "weld.v": [
+        "Building"
+    ],
+    "lawless.a": [
+        "Compliance"
+    ],
+    "passport.n": [
+        "Documents"
+    ],
+    "plastic explosive.n": [
+        "Weapon"
+    ],
+    "mold.v": [
+        "Reshaping"
+    ],
+    "ban.n": [
+        "Prohibiting"
+    ],
+    "infection.n": [
+        "Medical_conditions"
+    ],
+    "house.v": [
+        "Containing"
+    ],
+    "convert.v": [
+        "Cause_change"
+    ],
+    "later.a": [
+        "Temporal_subregion"
+    ],
+    "rapid.a": [
+        "Taking_time"
+    ],
+    "alarming.a": [
+        "Stimulus_focus"
+    ],
+    "progress.v": [
+        "Progress"
+    ],
+    "shah.n": [
+        "Leadership"
+    ],
+    "yellowcake.n": [
+        "Substance"
+    ],
+    "technician.n": [
+        "People_by_vocation"
+    ],
+    "withdrawal.n": [
+        "Removing",
+        "Withdraw_from_participation",
+        "Quitting_a_place"
+    ],
+    "insufficiency.n": [
+        "Sufficiency"
+    ],
+    "electrical.a": [
+        "Electricity"
+    ],
+    "exporter.n": [
+        "Import_export"
+    ],
+    "father.n": [
+        "Kinship"
+    ],
+    "protocol.n": [
+        "Law"
+    ],
+    "pressure.v": [
+        "Attempt_suasion"
+    ],
+    "alarm.v": [
+        "Experiencer_obj"
+    ],
+    "import_((act)).n": [
+        "Importing"
+    ],
+    "consent.v": [
+        "Commitment"
+    ],
+    "ratification.n": [
+        "Ratification"
+    ],
+    "probability.n": [
+        "Likelihood"
+    ],
+    "interim.a": [
+        "Duration_attribute"
+    ],
+    "disclosure.n": [
+        "Reveal_secret"
+    ],
+    "aspiration.n": [
+        "Desiring"
+    ],
+    "unlike.prep": [
+        "Similarity"
+    ],
+    "insecure.a": [
+        "Being_at_risk"
+    ],
+    "hamper.v": [
+        "Hindering"
+    ],
+    "forthcoming.a": [
+        "Candidness"
+    ],
+    "reprimand.v": [
+        "Judgment_direct_address"
+    ],
+    "rebuke.v": [
+        "Judgment_direct_address"
+    ],
+    "postpone.v": [
+        "Change_event_time"
+    ],
+    "forthrightness.n": [
+        "Candidness"
+    ],
+    "possession_of_goods.n": [
+        "Possession"
+    ],
+    "substantiate.v": [
+        "Verification"
+    ],
+    "critic.n": [
+        "Judgment_communication"
+    ],
+    "tie.v": [
+        "Make_cognitive_connection"
+    ],
+    "variable.n": [
+        "Contingency"
+    ],
+    "modernization.n": [
+        "Cause_to_make_progress"
+    ],
+    "ultimately.adv": [
+        "Temporal_collocation"
+    ],
+    "strategic.a": [
+        "Weapon"
+    ],
+    "reshape.v": [
+        "Cause_change"
+    ],
+    "defenses.n": [
+        "Defend"
+    ],
+    "improved.a": [
+        "Cause_to_make_progress"
+    ],
+    "enforcement.n": [
+        "Enforcing"
+    ],
+    "signature.n": [
+        "Sign_agreement"
+    ],
+    "prior.a": [
+        "Relative_time"
+    ],
+    "fissile.a": [
+        "Nuclear_process"
+    ],
+    "(in/out) line.n": [
+        "Compliance"
+    ],
+    "issuance.n": [
+        "Creating"
+    ],
+    "compliance.n": [
+        "Compliance"
+    ],
+    "entity.n": [
+        "Entity"
+    ],
+    "fourteen.n": [
+        "Cardinal_numbers"
+    ],
+    "host.v": [
+        "Social_event"
+    ],
+    "scope.n": [
+        "Scope"
+    ],
+    "corps.n": [
+        "Aggregate"
+    ],
+    "opposite.prep": [
+        "Locative_relation"
+    ],
+    "medium.a": [
+        "Position_on_a_scale"
+    ],
+    "underway.a": [
+        "Process_continue"
+    ],
+    "solid.n": [
+        "Substance"
+    ],
+    "fuel.v": [
+        "Supply"
+    ],
+    "icbm.n": [
+        "Weapon"
+    ],
+    "inaccurate.a": [
+        "Accuracy"
+    ],
+    "transition.n": [
+        "Undergo_change"
+    ],
+    "currently.adv": [
+        "Temporal_collocation"
+    ],
+    "formerly.adv": [
+        "Time_vector"
+    ],
+    "theater_((of_war)).n": [
+        "Locale_by_event"
+    ],
+    "parameter.n": [
+        "Terms_of_agreement"
+    ],
+    "list.n": [
+        "Text"
+    ],
+    "restrict.v": [
+        "Grant_permission"
+    ],
+    "suspicion.n": [
+        "Awareness"
+    ],
+    "consultation.n": [
+        "Discussion"
+    ],
+    "orbit.n": [
+        "Path_traveled"
+    ],
+    "ascent.n": [
+        "Traversing"
+    ],
+    "aging.a": [
+        "Aging"
+    ],
+    "collect.v": [
+        "Gathering_up"
+    ],
+    "recount.v": [
+        "Statement"
+    ],
+    "certainly.adv": [
+        "Likelihood"
+    ],
+    "hence.prep": [
+        "Time_vector"
+    ],
+    "mogul.n": [
+        "Leadership"
+    ],
+    "shift.n": [
+        "Change_position_on_a_scale"
+    ],
+    "paint.v": [
+        "Communicate_categorization"
+    ],
+    "conscious.a": [
+        "Awareness"
+    ],
+    "pin.v": [
+        "Judgment_communication"
+    ],
+    "there.adv": [
+        "Locative_relation"
+    ],
+    "laugh.v": [
+        "Make_noise"
+    ],
+    "spit up.v": [
+        "Excreting"
+    ],
+    "amusing.a": [
+        "Stimulus_focus"
+    ],
+    "mock.v": [
+        "Judgment"
+    ],
+    "destiny.n": [
+        "Destiny"
+    ],
+    "shift.v": [
+        "Change_position_on_a_scale"
+    ],
+    "strongman.n": [
+        "Dominate_competitor"
+    ],
+    "plethora.n": [
+        "Quantity"
+    ],
+    "imagine.v": [
+        "Awareness"
+    ],
+    "incredible.a": [
+        "Expertise"
+    ],
+    "too.adv": [
+        "Sufficiency"
+    ],
+    "missive.n": [
+        "Text"
+    ],
+    "prediction.n": [
+        "Expectation"
+    ],
+    "hasten.v": [
+        "Self_motion"
+    ],
+    "guess.n": [
+        "Coming_to_believe"
+    ],
+    "approximately.adv": [
+        "Relational_quantity"
+    ],
+    "earn.v": [
+        "Earnings_and_losses"
+    ],
+    "gift.n": [
+        "Giving"
+    ],
+    "fulfilling.a": [
+        "Stimulus_focus"
+    ],
+    "skill.n": [
+        "Expertise"
+    ],
+    "totally.adv": [
+        "Degree"
+    ],
+    "bike.n": [
+        "Vehicle"
+    ],
+    "snow_event.n": [
+        "Precipitation"
+    ],
+    "rain_event.n": [
+        "Precipitation"
+    ],
+    "ride.v": [
+        "Operate_vehicle",
+        "Ride_vehicle"
+    ],
+    "generous.a": [
+        "Stinginess"
+    ],
+    "enclose.v": [
+        "Placing"
+    ],
+    "envelope.n": [
+        "Containers"
+    ],
+    "wise.a": [
+        "Mental_property"
+    ],
+    "donate.v": [
+        "Giving"
+    ],
+    "graduate.n": [
+        "Education_teaching"
+    ],
+    "historic.a": [
+        "Historic_event"
+    ],
+    "brochure.n": [
+        "Text"
+    ],
+    "significance.n": [
+        "Importance"
+    ],
+    "donor.n": [
+        "Giving"
+    ],
+    "detail.v": [
+        "Statement"
+    ],
+    "magazine.n": [
+        "Text"
+    ],
+    "restore.v": [
+        "Rejuvenation"
+    ],
+    "ravine.n": [
+        "Natural_features"
+    ],
+    "garden.n": [
+        "Locale_by_use"
+    ],
+    "extraordinary.a": [
+        "Desirability"
+    ],
+    "grounds.n": [
+        "Locale"
+    ],
+    "celebration.n": [
+        "Social_event"
+    ],
+    "July.n": [
+        "Calendric_unit"
+    ],
+    "October.n": [
+        "Calendric_unit"
+    ],
+    "picnic.n": [
+        "Social_event"
+    ],
+    "together.adv": [
+        "Collaboration"
+    ],
+    "role.n": [
+        "Performers_and_roles"
+    ],
+    "devise.v": [
+        "Coming_up_with"
+    ],
+    "dependency.n": [
+        "Reliance"
+    ],
+    "donation.n": [
+        "Giving"
+    ],
+    "player.n": [
+        "Participation"
+    ],
+    "disclose.v": [
+        "Reveal_secret"
+    ],
+    "renounce.v": [
+        "Renunciation"
+    ],
+    "proscribe.v": [
+        "Prohibiting"
+    ],
+    "unusual.a": [
+        "Typicality"
+    ],
+    "elimination.n": [
+        "Removing"
+    ],
+    "director general.n": [
+        "Leadership"
+    ],
+    "convention.n": [
+        "Custom",
+        "Be_in_agreement_on_action"
+    ],
+    "prior.adv": [
+        "Time_vector"
+    ],
+    "in time.prep": [
+        "Time_vector"
+    ],
+    "regret.n": [
+        "Experiencer_focus"
+    ],
+    "acquainted.a": [
+        "Familiarity"
+    ],
+    "witness.v": [
+        "Perception_experience"
+    ],
+    "double.v": [
+        "Change_position_on_a_scale"
+    ],
+    "regret.v": [
+        "Experiencer_focus"
+    ],
+    "Monday.n": [
+        "Calendric_unit"
+    ],
+    "rush hour.n": [
+        "Calendric_unit"
+    ],
+    "construction_(entity).n": [
+        "Building"
+    ],
+    "intent.a": [
+        "Purpose"
+    ],
+    "buzz.v": [
+        "Lively_place"
+    ],
+    "frenetic.a": [
+        "Lively_place"
+    ],
+    "crowded.a": [
+        "Abounding_with"
+    ],
+    "bent.a": [
+        "Purpose"
+    ],
+    "clearly_((clarity)).adv": [
+        "Obviousness"
+    ],
+    "roar.n": [
+        "Sounds"
+    ],
+    "proverbial.a": [
+        "Unattributed_information"
+    ],
+    "hospitality.n": [
+        "Hospitality"
+    ],
+    "present.a": [
+        "Presence"
+    ],
+    "post office.n": [
+        "Locale_by_use"
+    ],
+    "square.n": [
+        "Locale_by_use"
+    ],
+    "busy.a": [
+        "Lively_place"
+    ],
+    "elegant.a": [
+        "Aesthetics"
+    ],
+    "bullet.n": [
+        "Ammunition"
+    ],
+    "reappraise.v": [
+        "Assessing"
+    ],
+    "literature.n": [
+        "Text",
+        "Fields"
+    ],
+    "Irish.n": [
+        "People_by_origin"
+    ],
+    "wit.n": [
+        "Mental_property"
+    ],
+    "charm_((mass)).n": [
+        "Stimulus_focus"
+    ],
+    "magic.n": [
+        "Ineffability"
+    ],
+    "preservation.n": [
+        "Preserving"
+    ],
+    "excel.v": [
+        "Expertise"
+    ],
+    "package.v": [
+        "Placing"
+    ],
+    "past.n": [
+        "Individual_history"
+    ],
+    "revisit.v": [
+        "Visiting"
+    ],
+    "odyssey.n": [
+        "Travel"
+    ],
+    "artifact.n": [
+        "Artifact"
+    ],
+    "north-south.n": [
+        "Part_orientational"
+    ],
+    "rivalry.n": [
+        "Competition"
+    ],
+    "good-humored.a": [
+        "Social_interaction_evaluation"
+    ],
+    "distinction.n": [
+        "Similarity"
+    ],
+    "culturally.adv": [
+        "Domain"
+    ],
+    "north.prep": [
+        "Locative_relation"
+    ],
+    "out.prep": [
+        "Locative_relation",
+        "Expected_location_of_person"
+    ],
+    "canal.n": [
+        "Locale_by_use"
+    ],
+    "south.prep": [
+        "Locative_relation"
+    ],
+    "curve.n": [
+        "Shapes"
+    ],
+    "unexpected.a": [
+        "Expectation"
+    ],
+    "visible.a": [
+        "Obviousness"
+    ],
+    "cry.n": [
+        "Vocalizations"
+    ],
+    "remind.v": [
+        "Evoking"
+    ],
+    "perfect.a": [
+        "Usefulness"
+    ],
+    "green.n": [
+        "Locale_by_use",
+        "Color"
+    ],
+    "boulevard.n": [
+        "Roadways"
+    ],
+    "east.prep": [
+        "Locative_relation"
+    ],
+    "endeavor.n": [
+        "Attempt"
+    ],
+    "west.prep": [
+        "Locative_relation"
+    ],
+    "cutting-edge.a": [
+        "Stage_of_progress"
+    ],
+    "artist.n": [
+        "Create_physical_artwork"
+    ],
+    "castle.n": [
+        "Buildings"
+    ],
+    "rain.v": [
+        "Precipitation"
+    ],
+    "all the time.adv": [
+        "Frequency"
+    ],
+    "shower.n": [
+        "Precipitation"
+    ],
+    "changeable.a": [
+        "Undergo_change"
+    ],
+    "best.v": [
+        "Required_event"
+    ],
+    "light.n": [
+        "Location_of_light"
+    ],
+    "lowering sky.n": [
+        "Weather"
+    ],
+    "winner.n": [
+        "Finish_competition"
+    ],
+    "interpret.v": [
+        "Categorization"
+    ],
+    "high-priest.n": [
+        "Leadership"
+    ],
+    "literary.a": [
+        "Fields"
+    ],
+    "stature.n": [
+        "Fame"
+    ],
+    "accident.n": [
+        "Coincidence"
+    ],
+    "will.n": [
+        "Desiring"
+    ],
+    "theatre.n": [
+        "Buildings"
+    ],
+    "theater.n": [
+        "Locale_by_use",
+        "Fields"
+    ],
+    "performance.n": [
+        "Performing_arts"
+    ],
+    "tour.n": [
+        "Touring",
+        "Travel"
+    ],
+    "well known.a": [
+        "Fame"
+    ],
+    "revival.n": [
+        "Rejuvenation"
+    ],
+    "pub.n": [
+        "Locale_by_use"
+    ],
+    "irish.a": [
+        "Origin"
+    ],
+    "gallery.n": [
+        "Locale_by_use"
+    ],
+    "craft.n": [
+        "Craft"
+    ],
+    "array.n": [
+        "Diversity"
+    ],
+    "multinational.a": [
+        "Political_locales"
+    ],
+    "blatant.a": [
+        "Prominence"
+    ],
+    "chain.n": [
+        "Businesses",
+        "Connectors"
+    ],
+    "metamorphosis.n": [
+        "Undergo_change"
+    ],
+    "fresh.a": [
+        "Age"
+    ],
+    "galore.a": [
+        "Abundance"
+    ],
+    "farm.n": [
+        "Locale_by_use"
+    ],
+    "ubiquitous.a": [
+        "Locative_relation"
+    ],
+    "park.n": [
+        "Locale_by_use"
+    ],
+    "abound.v": [
+        "Abundance"
+    ],
+    "northwest.n": [
+        "Part_orientational"
+    ],
+    "open space.a": [
+        "Locale_by_use"
+    ],
+    "strand.n": [
+        "Natural_features"
+    ],
+    "rugged.a": [
+        "Natural_features"
+    ],
+    "park((2)).n": [
+        "Locale_by_use"
+    ],
+    "mount.n": [
+        "Natural_features"
+    ],
+    "breathtaking.a": [
+        "Stimulus_focus"
+    ],
+    "accessible.a": [
+        "Having_or_lacking_access"
+    ],
+    "guided.a": [
+        "Cotheme"
+    ],
+    "twenty-five.num": [
+        "Cardinal_numbers"
+    ],
+    "professional.a": [
+        "People_by_vocation"
+    ],
+    "attract.v": [
+        "Cause_motion"
+    ],
+    "Dubliner.n": [
+        "People_by_origin"
+    ],
+    "shoulder.n": [
+        "Observable_body_parts"
+    ],
+    "happily.adv": [
+        "Experiencer_focus"
+    ],
+    "fashion.n": [
+        "Trendiness"
+    ],
+    "low.n": [
+        "Extreme_value"
+    ],
+    "slaughter.n": [
+        "Killing"
+    ],
+    "shoot.v": [
+        "Hit_target"
+    ],
+    "dead.a": [
+        "Dead_or_alive"
+    ],
+    "manager.n": [
+        "People_by_vocation"
+    ],
+    "bomb.v": [
+        "Attack"
+    ],
+    "damage.n": [
+        "Damaging"
+    ],
+    "target.n": [
+        "Aiming"
+    ],
+    "murder.n": [
+        "Killing"
+    ],
+    "terrify.v": [
+        "Experiencer_obj"
+    ],
+    "edition.n": [
+        "Text"
+    ],
+    "command.v": [
+        "Leadership"
+    ],
+    "editorial.n": [
+        "Text"
+    ],
+    "advance.n": [
+        "Progress"
+    ],
+    "materialize.v": [
+        "Coming_to_be"
+    ],
+    "blackmail.v": [
+        "Manipulate_into_doing"
+    ],
+    "contribution.n": [
+        "Giving"
+    ],
+    "diploma.n": [
+        "Documents"
+    ],
+    "rain.n": [
+        "Precipitation"
+    ],
+    "snow.n": [
+        "Precipitation"
+    ],
+    "feed.v": [
+        "Ingestion"
+    ],
+    "journey.n": [
+        "Travel"
+    ],
+    "feeling.n": [
+        "Sensation"
+    ],
+    "motel.n": [
+        "Buildings"
+    ],
+    "waste.v": [
+        "Frugality"
+    ],
+    "guy.n": [
+        "People"
+    ],
+    "value.n": [
+        "Usefulness"
+    ],
+    "measure.v": [
+        "Dimension"
+    ],
+    "radiate.v": [
+        "Emanating"
+    ],
+    "as.prep": [
+        "Performers_and_roles"
+    ],
+    "rush.v": [
+        "Self_motion"
+    ],
+    "figure out.v": [
+        "Coming_to_believe"
+    ],
+    "industrial.a": [
+        "Fields",
+        "Manufacturing"
+    ],
+    "birth.v": [
+        "Birth"
+    ],
+    "baby.n": [
+        "People_by_age"
+    ],
+    "suicide.n": [
+        "Killing"
+    ],
+    "dad.n": [
+        "Kinship"
+    ],
+    "mom.n": [
+        "Kinship"
+    ],
+    "adult.n": [
+        "People_by_age"
+    ],
+    "disorder.n": [
+        "Medical_conditions"
+    ],
+    "repeated.a": [
+        "Frequency"
+    ],
+    "alcoholic.n": [
+        "Addiction"
+    ],
+    "recover.v": [
+        "Recovery"
+    ],
+    "multitude.n": [
+        "Aggregate"
+    ],
+    "abuse.n": [
+        "Abusing"
+    ],
+    "housemate.n": [
+        "People_by_residence"
+    ],
+    "tragedy.n": [
+        "Catastrophe"
+    ],
+    "go away.v": [
+        "Ceasing_to_be"
+    ],
+    "triple.v": [
+        "Change_position_on_a_scale"
+    ],
+    "love.v": [
+        "Experiencer_focus"
+    ],
+    "happy.a": [
+        "Emotion_directed"
+    ],
+    "abuse.v": [
+        "Abusing"
+    ],
+    "anger.n": [
+        "Emotion_directed"
+    ],
+    "down.prep": [
+        "Locative_relation"
+    ],
+    "unrivalled.a": [
+        "Beyond_compare"
+    ],
+    "topic.n": [
+        "Topic"
+    ],
+    "impression.n": [
+        "Regard"
+    ],
+    "factor.n": [
+        "Contingency"
+    ],
+    "custom.n": [
+        "Custom"
+    ],
+    "polite.a": [
+        "Social_interaction_evaluation"
+    ],
+    "apartment.n": [
+        "Building_subparts"
+    ],
+    "alleviate.v": [
+        "Cure"
+    ],
+    "fate.n": [
+        "Destiny"
+    ],
+    "luck.n": [
+        "Luck"
+    ],
+    "skyscraper.n": [
+        "Buildings"
+    ],
+    "weekend.n": [
+        "Calendric_unit"
+    ],
+    "heartbroken.a": [
+        "Emotion_directed"
+    ],
+    "disgusting.a": [
+        "Stimulus_focus"
+    ],
+    "senate.n": [
+        "Leadership"
+    ],
+    "stooge.n": [
+        "Subordinates_and_superiors"
+    ],
+    "lie.n": [
+        "Prevarication"
+    ],
+    "credence_((lend)).n": [
+        "Evidence"
+    ],
+    "bullshit artist.n": [
+        "Prevarication"
+    ],
+    "zipper.n": [
+        "Clothing_parts"
+    ],
+    "disturbing.a": [
+        "Stimulus_focus"
+    ],
+    "lament.v": [
+        "Complaining"
+    ],
+    "mess.n": [
+        "Predicament"
+    ],
+    "paramour.n": [
+        "Personal_relationship"
+    ],
+    "quiet.n": [
+        "Become_silent"
+    ],
+    "cajole.v": [
+        "Manipulate_into_doing"
+    ],
+    "resentment.n": [
+        "Experiencer_focus"
+    ],
+    "wreak.v": [
+        "Causation"
+    ],
+    "rue.v": [
+        "Contrition"
+    ],
+    "wrongdoer.n": [
+        "People_by_morality"
+    ],
+    "contrition.n": [
+        "Contrition"
+    ],
+    "mislead.v": [
+        "Prevarication"
+    ],
+    "smuggle.v": [
+        "Smuggling"
+    ],
+    "commerce.n": [
+        "Commerce_scenario"
+    ],
+    "get ready.v": [
+        "Activity_prepare"
+    ],
+    "weave.v": [
+        "Motion"
+    ],
+    "fifty-two.num": [
+        "Cardinal_numbers"
+    ],
+    "escalator.n": [
+        "Connecting_architecture"
+    ],
+    "basement.n": [
+        "Building_subparts"
+    ],
+    "crosswalk.n": [
+        "Roadways"
+    ],
+    "mall.n": [
+        "Buildings"
+    ],
+    "terminal.n": [
+        "Buildings"
+    ],
+    "ferry.v": [
+        "Bringing"
+    ],
+    "east.adv": [
+        "Direction"
+    ],
+    "city hall.n": [
+        "Buildings"
+    ],
+    "left.a": [
+        "Remainder"
+    ],
+    "alternative.n": [
+        "Possibilities"
+    ],
+    "antenna.n": [
+        "Observable_body_parts"
+    ],
+    "sharp.a": [
+        "Sharpness"
+    ],
+    "striking.a": [
+        "Stimulus_focus"
+    ],
+    "guard.v": [
+        "Protecting"
+    ],
+    "tram.n": [
+        "Vehicle"
+    ],
+    "historic_((entity)).a": [
+        "Historic_event"
+    ],
+    "far.adv": [
+        "Degree"
+    ],
+    "foundation.n": [
+        "Architectural_part"
+    ],
+    "stain.v": [
+        "Processing_materials"
+    ],
+    "french.a": [
+        "Origin"
+    ],
+    "winding.a": [
+        "Path_shape"
+    ],
+    "greenhouse.n": [
+        "Buildings"
+    ],
+    "peak.n": [
+        "Natural_features"
+    ],
+    "exhilarating.a": [
+        "Stimulus_focus"
+    ],
+    "past.prep": [
+        "Locative_relation"
+    ],
+    "jungle.n": [
+        "Biological_area"
+    ],
+    "crane.v": [
+        "Body_movement"
+    ],
+    "neck.n": [
+        "Observable_body_parts"
+    ],
+    "glimpse.n": [
+        "Punctual_perception"
+    ],
+    "fashionable.a": [
+        "Trendiness"
+    ],
+    "wealthy.a": [
+        "Wealthiness"
+    ],
+    "sedan.n": [
+        "Vehicle"
+    ],
+    "crowd.n": [
+        "Aggregate"
+    ],
+    "festival.n": [
+        "Social_event"
+    ],
+    "throng.n": [
+        "Aggregate"
+    ],
+    "tourist.n": [
+        "Touring"
+    ],
+    "photo.n": [
+        "Physical_artworks"
+    ],
+    "lodge.n": [
+        "Buildings"
+    ],
+    "residence.n": [
+        "Buildings"
+    ],
+    "walk.n": [
+        "Self_motion"
+    ],
+    "oasis.n": [
+        "Biological_area"
+    ],
+    "go_((through)).v": [
+        "Scrutiny"
+    ],
+    "weird.a": [
+        "Idiosyncrasy"
+    ],
+    "chatter.v": [
+        "Make_noise"
+    ],
+    "maker.n": [
+        "Manufacturing"
+    ],
+    "top.n": [
+        "Part_orientational"
+    ],
+    "driveway.n": [
+        "Roadways"
+    ],
+    "bronze.n": [
+        "Physical_artworks"
+    ],
+    "selection.n": [
+        "Choosing"
+    ],
+    "worship.n": [
+        "Rite"
+    ],
+    "incense.n": [
+        "Sensation"
+    ],
+    "coil.n": [
+        "Shapes"
+    ],
+    "statue.n": [
+        "Physical_artworks"
+    ],
+    "sinful.a": [
+        "Morality_evaluation"
+    ],
+    "convene.v": [
+        "Assemble"
+    ],
+    "husband.n": [
+        "Personal_relationship"
+    ],
+    "light.v": [
+        "Setting_fire"
+    ],
+    "climb.v": [
+        "Self_motion"
+    ],
+    "shop.v": [
+        "Shopping"
+    ],
+    "prosperous.a": [
+        "Wealthiness"
+    ],
+    "anchored.a": [
+        "Being_attached"
+    ],
+    "headquarters.n": [
+        "Locale_by_use"
+    ],
+    "midday.n": [
+        "Calendric_unit"
+    ],
+    "incense.v": [
+        "Experiencer_obj"
+    ],
+    "trader.n": [
+        "People_by_vocation"
+    ],
+    "twenty-one.num": [
+        "Cardinal_numbers"
+    ],
+    "fire off.v": [
+        "Shoot_projectiles"
+    ],
+    "noon.n": [
+        "Calendric_unit"
+    ],
+    "float.v": [
+        "Motion"
+    ],
+    "frolic.v": [
+        "Self_motion"
+    ],
+    "electric.a": [
+        "Electricity"
+    ],
+    "propel.v": [
+        "Cause_motion"
+    ],
+    "cut short.v": [
+        "Change_event_duration"
+    ],
+    "make up.v": [
+        "Reparation"
+    ],
+    "auction.n": [
+        "Commerce_sell"
+    ],
+    "fish.n": [
+        "Food"
+    ],
+    "get up.v": [
+        "Waking_up"
+    ],
+    "offer.v": [
+        "Offering"
+    ],
+    "excitement.n": [
+        "Emotion_directed"
+    ],
+    "present.v": [
+        "Cause_to_perceive"
+    ],
+    "replica.n": [
+        "Duplication"
+    ],
+    "pagoda.n": [
+        "Buildings"
+    ],
+    "inlet.n": [
+        "Natural_features"
+    ],
+    "pack.v": [
+        "Filling"
+    ],
+    "inhabitant.n": [
+        "Residence"
+    ],
+    "adjacent.a": [
+        "Locative_relation"
+    ],
+    "ship.n": [
+        "Vehicle"
+    ],
+    "self.n": [
+        "Proper_reference"
+    ],
+    "facade.n": [
+        "Architectural_part"
+    ],
+    "lobby.n": [
+        "Building_subparts"
+    ],
+    "closed.a": [
+        "Openness"
+    ],
+    "painting.n": [
+        "Physical_artworks"
+    ],
+    "photograph.n": [
+        "Physical_artworks"
+    ],
+    "state-of-the-art.a": [
+        "Stage_of_progress"
+    ],
+    "perish.v": [
+        "Death"
+    ],
+    "locate.v": [
+        "Locating"
+    ],
+    "covered.a": [
+        "Abounding_with"
+    ],
+    "intelligent.a": [
+        "Mental_property"
+    ],
+    "feast.n": [
+        "Social_event"
+    ],
+    "ambush.n": [
+        "Attack"
+    ],
+    "arrest.n": [
+        "Arrest"
+    ],
+    "thought.n": [
+        "Cogitation"
+    ],
+    "premier.n": [
+        "Leadership"
+    ],
+    "onset.n": [
+        "Process_start"
+    ],
+    "seizure.n": [
+        "Taking"
+    ],
+    "generate.v": [
+        "Creating"
+    ],
+    "recovery.n": [
+        "Recovery"
+    ],
+    "toe.n": [
+        "Observable_body_parts"
+    ],
+    "partner.n": [
+        "Collaboration"
+    ],
+    "tread.v": [
+        "Self_motion"
+    ],
+    "waltz.v": [
+        "Self_motion"
+    ],
+    "impediment.n": [
+        "Hindering"
+    ],
+    "clear.v": [
+        "Grant_permission"
+    ],
+    "fester.v": [
+        "Rotting"
+    ],
+    "ineffective.a": [
+        "Usefulness"
+    ],
+    "why.n": [
+        "Reason"
+    ],
+    "malnourishment.n": [
+        "Medical_conditions"
+    ],
+    "starvation.n": [
+        "Death"
+    ],
+    "then.a": [
+        "Time_vector"
+    ],
+    "pair.n": [
+        "Cardinal_numbers"
+    ],
+    "Friday.n": [
+        "Calendric_unit"
+    ],
+    "April.n": [
+        "Calendric_unit"
+    ],
+    "sympathetic.a": [
+        "Emotion_directed"
+    ],
+    "acquit.v": [
+        "Verdict"
+    ],
+    "apprehend.v": [
+        "Arrest"
+    ],
+    "belittle.v": [
+        "Judgment_communication"
+    ],
+    "fair.a": [
+        "Fairness_evaluation"
+    ],
+    "prominent.a": [
+        "Prominence"
+    ],
+    "tend.v": [
+        "Likelihood"
+    ],
+    "deceive.v": [
+        "Prevarication"
+    ],
+    "reiterate.v": [
+        "Statement"
+    ],
+    "contradict.v": [
+        "Evidence"
+    ],
+    "syrian.a": [
+        "Origin"
+    ],
+    "deceptive.a": [
+        "Prevarication"
+    ],
+    "plead.v": [
+        "Request"
+    ],
+    "reward.v": [
+        "Rewards_and_punishments"
+    ],
+    "print.v": [
+        "Text_creation"
+    ],
+    "suggestion.n": [
+        "Request"
+    ],
+    "depart.v": [
+        "Departing"
+    ],
+    "aunt.n": [
+        "Kinship"
+    ],
+    "uncle.n": [
+        "Kinship"
+    ],
+    "grandmother.n": [
+        "Kinship"
+    ],
+    "May.n": [
+        "Calendric_unit"
+    ],
+    "okay.a": [
+        "Desirability"
+    ],
+    "hold off.v": [
+        "Holding_off_on"
+    ],
+    "forecast.v": [
+        "Predicting"
+    ],
+    "like.v": [
+        "Experiencer_focus"
+    ],
+    "done.a": [
+        "Activity_done_state"
+    ],
+    "details.n": [
+        "Information"
+    ],
+    "conspiracy.n": [
+        "Collaboration"
+    ],
+    "volunteer.v": [
+        "Commitment"
+    ],
+    "rape.v": [
+        "Rape"
+    ],
+    "rob.v": [
+        "Robbery"
+    ],
+    "revolt.v": [
+        "Change_of_leadership"
+    ],
+    "uniform.n": [
+        "Clothing"
+    ],
+    "killing.n": [
+        "Killing"
+    ],
+    "forgiveness.n": [
+        "Forgiveness"
+    ],
+    "repentance.n": [
+        "Contrition"
+    ],
+    "denounce.v": [
+        "Judgment_communication"
+    ],
+    "sorry.a": [
+        "Contrition"
+    ],
+    "open.v": [
+        "Body_movement"
+    ],
+    "mouth.n": [
+        "Observable_body_parts"
+    ],
+    "attach.v": [
+        "Attaching"
+    ],
+    "tomorrow.n": [
+        "Calendric_unit"
+    ],
+    "normal.a": [
+        "Typicality"
+    ],
+    "come up.v": [
+        "Coming_up_with"
+    ],
+    "be_supposed_(to).v": [
+        "Required_event"
+    ],
+    "adjustment.n": [
+        "Adjusting"
+    ],
+    "judicial.a": [
+        "Judicial_body"
+    ],
+    "penalty.n": [
+        "Rewards_and_punishments"
+    ],
+    "obviously.adv": [
+        "Obviousness"
+    ],
+    "sentence.n": [
+        "Sentencing"
+    ],
+    "quit.v": [
+        "Activity_stop",
+        "Process_stop"
+    ],
+    "screw up.v": [
+        "Bungling"
+    ],
+    "sentence.v": [
+        "Sentencing"
+    ],
+    "murderer.n": [
+        "Killing"
+    ],
+    "jail.n": [
+        "Prison"
+    ],
+    "rapist.n": [
+        "Rape"
+    ],
+    "pathetic.a": [
+        "Desirability"
+    ],
+    "crazy.a": [
+        "Mental_property"
+    ],
+    "reasonable.a": [
+        "Mental_property"
+    ],
+    "beyond.prep": [
+        "Locative_relation"
+    ],
+    "judge.n": [
+        "People_by_vocation"
+    ],
+    "verdict.n": [
+        "Verdict"
+    ],
+    "lawyer.n": [
+        "People_by_vocation"
+    ],
+    "prolong.v": [
+        "Change_event_duration"
+    ],
+    "pain.n": [
+        "Perception_body"
+    ],
+    "pick.v": [
+        "Choosing"
+    ],
+    "lenient.a": [
+        "Strictness"
+    ],
+    "wood.n": [
+        "Biological_area"
+    ],
+    "break_up.v": [
+        "Cause_to_fragment"
+    ],
+    "lock up.v": [
+        "Immobilization"
+    ],
+    "laundry room.a": [
+        "Building_subparts"
+    ],
+    "smoke.v": [
+        "Ingest_substance"
+    ],
+    "moor.n": [
+        "Biological_area"
+    ],
+    "glass.n": [
+        "Containers"
+    ],
+    "puff.v": [
+        "Ingest_substance"
+    ],
+    "lean.v": [
+        "Change_posture"
+    ],
+    "creak.n": [
+        "Sounds"
+    ],
+    "boot.n": [
+        "Clothing"
+    ],
+    "crouch.v": [
+        "Posture"
+    ],
+    "outhouse.n": [
+        "Buildings"
+    ],
+    "noise.n": [
+        "Sounds"
+    ],
+    "key.v": [
+        "Damaging"
+    ],
+    "reprocess.v": [
+        "Processing_materials"
+    ],
+    "discrepancy.n": [
+        "Similarity"
+    ],
+    "ostensibly.adv": [
+        "Unattributed_information"
+    ],
+    "disable.v": [
+        "Render_nonfunctional"
+    ],
+    "break.v": [
+        "Cause_to_fragment"
+    ],
+    "seal.n": [
+        "Fastener"
+    ],
+    "correctness.n": [
+        "Correctness"
+    ],
+    "divert.v": [
+        "Redirecting"
+    ],
+    "transpire.v": [
+        "Event"
+    ],
+    "valid.a": [
+        "Being_in_effect"
+    ],
+    "intercept.v": [
+        "Intercepting"
+    ],
+    "verifiable.a": [
+        "Verification"
+    ],
+    "flight-test.v": [
+        "Operational_testing"
+    ],
+    "so-called.a": [
+        "Being_named"
+    ],
+    "back out.v": [
+        "Going_back_on_a_commitment"
+    ],
+    "moratorium.n": [
+        "Activity_pause"
+    ],
+    "focused.a": [
+        "Place_weight_on"
+    ],
+    "proposal.n": [
+        "Statement"
+    ],
+    "loss.n": [
+        "Earnings_and_losses",
+        "Finish_competition"
+    ],
+    "question.v": [
+        "Questioning"
+    ],
+    "extraction.n": [
+        "Removing"
+    ],
+    "gram.n": [
+        "Measure_mass"
+    ],
+    "operational.a": [
+        "Using"
+    ],
+    "unknown.a": [
+        "Awareness"
+    ],
+    "accord.n": [
+        "Be_in_agreement_on_action",
+        "Documents"
+    ],
+    "fundamental.a": [
+        "Importance"
+    ],
+    "refute.v": [
+        "Statement"
+    ],
+    "clause.n": [
+        "Terms_of_agreement"
+    ],
+    "survey.n": [
+        "Scrutiny"
+    ],
+    "quarter.n": [
+        "Part_whole",
+        "Calendric_unit"
+    ],
+    "net.n": [
+        "Earnings_and_losses"
+    ],
+    "catastrophe.n": [
+        "Catastrophe"
+    ],
+    "total.v": [
+        "Amounting_to"
+    ],
+    "evaluate.v": [
+        "Assessing"
+    ],
+    "earnings.n": [
+        "Earnings_and_losses"
+    ],
+    "gain.n": [
+        "Change_position_on_a_scale"
+    ],
+    "complaint.n": [
+        "Complaining"
+    ],
+    "discourage.v": [
+        "Attempt_suasion"
+    ],
+    "storm.v": [
+        "Weather",
+        "Attack"
+    ],
+    "bottle.v": [
+        "Placing"
+    ],
+    "shooting.n": [
+        "Killing"
+    ],
+    "spew.v": [
+        "Excreting"
+    ],
+    "poisoning.n": [
+        "Cause_harm"
+    ],
+    "consume.v": [
+        "Ingestion"
+    ],
+    "hospitalize.v": [
+        "Institutionalization"
+    ],
+    "poison.v": [
+        "Cause_harm"
+    ],
+    "purge.n": [
+        "Removing"
+    ],
+    "employed.a": [
+        "Being_employed"
+    ],
+    "assets.n": [
+        "Possession"
+    ],
+    "embark.v": [
+        "Board_vehicle"
+    ],
+    "chronic.a": [
+        "Duration_attribute"
+    ],
+    "certify.v": [
+        "Verification"
+    ],
+    "amigo.n": [
+        "Personal_relationship"
+    ],
+    "charter.v": [
+        "Renting"
+    ],
+    "gunman.n": [
+        "Bearing_arms"
+    ],
+    "notify.v": [
+        "Telling"
+    ],
+    "empty.a": [
+        "Fullness"
+    ],
+    "embroiled.a": [
+        "Participation"
+    ],
+    "satisfied.a": [
+        "Experiencer_focus"
+    ],
+    "institutional.a": [
+        "Institutions"
+    ],
+    "provision.n": [
+        "Terms_of_agreement"
+    ],
+    "stalemate.n": [
+        "Hostile_encounter"
+    ],
+    "friendship.n": [
+        "Personal_relationship"
+    ],
+    "substitution.n": [
+        "Replacing"
+    ],
+    "engineer.n": [
+        "People_by_vocation"
+    ],
+    "terminate.v": [
+        "Activity_stop"
+    ],
+    "forgo.v": [
+        "Avoiding"
+    ],
+    "bind.v": [
+        "Imposing_obligation"
+    ],
+    "damage.v": [
+        "Damaging"
+    ],
+    "suspect.a": [
+        "Suspiciousness"
+    ],
+    "return.n": [
+        "Arriving"
+    ],
+    "core.n": [
+        "Gizmo"
+    ],
+    "account.v": [
+        "Explaining_the_facts",
+        "Justifying"
+    ],
+    "placement.n": [
+        "Placing"
+    ],
+    "criticism.n": [
+        "Judgment_communication"
+    ],
+    "vulnerability.n": [
+        "Being_at_risk"
+    ],
+    "therapeutic.a": [
+        "Cure"
+    ],
+    "expense.n": [
+        "Expensiveness"
+    ],
+    "portable.a": [
+        "Bringing"
+    ],
+    "range.v": [
+        "Delimitation_of_diversity"
+    ],
+    "explain.v": [
+        "Statement",
+        "Explaining_the_facts"
+    ],
+    "confine.v": [
+        "Inhibit_movement"
+    ],
+    "bang.n": [
+        "Sounds"
+    ],
+    "February.n": [
+        "Calendric_unit"
+    ],
+    "quick.a": [
+        "Speed"
+    ],
+    "answer.v": [
+        "Communication_response"
+    ],
+    "endanger.v": [
+        "Endangering"
+    ],
+    "proliferate.v": [
+        "Proliferating_in_number"
+    ],
+    "September.n": [
+        "Calendric_unit"
+    ],
+    "radioactive.a": [
+        "Nuclear_process"
+    ],
+    "azure.a": [
+        "Color"
+    ],
+    "atoll.n": [
+        "Natural_features"
+    ],
+    "cruise.n": [
+        "Ride_vehicle"
+    ],
+    "mobile.a": [
+        "Bringing"
+    ],
+    "speech.n": [
+        "Communication",
+        "Text"
+    ],
+    "draft.n": [
+        "Version_sequence"
+    ],
+    "surprise.v": [
+        "Experiencer_obj"
+    ],
+    "description.n": [
+        "Communicate_categorization"
+    ],
+    "set off.v": [
+        "Cause_to_start"
+    ],
+    "presidential.a": [
+        "Leadership"
+    ],
+    "rout.v": [
+        "Beat_opponent"
+    ],
+    "equal.v": [
+        "Evaluative_comparison"
+    ],
+    "twice.adv": [
+        "Event_instance"
+    ],
+    "American_(N_and_S_Am).n": [
+        "People_by_origin"
+    ],
+    "explanation.n": [
+        "Statement",
+        "Explaining_the_facts"
+    ],
+    "remedy.v": [
+        "Cure"
+    ],
+    "select.v": [
+        "Choosing"
+    ],
+    "representative.n": [
+        "Leadership"
+    ],
+    "while.scon": [
+        "Concessive"
+    ],
+    "disdain.n": [
+        "Judgment"
+    ],
+    "win.v": [
+        "Win_prize"
+    ],
+    "hinder.v": [
+        "Hindering"
+    ],
+    "examination.n": [
+        "Scrutiny"
+    ],
+    "turn out.v": [
+        "Turning_out"
+    ],
+    "difference.n": [
+        "Similarity"
+    ]
+}

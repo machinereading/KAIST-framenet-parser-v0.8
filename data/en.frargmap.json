@@ -1,0 +1,4550 @@
+{
+    "Fluidic_motion": [
+        "Goal",
+        "Path",
+        "Source",
+        "Area",
+        "Time",
+        "Fluid",
+        "Place"
+    ],
+    "Hostile_encounter": [
+        "Side_1",
+        "Duration",
+        "Place",
+        "Depictive",
+        "Manner",
+        "Instrument",
+        "Result",
+        "Particular_iteration",
+        "Side_2",
+        "Purpose",
+        "Sides",
+        "Means",
+        "Issue",
+        "Time"
+    ],
+    "Locative_relation": [
+        "Distance",
+        "Figure",
+        "Figures",
+        "Direction",
+        "Ground",
+        "Time"
+    ],
+    "Questioning": [
+        "Speaker",
+        "Addressee",
+        "Message",
+        "Topic",
+        "Time"
+    ],
+    "Cotheme": [
+        "Path",
+        "Manner",
+        "Road",
+        "Event",
+        "Purpose",
+        "Theme",
+        "Cotheme",
+        "Means"
+    ],
+    "Architectural_part": [
+        "Descriptor",
+        "Whole",
+        "Part",
+        "Orientation"
+    ],
+    "Temporal_collocation": [
+        "Event_description",
+        "Landmark_event",
+        "Trajector_entity",
+        "Landmark_period",
+        "Trajector_period",
+        "Trajector_event",
+        "Landmark_entity"
+    ],
+    "Connecting_architecture": [
+        "Goal",
+        "Whole",
+        "Connected_locations",
+        "Part",
+        "Source",
+        "Descriptor"
+    ],
+    "Closure": [
+        "Container_portal"
+    ],
+    "Cause_motion": [
+        "Goal",
+        "Path",
+        "Depictive",
+        "Manner",
+        "Instrument",
+        "Result",
+        "Source",
+        "Area",
+        "Theme",
+        "Agent",
+        "Cause",
+        "Time"
+    ],
+    "Piracy": [
+        "Victim",
+        "Vehicle",
+        "Reason",
+        "Perpetrator",
+        "Time"
+    ],
+    "Leadership": [
+        "Means",
+        "Duration",
+        "Depictive",
+        "Type",
+        "Role",
+        "Domain",
+        "Governed",
+        "Descriptor",
+        "Leader",
+        "Activity",
+        "Time"
+    ],
+    "Statement": [
+        "Place",
+        "Depictive",
+        "Manner",
+        "Occasion",
+        "Speaker",
+        "Degree",
+        "Particular_iteration",
+        "Internal_cause",
+        "Addressee",
+        "Medium",
+        "Message",
+        "Means",
+        "Topic",
+        "Time"
+    ],
+    "Attack": [
+        "Explanation",
+        "Event_description",
+        "Time",
+        "Path",
+        "Depictive",
+        "Manner",
+        "Result",
+        "Victim",
+        "Source",
+        "Assailant",
+        "Purpose",
+        "Weapon",
+        "Means",
+        "Particular iteration",
+        "Place"
+    ],
+    "Sending": [
+        "Goal",
+        "Recipient",
+        "Source",
+        "Reason",
+        "Purpose",
+        "Theme",
+        "Time",
+        "Sender",
+        "Place"
+    ],
+    "Sufficiency": [
+        "Scale",
+        "Item",
+        "Degree",
+        "Enabled_situation"
+    ],
+    "Motion": [
+        "Goal",
+        "Speed",
+        "Distance",
+        "Duration",
+        "Path",
+        "Depictive",
+        "Source",
+        "Purpose",
+        "Theme",
+        "Direction",
+        "Time"
+    ],
+    "Intentionally_act": [
+        "Explanation",
+        "Period_of_iterations",
+        "Place",
+        "Manner",
+        "Result",
+        "Domain",
+        "Particular_iteration",
+        "Act",
+        "Purpose",
+        "Agent",
+        "Time",
+        "Event_dscription",
+        "Means",
+        "Frequency"
+    ],
+    "Origin": [
+        "Origin",
+        "Entity"
+    ],
+    "People": [
+        "Context_of_acquaintance",
+        "Persistent_characteristic",
+        "Origin",
+        "Person",
+        "Ethnicity",
+        "Descriptor",
+        "Age"
+    ],
+    "Grasp": [
+        "Phenomenon",
+        "Cognizer",
+        "Category",
+        "Completeness",
+        "Time"
+    ],
+    "Scrutiny": [
+        "Phenomenon",
+        "Manner",
+        "Instrument",
+        "Degree",
+        "Cognizer",
+        "Medium",
+        "Purpose",
+        "Ground",
+        "Time"
+    ],
+    "Request": [
+        "Manner",
+        "Speaker",
+        "Medium",
+        "Addressee",
+        "Message",
+        "Time",
+        "Topic"
+    ],
+    "Judgment_communication": [
+        "Depictive",
+        "Extent_of_acclaim",
+        "Grounds",
+        "Manner",
+        "Evaluee",
+        "Medium",
+        "Reason",
+        "Communicator",
+        "Time",
+        "Topic",
+        "Frequency"
+    ],
+    "Success_or_failure": [
+        "Goal",
+        "Degree",
+        "Agent",
+        "Means",
+        "Time"
+    ],
+    "Criminal_investigation": [
+        "Incident",
+        "Suspect",
+        "Investigator"
+    ],
+    "Buildings": [
+        "Material",
+        "Type",
+        "Building",
+        "Relative_location",
+        "Time_of_creation",
+        "Function",
+        "Descriptor",
+        "Name",
+        "Builder",
+        "Place"
+    ],
+    "Color": [
+        "Entity",
+        "Color"
+    ],
+    "Justifying": [
+        "Act",
+        "State_of_affairs",
+        "Agent"
+    ],
+    "Information": [
+        "Information",
+        "Means_of_Gathering",
+        "Cognizer",
+        "Source",
+        "Topic"
+    ],
+    "Becoming": [
+        "Explanation",
+        "Place",
+        "Final_category",
+        "Manner",
+        "Reason",
+        "Circumstances",
+        "Final_state",
+        "Cause",
+        "Time",
+        "Entity"
+    ],
+    "Difficulty": [
+        "Degree",
+        "Experiencer",
+        "Circumstances",
+        "Activity",
+        "Parameter"
+    ],
+    "Discussion": [
+        "Duration",
+        "Place",
+        "Depictive",
+        "Manner",
+        "Interlocutors",
+        "Interlocutor_1",
+        "Purpose",
+        "Interlocutor_2",
+        "Topic",
+        "Time"
+    ],
+    "Secrecy_status": [
+        "Time",
+        "Phenomenon",
+        "Degree",
+        "Cognizer"
+    ],
+    "Law": [
+        "Forbidden",
+        "Type",
+        "Time_of_creation",
+        "Jurisdiction",
+        "Law",
+        "Use",
+        "Name",
+        "Creator",
+        "Required"
+    ],
+    "Building_subparts": [
+        "Whole",
+        "Use",
+        "Building_part",
+        "Type"
+    ],
+    "Emotion_directed": [
+        "Manner",
+        "Event",
+        "Degree",
+        "Experiencer",
+        "Circumstances",
+        "State",
+        "Empathy_target",
+        "Stimulus",
+        "Topic"
+    ],
+    "Relative_time": [
+        "Degree",
+        "Focal_participant",
+        "Interval",
+        "Landmark_occasion",
+        "Focal_occasion"
+    ],
+    "Cause_harm": [
+        "Containing_event",
+        "Instrument",
+        "Result",
+        "Degree",
+        "Victim",
+        "Agent",
+        "Body_part",
+        "Cause",
+        "Time"
+    ],
+    "Observable_body_parts": [
+        "Body_part",
+        "Descriptor",
+        "Possessor"
+    ],
+    "Dimension": [
+        "Dimension",
+        "Measurement",
+        "Domain",
+        "Location",
+        "Object"
+    ],
+    "Institutions": [
+        "Domain",
+        "Institution"
+    ],
+    "Cause_emotion": [
+        "Experiencer"
+    ],
+    "Existence": [
+        "Time",
+        "Duration",
+        "Depictive",
+        "Concessive",
+        "Circumstances",
+        "Inherent_purpose",
+        "State",
+        "Place",
+        "Entity"
+    ],
+    "Cogitation": [
+        "Time",
+        "Topic",
+        "Cognizer"
+    ],
+    "Time_vector": [
+        "Direction",
+        "Distance",
+        "Event",
+        "Landmark_event"
+    ],
+    "Part_orientational": [
+        "Whole",
+        "Part",
+        "Part_Prop"
+    ],
+    "Increment": [
+        "Added_set",
+        "Class",
+        "Increment"
+    ],
+    "Agree_or_refuse_to_act": [
+        "Proposed_action",
+        "Speaker",
+        "Purpose"
+    ],
+    "Activity_finish": [
+        "Manner",
+        "Purpose",
+        "Agent",
+        "Activity",
+        "Time"
+    ],
+    "Duration_attribute": [
+        "Period",
+        "Eventuality",
+        "Degree"
+    ],
+    "Expectation": [
+        "Degree",
+        "Phenomenon",
+        "Topic",
+        "Cognizer"
+    ],
+    "Text": [
+        "Material",
+        "Honoree",
+        "Time_of_creation",
+        "Medium",
+        "Author",
+        "Text",
+        "Genre",
+        "Use",
+        "Components",
+        "Title",
+        "Containing_text",
+        "Topic"
+    ],
+    "Topic": [
+        "Communicator",
+        "Text",
+        "Topic",
+        "Manner"
+    ],
+    "Thwarting": [
+        "Action",
+        "Preventing_cause",
+        "Protagonist",
+        "Time"
+    ],
+    "Roadways": [
+        "Goal",
+        "Material",
+        "Roadway",
+        "Characteristic",
+        "Relative_location",
+        "Abundant_entities",
+        "Use",
+        "Name"
+    ],
+    "Hindering": [
+        "Hindrance",
+        "Action",
+        "Protagonist",
+        "Degree"
+    ],
+    "Activity_stop": [
+        "Activity",
+        "Time",
+        "Agent"
+    ],
+    "Perception_experience": [
+        "Duration",
+        "Phenomenon",
+        "Manner",
+        "Degree",
+        "Perceiver_passive",
+        "Body_part",
+        "State",
+        "Location_of_perceiver",
+        "Time"
+    ],
+    "Certainty": [
+        "Explanation",
+        "Degree",
+        "Cognizer",
+        "Concessive",
+        "Content",
+        "Topic"
+    ],
+    "Creating": [
+        "Means",
+        "Place",
+        "Purpose_of_created_entity",
+        "Purpose",
+        "Creator",
+        "Time",
+        "Created_entity",
+        "Cause"
+    ],
+    "Feeling": [
+        "Emotional_state",
+        "Experiencer",
+        "Evaluation",
+        "Emotion"
+    ],
+    "Notification_of_charges": [
+        "Charges",
+        "Place",
+        "Accused"
+    ],
+    "Cardinal_numbers": [
+        "Precision",
+        "Number",
+        "Multiplier",
+        "Entity"
+    ],
+    "Desirability": [
+        "Evaluee",
+        "Degree",
+        "Comparison_set",
+        "Circumstances",
+        "Affected_party",
+        "Parameter"
+    ],
+    "Relational_quantity": [
+        "Individuals",
+        "Denoted_quantity",
+        "Mass",
+        "Degree",
+        "Reference_quantity"
+    ],
+    "Earnings_and_losses": [
+        "Containing_event",
+        "Goods",
+        "Rate",
+        "Earner",
+        "Earnings",
+        "Time",
+        "Place"
+    ],
+    "Importance": [
+        "Undertaking",
+        "Field",
+        "Degree",
+        "Factor",
+        "Reason",
+        "Interested_party",
+        "Time",
+        "Frequency"
+    ],
+    "Calendric_unit": [
+        "Relative_time",
+        "Unit",
+        "Whole",
+        "Name",
+        "Salient_event",
+        "Count"
+    ],
+    "Process_end": [
+        "Place",
+        "Process",
+        "Depictive",
+        "Manner",
+        "Result",
+        "Degree",
+        "Reason",
+        "Last_subevent",
+        "Time",
+        "Frequency"
+    ],
+    "Judicial_body": [
+        "Rank",
+        "Jurisdiction",
+        "Judicial_body",
+        "Task"
+    ],
+    "Communication": [
+        "Manner",
+        "Medium",
+        "Addressee",
+        "Message",
+        "Communicator",
+        "Topic",
+        "Time"
+    ],
+    "Activity_ready_state": [
+        "Activity",
+        "Salient_entity",
+        "Protagonist",
+        "Time"
+    ],
+    "Likelihood": [
+        "Degree",
+        "Reason",
+        "Circumstances",
+        "Hypothetical_event",
+        "Time"
+    ],
+    "Appearance": [
+        "Characterization",
+        "Appraisal",
+        "Phenomenon",
+        "Degree",
+        "Perceiver_passive",
+        "Ground",
+        "Inference",
+        "State"
+    ],
+    "Desiring": [
+        "Event",
+        "Experiencer",
+        "Reason",
+        "Focal_participant",
+        "Time_of_Event",
+        "Purpose_of_Event",
+        "Time",
+        "Cause",
+        "Place"
+    ],
+    "Choosing": [
+        "Chosen",
+        "Possibilities",
+        "Manner",
+        "Contrast",
+        "Intended_purpose",
+        "Cognizer",
+        "Reason",
+        "Time",
+        "Topic"
+    ],
+    "Event": [
+        "Place",
+        "Manner",
+        "Event",
+        "Reason",
+        "Time",
+        "Frequency"
+    ],
+    "Change_of_leadership": [
+        "Old_leader",
+        "Depictive",
+        "Role",
+        "Old_order",
+        "Degree",
+        "Body",
+        "New_leader",
+        "Time",
+        "Selector",
+        "Place"
+    ],
+    "Opinion": [
+        "Constancy",
+        "Opinion",
+        "Domain",
+        "Cognizer",
+        "Circumstances",
+        "Evidence",
+        "Topic"
+    ],
+    "Quantity": [
+        "Individuals",
+        "Q_Prop",
+        "Quantity",
+        "Mass",
+        "Degree"
+    ],
+    "Attention": [
+        "Figure",
+        "Perceiver",
+        "Degree"
+    ],
+    "Medical_conditions": [
+        "Ailment",
+        "Patient",
+        "Body_Part",
+        "Symptom",
+        "Degree",
+        "Name",
+        "Cause",
+        "Place"
+    ],
+    "Hear": [
+        "Period_of_iterations",
+        "Hearer",
+        "Speaker",
+        "Message",
+        "Topic",
+        "Time"
+    ],
+    "Killing": [
+        "Period_of_iterations",
+        "Means",
+        "Depictive",
+        "Manner",
+        "Instrument",
+        "Killer",
+        "Result",
+        "Degree",
+        "Victim",
+        "Reason",
+        "Purpose",
+        "Time",
+        "Cause",
+        "Place"
+    ],
+    "Type": [
+        "Type_Property",
+        "Category",
+        "Subtype",
+        "Item_Property"
+    ],
+    "Activity_prepare": [
+        "Means",
+        "Activity",
+        "Time",
+        "Agent"
+    ],
+    "Project": [
+        "Goal",
+        "Manner",
+        "Project",
+        "Salient_entity",
+        "Field",
+        "Descriptor",
+        "Name",
+        "Agent",
+        "Activity"
+    ],
+    "Amassing": [
+        "Recipient",
+        "Duration",
+        "Mass_theme",
+        "Place"
+    ],
+    "Money": [
+        "Money",
+        "Type",
+        "Origin",
+        "Time_of_creation",
+        "Use",
+        "Possessor"
+    ],
+    "Protecting": [
+        "Place",
+        "Asset",
+        "Danger",
+        "Protection",
+        "Degree",
+        "Descriptor",
+        "Means",
+        "Time"
+    ],
+    "Ordinal_numbers": [
+        "Starting_point",
+        "Type",
+        "Comparison_set",
+        "Item",
+        "Basis_of_order"
+    ],
+    "Employing": [
+        "Employer",
+        "Field",
+        "Position",
+        "Task",
+        "Descriptor",
+        "Employee",
+        "Place"
+    ],
+    "Preventing": [
+        "Preventing_cause",
+        "Event"
+    ],
+    "Commerce_buy": [
+        "Manner",
+        "Purpose_of_goods",
+        "Goods",
+        "Buyer",
+        "Purpose",
+        "Seller",
+        "Time",
+        "Means"
+    ],
+    "Manufacturing": [
+        "Means",
+        "Product",
+        "Depictive",
+        "Manner",
+        "Instrument",
+        "Resource",
+        "Factory",
+        "Purpose",
+        "Frequency",
+        "Time",
+        "Place",
+        "Manufacturer"
+    ],
+    "Subordinates_and_superiors": [
+        "Superior",
+        "Subordinate"
+    ],
+    "Part_whole": [
+        "Whole",
+        "Orientation",
+        "Part",
+        "Part_Prop"
+    ],
+    "Attempt": [
+        "Time",
+        "Goal",
+        "Duration",
+        "Outcome",
+        "Depictive",
+        "Manner",
+        "Degree",
+        "Agent",
+        "Means",
+        "Place"
+    ],
+    "Locale_by_use": [
+        "Relative_location",
+        "Container_possessor",
+        "Formational_cause",
+        "Constituent_parts",
+        "Descriptor",
+        "Use",
+        "Name",
+        "Circumstances",
+        "Locale"
+    ],
+    "Medical_professionals": [
+        "Type",
+        "Professional"
+    ],
+    "Frequency": [
+        "Salient_entity",
+        "Time_span",
+        "Rate",
+        "Event",
+        "Degree",
+        "Interval",
+        "Attribute",
+        "Time"
+    ],
+    "Awareness": [
+        "Explanation",
+        "Expressor",
+        "Role",
+        "Degree",
+        "Cognizer",
+        "Time",
+        "Content",
+        "Topic"
+    ],
+    "Estimated_value": [
+        "Value",
+        "Cognizer",
+        "Item",
+        "Estimation",
+        "Question",
+        "Time"
+    ],
+    "Stimulus_focus": [
+        "Degree",
+        "Property",
+        "Comparison_set",
+        "Experiencer",
+        "Circumstances",
+        "Stimulus"
+    ],
+    "Chatting": [
+        "Duration",
+        "Place",
+        "Depictive",
+        "Manner",
+        "Interlocutors",
+        "Interlocutor_1",
+        "Interlocutor_2",
+        "Topic"
+    ],
+    "People_by_jurisdiction": [
+        "Descriptor",
+        "Person",
+        "Jurisdiction",
+        "Ethnicity"
+    ],
+    "Aggregate": [
+        "Individuals",
+        "Aggregate",
+        "Domain",
+        "Container_possessor",
+        "Name",
+        "AggregateProperty"
+    ],
+    "System": [
+        "Salient_entity",
+        "Function",
+        "Complex",
+        "Component_entities",
+        "Descriptor",
+        "Possessor"
+    ],
+    "Capability": [
+        "Relevant_feature",
+        "Event",
+        "Degree",
+        "Status",
+        "Circumstances",
+        "Cause",
+        "Entity"
+    ],
+    "Political_locales": [
+        "Relative_location",
+        "Container_possessor",
+        "Constituent_parts",
+        "Descriptor",
+        "Name",
+        "Locale",
+        "Population"
+    ],
+    "Summarizing": [
+        "Medium",
+        "State_of_affairs",
+        "Communicator"
+    ],
+    "Expertise": [
+        "Knowledge",
+        "Role",
+        "Degree",
+        "Behavior_product",
+        "Protagonist",
+        "Focal_participant",
+        "Skill",
+        "Time"
+    ],
+    "Expensiveness": [
+        "Payer",
+        "Asset",
+        "Origin",
+        "Intended_event",
+        "Goods",
+        "Rate"
+    ],
+    "Arriving": [
+        "Event_description",
+        "Re_encoding",
+        "Goal",
+        "Place",
+        "Path",
+        "Depictive",
+        "Manner",
+        "Source",
+        "Mode_of_transportation",
+        "Circumstances",
+        "Purpose",
+        "Theme",
+        "Time",
+        "Cotheme",
+        "Means",
+        "Frequency"
+    ],
+    "Fullness": [
+        "Container",
+        "Time"
+    ],
+    "Have_associated": [
+        "Topical_entity",
+        "Circumstances",
+        "Time",
+        "Entity"
+    ],
+    "Intentionally_create": [
+        "Co_participant",
+        "Place",
+        "Manner",
+        "Purpose",
+        "Creator",
+        "Created_entity",
+        "Time"
+    ],
+    "Usefulness": [
+        "Domain",
+        "Degree",
+        "Purpose",
+        "Time",
+        "Entity"
+    ],
+    "Coming_up_with": [
+        "Manner",
+        "Cognizer",
+        "Idea",
+        "Purpose",
+        "Time",
+        "Place"
+    ],
+    "Objective_influence": [
+        "Dependent_variable",
+        "Influencing_variable",
+        "Manner",
+        "Degree",
+        "Influencing_situation",
+        "Dependent_situation",
+        "Circumstances",
+        "Influencing_entity",
+        "Dependent_entity",
+        "Time"
+    ],
+    "Change_event_duration": [
+        "Event",
+        "Cause",
+        "Agent"
+    ],
+    "Means": [
+        "Descriptor",
+        "Purpose",
+        "Agent",
+        "Time",
+        "Means"
+    ],
+    "Obviousness": [
+        "Phenomenon",
+        "Degree",
+        "Location_of_protagonist",
+        "Attribute",
+        "Evidence",
+        "Time"
+    ],
+    "Judgment_direct_address": [
+        "Addressee",
+        "Degree",
+        "Reason",
+        "Communicator"
+    ],
+    "Measure_duration": [
+        "Process",
+        "Unit",
+        "Count"
+    ],
+    "Ride_vehicle": [
+        "Goal",
+        "Duration",
+        "Source",
+        "Vehicle",
+        "Purpose",
+        "Theme",
+        "Time"
+    ],
+    "Vehicle": [
+        "Itinerary",
+        "Descriptor",
+        "Vehicle",
+        "Use",
+        "Possessor"
+    ],
+    "Telling": [
+        "Place",
+        "Manner",
+        "Speaker",
+        "Addressee",
+        "Message",
+        "Topic",
+        "Time"
+    ],
+    "Food": [
+        "Constituent_parts",
+        "Type",
+        "Food"
+    ],
+    "Correctness": [
+        "Information"
+    ],
+    "Visiting": [
+        "Entity",
+        "Agent",
+        "Time",
+        "Place",
+        "Frequency"
+    ],
+    "Cause_to_make_progress": [
+        "Duration",
+        "Place",
+        "Project",
+        "Manner",
+        "Post_state",
+        "Degree",
+        "Purpose",
+        "Agent",
+        "Time"
+    ],
+    "Weapon": [
+        "Material",
+        "Type",
+        "Wielder",
+        "Part",
+        "Descriptor",
+        "Use",
+        "Name",
+        "Weapon",
+        "Creator"
+    ],
+    "Possession": [
+        "Explanation",
+        "Duration",
+        "Depictive",
+        "Possession",
+        "Owner",
+        "Time"
+    ],
+    "Active_substance": [
+        "Type",
+        "Effect",
+        "Substance",
+        "Descriptor",
+        "Name"
+    ],
+    "Store": [
+        "Supply",
+        "Descriptor",
+        "Resource",
+        "Possessor"
+    ],
+    "Containing": [
+        "Container",
+        "Contents",
+        "Time"
+    ],
+    "Ratification": [
+        "Reason",
+        "Ratifier",
+        "Time",
+        "Proposal"
+    ],
+    "Infrastructure": [
+        "Resource",
+        "Descriptor",
+        "Infrastructure",
+        "Activity",
+        "Possessor",
+        "Place"
+    ],
+    "Stage_of_progress": [
+        "Degree",
+        "Entity"
+    ],
+    "Artifact": [
+        "Material",
+        "Type",
+        "Artifact",
+        "Time_of_creation",
+        "Use",
+        "Name",
+        "Creator"
+    ],
+    "First_rank": [
+        "Contrast_set",
+        "Item",
+        "Limits_of_consideration"
+    ],
+    "Inclusion": [
+        "Part",
+        "Total"
+    ],
+    "Education_teaching": [
+        "Material",
+        "Depictive",
+        "Manner",
+        "Role",
+        "Level",
+        "Teacher",
+        "Subject",
+        "Purpose",
+        "Fact",
+        "Course",
+        "Student",
+        "Skill",
+        "Institution",
+        "Place"
+    ],
+    "Participation": [
+        "Duration",
+        "Place",
+        "Manner",
+        "Participants",
+        "Event",
+        "Participant_2",
+        "Purpose",
+        "Participant_1",
+        "Degree_of_involvement",
+        "Institution",
+        "Time"
+    ],
+    "Foreign_or_domestic_country": [
+        "Discourse_salient_country",
+        "Current_country",
+        "Population"
+    ],
+    "Getting": [
+        "Means",
+        "Manner",
+        "Recipient",
+        "Concessive",
+        "Source",
+        "Reason",
+        "Purpose",
+        "Theme",
+        "Time",
+        "Place"
+    ],
+    "Source_of_getting": [
+        "Source",
+        "Descriptor",
+        "Goal",
+        "Theme"
+    ],
+    "Supply": [
+        "Period_of_iterations",
+        "Purpose_of_recipient",
+        "Place",
+        "Co_theme",
+        "Recipient",
+        "Supplier",
+        "Circumstances",
+        "Purpose",
+        "Theme",
+        "Means",
+        "Time"
+    ],
+    "Using": [
+        "Explanation",
+        "Duration",
+        "Containing_event",
+        "Place",
+        "Manner",
+        "Instrument",
+        "Role",
+        "Degree",
+        "Circumstances",
+        "Purpose",
+        "Agent",
+        "Time",
+        "Means",
+        "Frequency"
+    ],
+    "Seeking": [
+        "Sought_entity",
+        "Cognizer_agent",
+        "Means",
+        "Ground",
+        "Time"
+    ],
+    "People_by_vocation": [
+        "Place_of_employment",
+        "Persistent_characteristic",
+        "Type",
+        "Origin",
+        "Employer",
+        "Person",
+        "Ethnicity",
+        "Descriptor",
+        "Rank"
+    ],
+    "Purpose": [
+        "Restrictor",
+        "Goal",
+        "Value",
+        "Domain",
+        "Agent",
+        "Means",
+        "Attribute",
+        "Time"
+    ],
+    "Importing": [
+        "Exporting_area",
+        "Goods",
+        "Importer",
+        "Importing_area",
+        "Means"
+    ],
+    "First_experience": [
+        "Experience",
+        "Context"
+    ],
+    "Legality": [
+        "Action",
+        "Object"
+    ],
+    "Fields": [
+        "Activity",
+        "Salient_entity",
+        "Practitioner",
+        "Work"
+    ],
+    "Expansion": [
+        "Item",
+        "Result_size",
+        "Time",
+        "Manner"
+    ],
+    "Locale": [
+        "Related_event",
+        "Relative_location",
+        "Container_possessor",
+        "Formational_cause",
+        "Constituent_parts",
+        "Descriptor",
+        "Name",
+        "Use",
+        "Locale"
+    ],
+    "Reason": [
+        "Action",
+        "State_of_Affairs",
+        "Agent"
+    ],
+    "Grant_permission": [
+        "Grantor",
+        "Action",
+        "Reason",
+        "Circumstances",
+        "Purpose",
+        "Grantee",
+        "Time"
+    ],
+    "Assistance": [
+        "Goal",
+        "Place",
+        "Manner",
+        "Focal_entity",
+        "Domain",
+        "Helper",
+        "Benefited_party",
+        "Means",
+        "Time"
+    ],
+    "Becoming_aware": [
+        "Phenomenon",
+        "Manner",
+        "Instrument",
+        "Cognizer",
+        "Circumstances",
+        "Purpose",
+        "Means",
+        "Topic",
+        "Ground",
+        "Time"
+    ],
+    "Cognitive_connection": [
+        "Point_of_view",
+        "Concept_2",
+        "Degree",
+        "Concepts",
+        "Concept_1"
+    ],
+    "Accoutrements": [
+        "Accoutrement",
+        "Style"
+    ],
+    "Reasoning": [
+        "Addressee",
+        "Arguer",
+        "Content",
+        "Time"
+    ],
+    "Ingredients": [
+        "Material",
+        "Product",
+        "Type",
+        "Source",
+        "Descriptor",
+        "Use"
+    ],
+    "Unattributed_information": [
+        "Explanation",
+        "Reported_fact",
+        "Time"
+    ],
+    "Businesses": [
+        "Product",
+        "Service_provider",
+        "Business",
+        "Descriptor",
+        "Proprietor",
+        "Business_Name",
+        "Place"
+    ],
+    "Hiring": [
+        "Employer",
+        "Employee",
+        "Purpose",
+        "Task"
+    ],
+    "Being_employed": [
+        "Place_of_employment",
+        "Event_description",
+        "Duration",
+        "Place",
+        "Type",
+        "Amount_of_work",
+        "Manner",
+        "Employer",
+        "Position",
+        "Field",
+        "Task",
+        "Particular_iteration",
+        "Circumstances",
+        "Employee",
+        "Time",
+        "Frequency"
+    ],
+    "Causation": [
+        "Place",
+        "Manner",
+        "Effect",
+        "Concessive",
+        "Circumstances",
+        "Actor",
+        "Cause",
+        "Time",
+        "Affected"
+    ],
+    "Research": [
+        "Type",
+        "Manner",
+        "Field",
+        "Question",
+        "Time",
+        "Researcher",
+        "Topic"
+    ],
+    "Attributed_information": [
+        "Text",
+        "Speaker",
+        "Proposition"
+    ],
+    "Adducing": [
+        "Specified_entity",
+        "Manner",
+        "Role",
+        "Speaker",
+        "Medium",
+        "Circumstances",
+        "Time"
+    ],
+    "Delivery": [
+        "Speed",
+        "Place",
+        "Manner",
+        "Recipient",
+        "Deliverer",
+        "Vehicle",
+        "Reason",
+        "Theme",
+        "Time"
+    ],
+    "Dispersal": [
+        "Individuals",
+        "Goal_area",
+        "Place",
+        "Agent",
+        "Means",
+        "Cause"
+    ],
+    "Bringing": [
+        "Period_of_iterations",
+        "Goal",
+        "Path",
+        "Depictive",
+        "Source",
+        "Carrier",
+        "Purpose",
+        "Theme",
+        "Agent",
+        "Time",
+        "Place",
+        "Constant_location"
+    ],
+    "Evidence": [
+        "Depictive",
+        "Manner",
+        "Domain_of_Relevance",
+        "Degree",
+        "Cognizer",
+        "Support",
+        "Proposition",
+        "Means"
+    ],
+    "Defend": [
+        "Defender",
+        "Manner",
+        "Instrument",
+        "Victim",
+        "Assailant",
+        "Means"
+    ],
+    "Practice": [
+        "Time",
+        "Iteration",
+        "Manner",
+        "Occasion",
+        "Action",
+        "Purpose",
+        "Agent",
+        "Means",
+        "Place"
+    ],
+    "Military": [
+        "Force",
+        "Goal",
+        "Domain",
+        "Descriptor",
+        "Members",
+        "Possessor"
+    ],
+    "Organization": [
+        "Container_possessor",
+        "Descriptor",
+        "Name",
+        "Organization",
+        "Purpose",
+        "Members"
+    ],
+    "Being_named": [
+        "Name",
+        "Type",
+        "Name_source",
+        "Entity"
+    ],
+    "Membership": [
+        "Member",
+        "Group",
+        "Standing"
+    ],
+    "Verification": [
+        "Inspector",
+        "Manner",
+        "Degree",
+        "Medium",
+        "Means",
+        "Unconfirmed_content",
+        "Time"
+    ],
+    "State_continue": [
+        "Duration",
+        "Place",
+        "Depictive",
+        "State",
+        "Time",
+        "Entity"
+    ],
+    "Intoxicants": [
+        "Descriptor",
+        "Intoxicant"
+    ],
+    "Inspecting": [
+        "Inspector",
+        "Manner",
+        "Location_of_inspector",
+        "Purpose",
+        "Time",
+        "Unwanted_entity",
+        "Ground",
+        "Desired_state"
+    ],
+    "Endangering": [
+        "Time",
+        "Valued_entity",
+        "Cause"
+    ],
+    "Front_for": [
+        "Illicit_activity",
+        "Front"
+    ],
+    "Similarity": [
+        "Dimension",
+        "Depictive",
+        "Degree",
+        "Entity_1",
+        "Circumstances",
+        "Entities",
+        "Differentiating_fact",
+        "Entity_2"
+    ],
+    "Processing_materials": [
+        "Material",
+        "Alterant",
+        "Place",
+        "Result",
+        "Purpose",
+        "Agent",
+        "Time"
+    ],
+    "Sign": [
+        "Indicated",
+        "Degree",
+        "Indicator"
+    ],
+    "Predicament": [
+        "Place",
+        "Domain",
+        "Experiencer",
+        "Cause",
+        "Situation",
+        "Time"
+    ],
+    "Progress": [
+        "Event_description",
+        "Duration",
+        "Prior_state",
+        "Manner",
+        "Post_state",
+        "Domain",
+        "Rate",
+        "Time",
+        "Place",
+        "Entity"
+    ],
+    "Cause_fluidic_motion": [
+        "Fluid"
+    ],
+    "Familiarity": [
+        "Cognizer",
+        "Entity"
+    ],
+    "Risky_situation": [
+        "Asset",
+        "Domain",
+        "Degree",
+        "Dangerous_entity",
+        "Situation",
+        "Frequency"
+    ],
+    "Cause_change_of_position_on_a_scale": [
+        "Speed",
+        "Manner",
+        "Value_1",
+        "Item",
+        "Difference",
+        "Agent",
+        "Value_2",
+        "Means",
+        "Cause",
+        "Attribute",
+        "Time"
+    ],
+    "Gizmo": [
+        "Power_source",
+        "Gizmo",
+        "User",
+        "Descriptor",
+        "Use"
+    ],
+    "Activity_ongoing": [
+        "Duration",
+        "Subevent",
+        "Manner",
+        "Circumstances",
+        "Purpose",
+        "Agent",
+        "Activity",
+        "Time"
+    ],
+    "Being_located": [
+        "Theme",
+        "Location",
+        "Cotheme",
+        "Place"
+    ],
+    "Collaboration": [
+        "Manner",
+        "Undertaking",
+        "Degree",
+        "Partners",
+        "Partner_1",
+        "Partner_2",
+        "Place"
+    ],
+    "Make_cognitive_connection": [
+        "Concept_1",
+        "Concepts",
+        "Concept_2"
+    ],
+    "Cause_expansion": [
+        "Place",
+        "Result_size",
+        "Item",
+        "Purpose",
+        "Agent",
+        "Time"
+    ],
+    "Undergoing": [
+        "Event",
+        "Time",
+        "Entity"
+    ],
+    "Cure": [
+        "Medication",
+        "Patient",
+        "Treatment",
+        "Degree",
+        "Affliction"
+    ],
+    "Custom": [
+        "Domain",
+        "Behavior",
+        "Society",
+        "Descriptor",
+        "Protagonist"
+    ],
+    "Cause_change": [
+        "Event_description",
+        "Agent",
+        "Duration",
+        "Final_category",
+        "Manner",
+        "Degree",
+        "Final_value",
+        "Reason",
+        "Purpose",
+        "Initial_category",
+        "Time",
+        "Cause",
+        "Attribute",
+        "Means",
+        "Entity"
+    ],
+    "Compatibility": [
+        "Items",
+        "Item_2",
+        "Item_1"
+    ],
+    "Place_weight_on": [
+        "Manner",
+        "Artifact",
+        "Degree",
+        "Action",
+        "Consideration",
+        "Agent"
+    ],
+    "Sign_agreement": [
+        "Co_participant",
+        "Place",
+        "Signatory",
+        "Agreement",
+        "Role",
+        "Manner",
+        "Purpose",
+        "Time"
+    ],
+    "Exchange": [
+        "Themes",
+        "Exchangers",
+        "Theme_2",
+        "Theme_1",
+        "Exchanger_1",
+        "Exchanger_2",
+        "Place"
+    ],
+    "Make_agreement_on_action": [
+        "Party_1",
+        "Manner",
+        "Party_2",
+        "Descriptor",
+        "Time",
+        "Parties",
+        "Obligation",
+        "Topic"
+    ],
+    "People_by_religion": [
+        "Religion",
+        "Person",
+        "Persistent_characteristic",
+        "Ethnicity"
+    ],
+    "Omen": [
+        "Phenomenon_1",
+        "Outcome",
+        "Phenomenon_2"
+    ],
+    "Taking_sides": [
+        "Degree",
+        "Cognizer",
+        "Action",
+        "Side",
+        "Issue",
+        "Time"
+    ],
+    "Destroying": [
+        "Time",
+        "Containing_event",
+        "Manner",
+        "Undergoer",
+        "Result",
+        "Degree",
+        "Reason",
+        "Purpose",
+        "Means",
+        "Cause",
+        "Destroyer",
+        "Place"
+    ],
+    "Linguistic_meaning": [
+        "Meaning",
+        "Form",
+        "Referent",
+        "Context"
+    ],
+    "Temporal_subregion": [
+        "Sub_part",
+        "Time_period",
+        "Time"
+    ],
+    "Subjective_influence": [
+        "Product",
+        "Behavior",
+        "Cognizer",
+        "Action",
+        "Situation",
+        "Time",
+        "Entity"
+    ],
+    "Terrorism": [
+        "Instrument",
+        "Victim",
+        "Descriptor",
+        "Act",
+        "Organization",
+        "Purpose",
+        "Terrorist"
+    ],
+    "Working_on": [
+        "Goal",
+        "Event_description",
+        "Depictive",
+        "Manner",
+        "Salient_entity",
+        "Domain",
+        "Degree",
+        "Purpose",
+        "Agent",
+        "Time"
+    ],
+    "Change_position_on_a_scale": [
+        "Initial_value",
+        "Correlate",
+        "Speed",
+        "Duration",
+        "Place",
+        "Manner",
+        "Degree",
+        "Particular_iteration",
+        "Initial_state",
+        "Final_state",
+        "Item",
+        "Circumstances",
+        "Final_value",
+        "Difference",
+        "Attribute",
+        "Time"
+    ],
+    "Public_services": [
+        "Target_group",
+        "Service_action",
+        "Domain",
+        "Institution"
+    ],
+    "Morality_evaluation": [
+        "Evaluee",
+        "Behavior",
+        "Degree"
+    ],
+    "Wealthiness": [
+        "Person",
+        "Institution",
+        "Degree"
+    ],
+    "Process": [
+        "Process",
+        "Manner"
+    ],
+    "Age": [
+        "Degree",
+        "Attribute",
+        "Age",
+        "Entity"
+    ],
+    "Experiencer_obj": [
+        "Experiencer",
+        "Circumstances",
+        "Stimulus",
+        "Degree"
+    ],
+    "Colonization": [
+        "Colonists",
+        "New_area",
+        "Descriptor",
+        "Purpose",
+        "Homeland"
+    ],
+    "Labeling": [
+        "Label",
+        "Speaker",
+        "Entity"
+    ],
+    "Required_event": [
+        "Explanation",
+        "Required_situation",
+        "Circumstances",
+        "Purpose",
+        "Time"
+    ],
+    "Bearing_arms": [
+        "Weapon",
+        "Protagonist",
+        "Degree"
+    ],
+    "Cause_to_end": [
+        "Process",
+        "Agent",
+        "State",
+        "Cause",
+        "Time"
+    ],
+    "Respond_to_proposal": [
+        "Group",
+        "Speaker",
+        "Proposal",
+        "Interlocutor"
+    ],
+    "Process_continue": [
+        "Duration",
+        "Place",
+        "Depictive",
+        "Manner",
+        "Event",
+        "Concessive",
+        "Circumstances",
+        "Time"
+    ],
+    "Revenge": [
+        "Duration",
+        "Offender",
+        "Depictive",
+        "Manner",
+        "Injury",
+        "Degree",
+        "Injured_Party",
+        "Avenger",
+        "Punishment",
+        "Time"
+    ],
+    "Hit_or_miss": [
+        "Instrument",
+        "Target"
+    ],
+    "Death": [
+        "Place",
+        "Depictive",
+        "Protagonist",
+        "Sub_event",
+        "Cause",
+        "Time"
+    ],
+    "Identicality": [
+        "Previous_context",
+        "Type",
+        "Current_instance",
+        "Previous_instance",
+        "Time",
+        "Set_of_instances"
+    ],
+    "Process_start": [
+        "Initial_subevent",
+        "Place",
+        "Depictive",
+        "Manner",
+        "Event",
+        "Reason",
+        "Time"
+    ],
+    "Giving": [
+        "Depictive",
+        "Recipient",
+        "Donor",
+        "Purpose",
+        "Theme",
+        "Time"
+    ],
+    "Imposing_obligation": [
+        "Responsible_party",
+        "Obligator",
+        "Principle",
+        "Duty"
+    ],
+    "Being_obligated": [
+        "Responsible_party",
+        "Duty",
+        "Condition",
+        "Time",
+        "Place",
+        "Frequency"
+    ],
+    "Sole_instance": [
+        "Item",
+        "Type"
+    ],
+    "Being_necessary": [
+        "Dependent",
+        "Required_entity",
+        "Reason",
+        "Requirement"
+    ],
+    "Reveal_secret": [
+        "Information",
+        "Containing_event",
+        "Manner",
+        "Speaker",
+        "Medium",
+        "Time",
+        "Completeness",
+        "Topic"
+    ],
+    "Response": [
+        "Responding_entity",
+        "Dimension",
+        "Manner",
+        "Trigger",
+        "Response",
+        "Agent",
+        "Time"
+    ],
+    "Cause_to_resume": [
+        "Process",
+        "Time",
+        "Agent"
+    ],
+    "Building": [
+        "Period_of_iterations",
+        "Place",
+        "Manner",
+        "Result",
+        "Descriptor",
+        "Components",
+        "Purpose",
+        "Agent",
+        "Means",
+        "Created_entity",
+        "Time"
+    ],
+    "Seeking_to_achieve": [
+        "Explanation",
+        "State_of_affairs",
+        "Sought_entity",
+        "Manner",
+        "Source",
+        "Agent",
+        "Means"
+    ],
+    "Range": [
+        "Instrument",
+        "Distance",
+        "Event",
+        "Participant"
+    ],
+    "Measure_linear_extent": [
+        "Dimension",
+        "Stuff",
+        "Unit",
+        "Count"
+    ],
+    "Shoot_projectiles": [
+        "Goal",
+        "Depictive",
+        "Projectile",
+        "Firearm",
+        "Source",
+        "Area",
+        "Purpose",
+        "Agent",
+        "Time"
+    ],
+    "Substance": [
+        "Type",
+        "Substance",
+        "Constituents",
+        "Source",
+        "Descriptor",
+        "Use"
+    ],
+    "Theft": [
+        "Manner",
+        "Instrument",
+        "Goods",
+        "Victim",
+        "Source",
+        "Perpetrator",
+        "Time",
+        "Means",
+        "Frequency"
+    ],
+    "Contingency": [
+        "Circumstances",
+        "Determinant",
+        "Degree",
+        "Outcome"
+    ],
+    "Degree_of_processing": [
+        "Material",
+        "Degree"
+    ],
+    "Permitting": [
+        "State_of_affairs",
+        "Principle"
+    ],
+    "Position_on_a_scale": [
+        "Value",
+        "Item",
+        "Variable",
+        "Degree"
+    ],
+    "Removing": [
+        "Goal",
+        "Manner",
+        "Result",
+        "Particular_iteration",
+        "Source",
+        "Theme",
+        "Agent",
+        "Direction",
+        "Cause",
+        "Time",
+        "Frequency"
+    ],
+    "Placing": [
+        "Goal",
+        "Speed",
+        "Duration",
+        "Place",
+        "Manner",
+        "Degree",
+        "Purpose",
+        "Theme",
+        "Agent",
+        "Beneficiary",
+        "Cause",
+        "Time"
+    ],
+    "Compliance": [
+        "Manner",
+        "State_of_Affairs",
+        "Degree",
+        "Act",
+        "Protagonist",
+        "Norm",
+        "Means",
+        "Time"
+    ],
+    "Operational_testing": [
+        "Means",
+        "Product",
+        "Duration",
+        "Desired_state",
+        "Manner",
+        "Result",
+        "Tested_property",
+        "Circumstances",
+        "Purpose",
+        "Time",
+        "Place",
+        "Tester"
+    ],
+    "Activity_start": [
+        "Containing_event",
+        "Depictive",
+        "Place",
+        "Manner",
+        "Concessive",
+        "Purpose",
+        "Agent",
+        "Activity",
+        "Time"
+    ],
+    "Suspicion": [
+        "Incident",
+        "Suspect"
+    ],
+    "Departing": [
+        "Event_description",
+        "Depictive",
+        "Manner",
+        "Source",
+        "Purpose",
+        "Theme",
+        "Time"
+    ],
+    "Activity_resume": [
+        "Activity",
+        "Time",
+        "Agent"
+    ],
+    "Fleeing": [
+        "Source",
+        "Goal",
+        "Self_mover",
+        "Time"
+    ],
+    "Commerce_sell": [
+        "Money",
+        "Place",
+        "Goods",
+        "Result",
+        "Buyer",
+        "Seller",
+        "Time"
+    ],
+    "Receiving": [
+        "Manner",
+        "Recipient",
+        "Donor",
+        "Purpose_of_theme",
+        "Theme",
+        "Time",
+        "Place"
+    ],
+    "Commerce_pay": [
+        "Money",
+        "Goods",
+        "Buyer",
+        "Seller",
+        "Time",
+        "Means"
+    ],
+    "Transfer": [
+        "Transferors",
+        "Place",
+        "Manner",
+        "Recipient",
+        "Donor",
+        "Purpose",
+        "Theme",
+        "Time"
+    ],
+    "Forgoing": [
+        "Forgoer",
+        "Desirable"
+    ],
+    "Attempt_suasion": [
+        "Explanation",
+        "Depictive",
+        "Manner",
+        "Speaker",
+        "Degree",
+        "Addressee",
+        "Medium",
+        "Content",
+        "Topic"
+    ],
+    "Exporting": [
+        "Type",
+        "Goods",
+        "Vehicle",
+        "Exporter",
+        "Importing_area",
+        "Time"
+    ],
+    "Documents": [
+        "Specification",
+        "Bearer",
+        "Document",
+        "Issuer",
+        "Obligation"
+    ],
+    "Experiencer_focus": [
+        "Event",
+        "Degree",
+        "Experiencer",
+        "Reason",
+        "Circumstances",
+        "Topic",
+        "Content",
+        "Time"
+    ],
+    "Import_export": [
+        "Exporting_area",
+        "Goods",
+        "Agent",
+        "Importing_area",
+        "Time"
+    ],
+    "Change_event_time": [
+        "Event",
+        "Cause",
+        "Agent"
+    ],
+    "Expressing_publicly": [
+        "Place",
+        "Manner",
+        "Medium",
+        "Communicator",
+        "Content",
+        "Time"
+    ],
+    "Quarreling": [
+        "Amount_of_discussion",
+        "Arguer2",
+        "Issue",
+        "Arguers"
+    ],
+    "Needing": [
+        "Degree",
+        "Cognizer",
+        "Dependent",
+        "Requirement",
+        "Time",
+        "Frequency"
+    ],
+    "Coming_to_be": [
+        "Manner",
+        "Role",
+        "Components",
+        "Time",
+        "Place",
+        "Entity"
+    ],
+    "Reliance": [
+        "Instrument",
+        "Degree",
+        "Protagonist",
+        "Intermediary",
+        "Means"
+    ],
+    "Social_connection": [
+        "Individual2",
+        "Connection",
+        "Type",
+        "Individual1",
+        "Degree"
+    ],
+    "Subversion": [
+        "Agent",
+        "Counter_actor"
+    ],
+    "Categorization": [
+        "Manner",
+        "Criteria",
+        "Cognizer",
+        "Item",
+        "Category",
+        "Circumstances",
+        "Time"
+    ],
+    "Commitment": [
+        "Manner",
+        "Speaker",
+        "Addressee",
+        "Medium",
+        "Message",
+        "Purpose",
+        "Time",
+        "Topic"
+    ],
+    "Activity_pause": [
+        "Activity",
+        "Duration",
+        "Time",
+        "Agent"
+    ],
+    "Sentencing": [
+        "Depictive",
+        "Sentence",
+        "Court",
+        "Term_of_sentence",
+        "Convict",
+        "Time"
+    ],
+    "Deny_permission": [
+        "Action",
+        "Authority",
+        "Protagonist"
+    ],
+    "Deciding": [
+        "Decision",
+        "Time",
+        "Cognizer"
+    ],
+    "Contacting": [
+        "Addressee",
+        "Reason",
+        "Communicator",
+        "Communication",
+        "Time"
+    ],
+    "Typicality": [
+        "Entity"
+    ],
+    "Assessing": [
+        "Assessor",
+        "Feature",
+        "Phenomenon",
+        "Depictive",
+        "Manner",
+        "Standard",
+        "Medium",
+        "Method"
+    ],
+    "Guilt_or_innocence": [
+        "Accused"
+    ],
+    "Emptying": [
+        "Source",
+        "Purpose",
+        "Theme",
+        "Agent"
+    ],
+    "Economy": [
+        "Descriptor",
+        "Political_region",
+        "Economy",
+        "Domain"
+    ],
+    "Resolve_problem": [
+        "Means",
+        "Manner",
+        "Problem",
+        "Agent",
+        "Time",
+        "Cause"
+    ],
+    "Goal": [
+        "Time",
+        "Trajector",
+        "Landmark"
+    ],
+    "Entity": [
+        "Constituent_parts",
+        "Type",
+        "Entity"
+    ],
+    "Travel": [
+        "Traveler",
+        "Goal",
+        "Distance",
+        "Duration",
+        "Path",
+        "Baggage",
+        "Area",
+        "Descriptor",
+        "Mode_of_transportation",
+        "Purpose",
+        "Time",
+        "Means",
+        "Frequency"
+    ],
+    "Natural_features": [
+        "Type",
+        "Relative_location",
+        "Container_possessor",
+        "Constituent_parts",
+        "Descriptor",
+        "Name",
+        "Locale"
+    ],
+    "Occupy_rank": [
+        "Comparison_set",
+        "Dimension",
+        "Item",
+        "Rank"
+    ],
+    "Weather": [
+        "Time",
+        "Specification",
+        "Place"
+    ],
+    "Ambient_temperature": [
+        "Temperature",
+        "Attribute",
+        "Time"
+    ],
+    "Aesthetics": [
+        "Attribute",
+        "Degree",
+        "Entity"
+    ],
+    "Direction": [
+        "Independent_variable",
+        "Path",
+        "Degree",
+        "Base_position"
+    ],
+    "Shapes": [
+        "Shape",
+        "Substance",
+        "Shape_prop"
+    ],
+    "Cause_to_wake": [
+        "Sleeper",
+        "Cause"
+    ],
+    "Manipulation": [
+        "Manner",
+        "Bodypart_of_agent",
+        "Reason",
+        "Agent",
+        "Time",
+        "Place",
+        "Entity"
+    ],
+    "Diversity": [
+        "Dimension",
+        "Group",
+        "Depictive",
+        "Degree"
+    ],
+    "Domain": [
+        "Explanation",
+        "Predicate",
+        "Domain"
+    ],
+    "Abounding_with": [
+        "Time",
+        "Location",
+        "Theme"
+    ],
+    "Biological_area": [
+        "Relative_location",
+        "Descriptor",
+        "Locale",
+        "Container_possessor"
+    ],
+    "Self_motion": [
+        "Goal",
+        "Distance",
+        "Duration",
+        "Self_mover",
+        "Path",
+        "Manner",
+        "Depictive",
+        "Coordinated_event",
+        "Source",
+        "Area",
+        "Reason",
+        "Purpose",
+        "Direction",
+        "Time",
+        "Place"
+    ],
+    "Continued_state_of_affairs": [
+        "Reference_occasion",
+        "State_of_affairs"
+    ],
+    "Residence": [
+        "Depictive",
+        "Manner",
+        "Resident",
+        "Location",
+        "Circumstances",
+        "Time",
+        "Frequency"
+    ],
+    "Temperature": [
+        "Temperature",
+        "Attribute",
+        "Degree",
+        "Entity"
+    ],
+    "Part_inner_outer": [
+        "Whole",
+        "Part"
+    ],
+    "Chemical-sense_description": [
+        "Perceptual_source",
+        "Sensory_attribute"
+    ],
+    "Sensation": [
+        "Source",
+        "Descriptor",
+        "Percept",
+        "Perceiver_passive"
+    ],
+    "People_by_origin": [
+        "Person",
+        "Origin"
+    ],
+    "Mental_stimulus_stimulus_focus": [
+        "Reason",
+        "Stimulus",
+        "Degree"
+    ],
+    "Cause_to_amalgamate": [
+        "Result",
+        "Part_1",
+        "Agent",
+        "Parts",
+        "Means",
+        "Part_2",
+        "Time"
+    ],
+    "Cause_to_start": [
+        "Event_description",
+        "Cause",
+        "Effect"
+    ],
+    "Possibilities": [
+        "Salient_entity",
+        "Agent",
+        "Event",
+        "Number_of_possibilities"
+    ],
+    "Degree": [
+        "Gradable_attribute"
+    ],
+    "Regard": [
+        "Reason",
+        "Judgment",
+        "Evaluee",
+        "Cognizer"
+    ],
+    "Instance": [
+        "Instance",
+        "Type",
+        "Instance_Prop"
+    ],
+    "Locating": [
+        "Location",
+        "Ground",
+        "Perceiver",
+        "Sought_entity"
+    ],
+    "Possibility": [
+        "Possible_event"
+    ],
+    "Indicating": [
+        "Unresolved_referent"
+    ],
+    "Concessive": [
+        "Statement",
+        "Main_statement"
+    ],
+    "Exertive_force": [
+        "Magnitude",
+        "Action",
+        "Degree",
+        "Entity"
+    ],
+    "Commerce_scenario": [
+        "Money",
+        "Goods",
+        "Seller"
+    ],
+    "Kinship": [
+        "Alter",
+        "Descriptor",
+        "Relatives",
+        "Ego"
+    ],
+    "Undergo_change": [
+        "Initial_value",
+        "Final_category",
+        "Manner",
+        "Degree",
+        "Final_value",
+        "Circumstances",
+        "Frequency",
+        "Initial_category",
+        "Cause",
+        "Attribute",
+        "Time",
+        "Entity"
+    ],
+    "Performing_arts": [
+        "Performance",
+        "Type"
+    ],
+    "Distinctiveness": [
+        "Duration",
+        "Feature",
+        "Degree",
+        "Entity"
+    ],
+    "Emotions_of_mental_activity": [
+        "Stimulus"
+    ],
+    "Lively_place": [
+        "Individuals",
+        "Activity",
+        "Location"
+    ],
+    "Temporal_pattern": [
+        "Pattern",
+        "Subevent",
+        "Type",
+        "Process",
+        "Descriptor"
+    ],
+    "Sociability": [
+        "Protagonist",
+        "Content"
+    ],
+    "People_by_residence": [
+        "Location",
+        "Known_resident",
+        "Indicated_resident",
+        "Residents"
+    ],
+    "Social_interaction_evaluation": [
+        "Degree",
+        "Behavior",
+        "Expressor",
+        "Evaluee"
+    ],
+    "Personal_relationship": [
+        "Partners",
+        "Partner_1",
+        "Depictive",
+        "Partner_2"
+    ],
+    "Gesture": [
+        "Body_part",
+        "Addressee",
+        "Message"
+    ],
+    "Relation": [
+        "Entity2",
+        "Relation_type",
+        "Entity1",
+        "Entities"
+    ],
+    "Facial_expression": [
+        "Expression",
+        "Conveyed_emotion",
+        "Possessor",
+        "Manner"
+    ],
+    "Sounds": [
+        "Sound_source",
+        "Location_of_sound_source",
+        "Manner",
+        "Component_sound"
+    ],
+    "Change_posture": [
+        "Goal",
+        "Depictive",
+        "Location",
+        "Protagonist",
+        "Purpose",
+        "Direction",
+        "Time"
+    ],
+    "Ingest_substance": [
+        "Delivery_device",
+        "Substance",
+        "Ingestor"
+    ],
+    "Communicate_categorization": [
+        "Duration",
+        "Manner",
+        "Criteria",
+        "Speaker",
+        "Medium",
+        "Category",
+        "Item",
+        "Circumstances",
+        "Time"
+    ],
+    "Emotion_active": [
+        "Experiencer",
+        "Topic",
+        "Degree"
+    ],
+    "Waiting": [
+        "Duration",
+        "Place",
+        "Manner",
+        "Salient_entity",
+        "Expected_event",
+        "Protagonist",
+        "Purpose",
+        "Time"
+    ],
+    "Touring": [
+        "Duration",
+        "Attraction",
+        "Manner",
+        "Tourist",
+        "Means",
+        "Place"
+    ],
+    "Fame": [
+        "Role",
+        "Reason",
+        "Degree",
+        "Entity"
+    ],
+    "Containment_relation": [
+        "Figure",
+        "Ground"
+    ],
+    "Shopping": [
+        "Goods"
+    ],
+    "Wearing": [
+        "Manner",
+        "Wearer",
+        "Purpose",
+        "Body_part",
+        "Time",
+        "Clothing"
+    ],
+    "Filling": [
+        "Time",
+        "Goal",
+        "Source",
+        "Theme",
+        "Agent",
+        "Means",
+        "Cause",
+        "Place"
+    ],
+    "Apply_heat": [
+        "Co_participant",
+        "Heating_instrument",
+        "Food"
+    ],
+    "Make_noise": [
+        "Sound_source",
+        "Place",
+        "Sound",
+        "Particular_iteration",
+        "Addressee",
+        "Noisy_event",
+        "Time"
+    ],
+    "Perception_active": [
+        "Phenomenon",
+        "Depictive",
+        "Direction",
+        "State",
+        "Perceiver_agentive"
+    ],
+    "Version_sequence": [
+        "Item"
+    ],
+    "History": [
+        "Duration",
+        "Topic"
+    ],
+    "Make_acquaintance": [
+        "Individual_2",
+        "Individual_1"
+    ],
+    "Rewards_and_punishments": [
+        "Response_action",
+        "Manner",
+        "Evaluee",
+        "Reason",
+        "Agent"
+    ],
+    "Come_together": [
+        "Individuals",
+        "Configuration",
+        "Party_1",
+        "Manner",
+        "Party_2",
+        "Purpose",
+        "Time",
+        "Place"
+    ],
+    "Willingness": [
+        "Explanation",
+        "Degree",
+        "Cognizer",
+        "Activity",
+        "Time"
+    ],
+    "Point_of_dispute": [
+        "Group",
+        "Domain",
+        "Status",
+        "Descriptor",
+        "Question"
+    ],
+    "Becoming_a_member": [
+        "Re_encoding",
+        "Group",
+        "Manner",
+        "New_member",
+        "Time",
+        "Place"
+    ],
+    "Conduct": [
+        "Agent",
+        "Place",
+        "Manner"
+    ],
+    "Avoiding": [
+        "Manner",
+        "Undesirable_situation",
+        "Degree",
+        "Agent",
+        "Time",
+        "Means"
+    ],
+    "Ingestion": [
+        "Ingestibles",
+        "Ingestor"
+    ],
+    "Have_as_requirement": [
+        "Explanation",
+        "Degree",
+        "Dependent",
+        "Requirement",
+        "Required_entity"
+    ],
+    "Rite": [
+        "Desired_state",
+        "Type",
+        "Leader",
+        "Guardian",
+        "Member",
+        "Time",
+        "Place",
+        "Object"
+    ],
+    "Prevarication": [
+        "Addressee",
+        "Speaker",
+        "Topic"
+    ],
+    "Idiosyncrasy": [
+        "Idiosyncrasy",
+        "Entity"
+    ],
+    "Submitting_documents": [
+        "Manner",
+        "Purpose_of_theme",
+        "Submittor",
+        "Documents",
+        "Time"
+    ],
+    "Quitting": [
+        "Employer",
+        "Employee",
+        "Reason"
+    ],
+    "Reporting": [
+        "Authorities",
+        "Informer",
+        "Behavior",
+        "Purpose"
+    ],
+    "Misdeed": [
+        "Wrongdoer",
+        "Misdeed"
+    ],
+    "Being_born": [
+        "Time",
+        "Child",
+        "Place"
+    ],
+    "Judgment": [
+        "Result",
+        "Degree",
+        "Evaluee",
+        "Cognizer",
+        "Reason"
+    ],
+    "Deserving": [
+        "Action",
+        "State_of_affairs"
+    ],
+    "Rank": [
+        "Item",
+        "Rank"
+    ],
+    "Being_at_risk": [
+        "Place",
+        "Asset",
+        "Harmful_event",
+        "Domain",
+        "Degree",
+        "Dangerous_entity",
+        "Situation",
+        "Time"
+    ],
+    "Inclination": [
+        "Behavior",
+        "Entity"
+    ],
+    "Electricity": [
+        "Descriptor",
+        "Source",
+        "Use",
+        "Electricity"
+    ],
+    "Partitive": [
+        "Subset",
+        "Group"
+    ],
+    "Impact": [
+        "Impactor",
+        "Impactee",
+        "Manner"
+    ],
+    "Damaging": [
+        "Patient",
+        "Degree",
+        "Agent",
+        "Time",
+        "Cause"
+    ],
+    "Operating_a_system": [
+        "Duration",
+        "System",
+        "Manner",
+        "Operator",
+        "Purpose",
+        "Time"
+    ],
+    "Religious_belief": [
+        "Believer",
+        "Element",
+        "Content"
+    ],
+    "Motion_directional": [
+        "Goal",
+        "Manner",
+        "Source",
+        "Carrier",
+        "Theme",
+        "Time",
+        "Place"
+    ],
+    "Offenses": [
+        "Offense"
+    ],
+    "Toxic_substance": [
+        "Toxic_substance",
+        "Degree"
+    ],
+    "Kidnapping": [
+        "Victim",
+        "Perpetrator",
+        "Time"
+    ],
+    "Setting_fire": [
+        "Flammables",
+        "Kindler",
+        "Time"
+    ],
+    "Adopt_selection": [
+        "Value",
+        "Circumstances",
+        "Purpose",
+        "Agent",
+        "Attribute",
+        "Time"
+    ],
+    "Having_or_lacking_access": [
+        "Theme",
+        "Circumstances",
+        "Useful_location"
+    ],
+    "Control": [
+        "Controlling_entity",
+        "Dependent_entity",
+        "Manner"
+    ],
+    "Containers": [
+        "Type",
+        "Relative_location",
+        "Container",
+        "Use",
+        "Owner"
+    ],
+    "Desirable_event": [
+        "State_of_affairs",
+        "Purpose"
+    ],
+    "Connectors": [
+        "Connected_item",
+        "Connector",
+        "Descriptor",
+        "Type"
+    ],
+    "Speed": [
+        "Speed",
+        "Degree",
+        "Circumstances",
+        "Attribute",
+        "Time",
+        "Entity"
+    ],
+    "Motion_noise": [
+        "Goal",
+        "Theme"
+    ],
+    "Eclipse": [
+        "Eclipsed"
+    ],
+    "Appointing": [
+        "Role",
+        "Official",
+        "Body",
+        "Degree"
+    ],
+    "Text_creation": [
+        "Depictive",
+        "Instrument",
+        "Addressee",
+        "Author",
+        "Text",
+        "Form",
+        "Place"
+    ],
+    "Suspiciousness": [
+        "Behavior"
+    ],
+    "Indigenous_origin": [
+        "Origin",
+        "Entity"
+    ],
+    "Completeness": [
+        "Whole",
+        "Degree"
+    ],
+    "State_of_entity": [
+        "Evaluation",
+        "State",
+        "Entity"
+    ],
+    "Aiming": [
+        "Instrument",
+        "Targeted",
+        "Purpose",
+        "Target_location"
+    ],
+    "Be_in_control": [
+        "Controlling_entity",
+        "Dependent_entity",
+        "Time"
+    ],
+    "Social_event": [
+        "Period_of_iterations",
+        "Social_event",
+        "Honoree",
+        "Occasion",
+        "Name",
+        "Descriptor",
+        "Refreshment",
+        "Host",
+        "Attendee",
+        "Style",
+        "Frequency"
+    ],
+    "Scouring": [
+        "Searcher",
+        "Ground"
+    ],
+    "Hiding_objects": [
+        "Hidden_object",
+        "Time"
+    ],
+    "Strictness": [
+        "Medium",
+        "Controlling_act",
+        "Degree",
+        "Agent"
+    ],
+    "Installing": [
+        "Fixed_location",
+        "Purpose",
+        "Agent",
+        "Place",
+        "Component"
+    ],
+    "Storing": [
+        "Manner",
+        "Location",
+        "Theme",
+        "Agent",
+        "Place"
+    ],
+    "People_by_age": [
+        "Persistent_characteristic",
+        "Origin",
+        "Person",
+        "Ethnicity",
+        "Descriptor",
+        "Age"
+    ],
+    "Intentional_traversing": [
+        "Path",
+        "Self_mover"
+    ],
+    "Cutting": [],
+    "Amalgamation": [
+        "Part_1",
+        "Parts",
+        "Time",
+        "Part_2",
+        "Place"
+    ],
+    "Duplication": [
+        "Characterization",
+        "Depictive",
+        "Degree",
+        "Copy",
+        "Original",
+        "Time"
+    ],
+    "Hunting": [
+        "Food",
+        "Hunter"
+    ],
+    "Agriculture": [
+        "Agriculturist"
+    ],
+    "Thriving": [
+        "Duration",
+        "Place",
+        "Role",
+        "Particular_iteration",
+        "Circumstances",
+        "Time",
+        "Entity"
+    ],
+    "Remainder": [
+        "Resource",
+        "Remainder",
+        "Location",
+        "Time"
+    ],
+    "Ranked_expectation": [
+        "Entity"
+    ],
+    "Cause_to_fragment": [
+        "Place",
+        "Manner",
+        "Whole_patient",
+        "Agent",
+        "Cause",
+        "Time"
+    ],
+    "Mental_property": [
+        "Behavior",
+        "Protagonist"
+    ],
+    "Conquering": [
+        "Means",
+        "Theme",
+        "Conqueror",
+        "Time"
+    ],
+    "Recording": [
+        "Phenomenon",
+        "Manner",
+        "Value",
+        "Medium",
+        "Agent",
+        "Attribute"
+    ],
+    "Remembering_information": [
+        "Mental_content"
+    ],
+    "Ceasing_to_be": [
+        "Entity"
+    ],
+    "Craft": [
+        "Culture",
+        "Activity",
+        "Descriptor"
+    ],
+    "Relational_natural_features": [
+        "Relative_location",
+        "Focal_feature",
+        "Container_possessor",
+        "Descriptor",
+        "Landmark_feature"
+    ],
+    "Competition": [
+        "Manner",
+        "Participants",
+        "Competition",
+        "Degree",
+        "Participant_1",
+        "Venue"
+    ],
+    "Evaluative_comparison": [
+        "Standard_item",
+        "Profiled_item",
+        "Profiled_attribute",
+        "Standard_attribute",
+        "Attribute",
+        "Place"
+    ],
+    "Invading": [
+        "Land",
+        "Invader",
+        "Purpose"
+    ],
+    "Beat_opponent": [
+        "Event_description",
+        "Loser",
+        "Winner",
+        "Competition",
+        "Particular_iteration",
+        "Circumstances",
+        "Time"
+    ],
+    "Alliance": [
+        "Alliance",
+        "Descriptor"
+    ],
+    "Finish_competition": [
+        "Prize",
+        "Competition",
+        "Margin",
+        "Competitors",
+        "Competitor",
+        "Time"
+    ],
+    "Taking_time": [
+        "Activity",
+        "Agent",
+        "Degree",
+        "Time_length"
+    ],
+    "Individual_history": [
+        "Domain",
+        "Participant",
+        "Events"
+    ],
+    "Measurable_attributes": [
+        "Entity"
+    ],
+    "Separating": [
+        "Manner",
+        "Instrument",
+        "Whole",
+        "Part_1",
+        "Parts",
+        "Recipients",
+        "Part_2",
+        "Cause"
+    ],
+    "Successful_action": [
+        "Goal",
+        "Instrument",
+        "Degree",
+        "Means",
+        "Time"
+    ],
+    "Soaking_up": [
+        "Item",
+        "Substance",
+        "Manner"
+    ],
+    "Part_ordered_segments": [
+        "Ordinality",
+        "Part_prop",
+        "Whole",
+        "Part"
+    ],
+    "Name_conferral": [
+        "Name",
+        "Speaker",
+        "Time",
+        "Entity"
+    ],
+    "Dominate_situation": [
+        "Situation",
+        "Time",
+        "Agent"
+    ],
+    "Relational_political_locales": [
+        "Relative_location",
+        "Container_possessor",
+        "Descriptor",
+        "Name",
+        "Locale",
+        "Population"
+    ],
+    "Cause_change_of_strength": [
+        "Cause",
+        "Patient",
+        "Time",
+        "Agent"
+    ],
+    "Differentiation": [
+        "Phenomenon_1",
+        "Phenomena",
+        "Phenomenon_2",
+        "Cognizer"
+    ],
+    "Pattern": [
+        "Descriptor",
+        "Entities"
+    ],
+    "Being_strong": [
+        "Entity"
+    ],
+    "Taking": [
+        "Containing_event",
+        "Source",
+        "Reason",
+        "Theme",
+        "Agent",
+        "Time",
+        "Place"
+    ],
+    "Besieging": [
+        "Victim",
+        "Assailant",
+        "Time"
+    ],
+    "Supporting": [
+        "Manner",
+        "Supported",
+        "Supporter",
+        "Time",
+        "Means"
+    ],
+    "Boundary": [
+        "Boundary",
+        "Entities"
+    ],
+    "Performers_and_roles": [
+        "Event_description",
+        "Performance",
+        "Type",
+        "Role",
+        "Performer"
+    ],
+    "Accomplishment": [
+        "Explanation",
+        "Goal",
+        "Domain",
+        "Particular_iteration",
+        "Agent",
+        "Means",
+        "Time"
+    ],
+    "Adorning": [
+        "Location",
+        "Theme"
+    ],
+    "Catastrophe": [
+        "Place",
+        "Undergoer",
+        "Degree",
+        "Undesirable_Event",
+        "Time",
+        "Cause"
+    ],
+    "Surrendering_possession": [
+        "Time",
+        "Surrenderer",
+        "Recipient",
+        "Theme"
+    ],
+    "Biological_urge": [
+        "Experiencer",
+        "Reason"
+    ],
+    "Clothing": [
+        "Garment",
+        "Descriptor",
+        "Use",
+        "Wearer",
+        "Style"
+    ],
+    "Process_stop": [
+        "Duration",
+        "Process",
+        "Time"
+    ],
+    "Network": [
+        "Nodes",
+        "Network",
+        "Connections",
+        "Descriptor",
+        "Possessor"
+    ],
+    "Isolated_places": [
+        "Relative_location",
+        "Place"
+    ],
+    "Fear": [
+        "Experiencer",
+        "Degree"
+    ],
+    "Being_wet": [
+        "Item"
+    ],
+    "Forming_relationships": [
+        "Partners",
+        "Time",
+        "Partner_1",
+        "Partner_2"
+    ],
+    "Left_to_do": [
+        "Remainder",
+        "Process"
+    ],
+    "Reference_text": [
+        "Information",
+        "Source_of_information"
+    ],
+    "Preliminaries": [
+        "Preparatory_phase",
+        "Preparatory_act"
+    ],
+    "Being_in_operation": [
+        "Duration",
+        "Place",
+        "Device"
+    ],
+    "Interrupt_process": [
+        "Process"
+    ],
+    "Be_in_agreement_on_action": [
+        "Party_2",
+        "Descriptor",
+        "Parties",
+        "Obligation",
+        "Topic"
+    ],
+    "Estimating": [
+        "Value",
+        "Cognizer",
+        "Item",
+        "Estimation",
+        "Question",
+        "Time"
+    ],
+    "Openness": [
+        "Barrier",
+        "Theme",
+        "Useful_location"
+    ],
+    "Simultaneity": [
+        "Events"
+    ],
+    "Unemployment_rate": [
+        "Value",
+        "Employment",
+        "Place"
+    ],
+    "Arranging": [
+        "Configuration",
+        "Manner",
+        "Location",
+        "Theme",
+        "Agent",
+        "Time"
+    ],
+    "Predicting": [
+        "Speaker",
+        "Time_of_Eventuality",
+        "Eventuality",
+        "Accuracy",
+        "Time"
+    ],
+    "Daring": [
+        "Action",
+        "Agent"
+    ],
+    "Amounting_to": [
+        "Value",
+        "Time_span",
+        "Attribute"
+    ],
+    "Process_completed_state": [
+        "Process"
+    ],
+    "Used_up": [
+        "Resource"
+    ],
+    "Manipulate_into_doing": [
+        "Manner",
+        "Resulting_action",
+        "Degree",
+        "Victim",
+        "Manipulator"
+    ],
+    "Trust": [
+        "Source",
+        "Information",
+        "Manner",
+        "Cognizer"
+    ],
+    "Rest": [
+        "Whole",
+        "Rest",
+        "Part"
+    ],
+    "Execute_plan": [
+        "Degree",
+        "Purpose",
+        "Plan",
+        "Agent",
+        "Means"
+    ],
+    "Smuggling": [
+        "Perpetrator",
+        "Goal",
+        "Goods"
+    ],
+    "Suitability": [
+        "Evaluee",
+        "User",
+        "Purpose",
+        "Degree"
+    ],
+    "Proliferating_in_number": [
+        "Final_correlate",
+        "Set"
+    ],
+    "Measure_mass": [
+        "Stuff",
+        "Unit",
+        "Count"
+    ],
+    "Partiality": [
+        "Decision_maker",
+        "Side_1",
+        "Dispute",
+        "Degree",
+        "Side_2"
+    ],
+    "Coming_to_believe": [
+        "Degree",
+        "Content",
+        "Cognizer",
+        "Medium",
+        "Evidence",
+        "Time"
+    ],
+    "Committing_crime": [
+        "Perpetrator",
+        "Instrument",
+        "Crime"
+    ],
+    "Verdict": [
+        "Judge",
+        "Defendant",
+        "Charges",
+        "Finding",
+        "Time",
+        "Place"
+    ],
+    "Measure_volume": [
+        "Stuff",
+        "Unit",
+        "Count"
+    ],
+    "Being_active": [
+        "Activity",
+        "Place",
+        "Time",
+        "Agent"
+    ],
+    "Prohibiting": [
+        "Place",
+        "Circumstances",
+        "Principle",
+        "State_of_affairs"
+    ],
+    "Terms_of_agreement": [
+        "Requirements",
+        "Regulated_entity",
+        "Descriptor",
+        "Agreement"
+    ],
+    "Take_place_of": [
+        "Old",
+        "New",
+        "Function"
+    ],
+    "Commercial_transaction": [
+        "Goods"
+    ],
+    "Clarity_of_resolution": [
+        "Outcome"
+    ],
+    "People_along_political_spectrum": [
+        "Individual"
+    ],
+    "Reforming_a_system": [
+        "Entity",
+        "Purpose",
+        "Agent"
+    ],
+    "Extreme_point": [
+        "Marker",
+        "Entity"
+    ],
+    "Remembering_experience": [
+        "Impression",
+        "Salient_entity",
+        "Cognizer"
+    ],
+    "Rejuvenation": [
+        "Result",
+        "Agent",
+        "Means",
+        "Time",
+        "Entity"
+    ],
+    "Actually_occurring_entity": [
+        "Type"
+    ],
+    "Scarcity": [
+        "Collection"
+    ],
+    "Sent_items": [
+        "Sent_item"
+    ],
+    "Disgraceful_situation": [
+        "State_of_affairs"
+    ],
+    "Size": [
+        "Degree",
+        "Entity"
+    ],
+    "Abandonment": [
+        "Explanation",
+        "Theme",
+        "Time",
+        "Agent"
+    ],
+    "Confronting_problem": [
+        "Issue",
+        "Agent",
+        "Frequency"
+    ],
+    "Becoming_separated": [
+        "Part_1",
+        "Whole",
+        "Part_2",
+        "Criterion"
+    ],
+    "Prevent_from_having": [
+        "State_of_affairs",
+        "Protagonist"
+    ],
+    "Evoking": [
+        "Phenomenon",
+        "Degree",
+        "Cognizer",
+        "Stimulus",
+        "Time"
+    ],
+    "Noise_makers": [
+        "Material",
+        "Type",
+        "Noise_maker",
+        "Name",
+        "Use"
+    ],
+    "Halt": [
+        "Period_of_iterations",
+        "Explanation",
+        "Depictive",
+        "Manner",
+        "Purpose",
+        "Theme",
+        "Time",
+        "Place"
+    ],
+    "Being_attached": [
+        "Items",
+        "Goal",
+        "Item",
+        "Manner"
+    ],
+    "Heralding": [
+        "Event",
+        "Communicator",
+        "Individual"
+    ],
+    "Cause_to_make_noise": [
+        "Sound_maker",
+        "Place",
+        "Agent"
+    ],
+    "Operate_vehicle": [
+        "Driver",
+        "Goal",
+        "Path",
+        "Source",
+        "Vehicle",
+        "Circumstances",
+        "Time"
+    ],
+    "Cause_to_continue": [
+        "Cause",
+        "Process",
+        "State",
+        "Agent"
+    ],
+    "Achieving_first": [
+        "New_idea",
+        "Time",
+        "Cognizer"
+    ],
+    "Sequence": [
+        "Entities"
+    ],
+    "Memorization": [
+        "Pattern",
+        "Cognizer"
+    ],
+    "Posture": [
+        "Duration",
+        "Depictive",
+        "Manner",
+        "Location",
+        "Purpose",
+        "Agent"
+    ],
+    "Simple_naming": [
+        "Entity",
+        "Speaker",
+        "Term"
+    ],
+    "Mental_stimulus_exp_focus": [
+        "Experiencer",
+        "Degree"
+    ],
+    "Attaching": [
+        "Items",
+        "Goal",
+        "Connector",
+        "Manner",
+        "Item",
+        "Agent",
+        "Place"
+    ],
+    "Moving_in_place": [
+        "Place",
+        "Manner",
+        "Fixed_location",
+        "Angle",
+        "Theme",
+        "Direction",
+        "Time"
+    ],
+    "Excreting": [
+        "Source",
+        "Excreta",
+        "Means",
+        "Excreter"
+    ],
+    "Attending": [
+        "Event",
+        "Agent"
+    ],
+    "Firing": [
+        "Employer",
+        "Employee"
+    ],
+    "Volubility": [
+        "Speaker",
+        "Topic"
+    ],
+    "Luck": [
+        "State_of_affairs",
+        "Protagonist"
+    ],
+    "Cooking_creation": [
+        "Cook",
+        "Produced_food",
+        "Time"
+    ],
+    "Fall_asleep": [
+        "Sleeper",
+        "Place",
+        "Time"
+    ],
+    "Body_mark": [
+        "Body_mark",
+        "Possessor"
+    ],
+    "Communication_response": [
+        "Speaker",
+        "Trigger",
+        "Addressee",
+        "Message",
+        "Time"
+    ],
+    "Releasing": [
+        "Place",
+        "Location_of_confinement",
+        "Theme",
+        "Agent",
+        "Time"
+    ],
+    "Prison": [
+        "Penal_institution"
+    ],
+    "Reliance_on_expectation": [
+        "Expectation",
+        "Cognizer"
+    ],
+    "Path_traveled": [
+        "Path",
+        "Theme"
+    ],
+    "Simple_name": [
+        "Entity",
+        "Speaker",
+        "Term"
+    ],
+    "Gathering_up": [
+        "Individuals",
+        "Containing_event",
+        "Manner",
+        "Aggregate",
+        "Agent",
+        "Frequency"
+    ],
+    "Reading": [
+        "Reader",
+        "Text",
+        "Circumstances"
+    ],
+    "Activity_done_state": [
+        "Activity",
+        "Time",
+        "Agent"
+    ],
+    "Accompaniment": [
+        "Participant",
+        "Coparticipant"
+    ],
+    "Arrest": [
+        "Authorities",
+        "Suspect",
+        "Offense",
+        "Time",
+        "Place"
+    ],
+    "Execution": [
+        "Execution",
+        "Reason",
+        "Place",
+        "Executed"
+    ],
+    "Trial": [
+        "Case",
+        "Defendant",
+        "Manner"
+    ],
+    "Escaping": [
+        "Escapee"
+    ],
+    "Traversing": [
+        "Goal",
+        "Path",
+        "Manner",
+        "Source",
+        "Theme",
+        "Direction",
+        "Time"
+    ],
+    "Enforcing": [
+        "Rule",
+        "Agent"
+    ],
+    "Examination": [
+        "Knowledge",
+        "Examination"
+    ],
+    "Fairness_evaluation": [
+        "Action",
+        "Actor"
+    ],
+    "Memory": [
+        "Experience",
+        "Content",
+        "Cognizer"
+    ],
+    "Part_piece": [
+        "Piece",
+        "Substance"
+    ],
+    "Timespan": [
+        "Duration",
+        "State"
+    ],
+    "Change_tool": [
+        "New_tool",
+        "Agent"
+    ],
+    "Being_operational": [
+        "Artifact"
+    ],
+    "Trendiness": [
+        "Time",
+        "Behavior",
+        "Evaluee"
+    ],
+    "Contrition": [
+        "Expressor",
+        "Depictive",
+        "Manner",
+        "Emotional_state",
+        "Action",
+        "Experiencer"
+    ],
+    "Making_faces": [
+        "Cognate_event",
+        "Time",
+        "Agent"
+    ],
+    "Communication_manner": [
+        "Speaker",
+        "Message",
+        "Manner"
+    ],
+    "Event_instance": [
+        "Instance",
+        "Event"
+    ],
+    "Change_of_phase": [
+        "Undergoer",
+        "Result"
+    ],
+    "Bungling": [
+        "Patient",
+        "Degree",
+        "Action",
+        "Agent",
+        "Place"
+    ],
+    "Surviving": [
+        "Dangerous_situation",
+        "Place",
+        "Survivor"
+    ],
+    "Become_silent": [
+        "Speaker"
+    ],
+    "Body_movement": [
+        "Duration",
+        "Manner",
+        "Purpose",
+        "Agent",
+        "Body_part"
+    ],
+    "Physical_artworks": [
+        "Creator",
+        "Artifact",
+        "Represented"
+    ],
+    "Communication_noise": [
+        "Reason",
+        "Speaker"
+    ],
+    "Medical_specialties": [
+        "Specialty",
+        "Type"
+    ],
+    "Meet_with": [
+        "Party_1",
+        "Party_2"
+    ],
+    "Breathing": [
+        "Agent"
+    ],
+    "Be_in_agreement_on_assessment": [
+        "Cognizers",
+        "Opinion",
+        "Cognizer_1"
+    ],
+    "Dead_or_alive": [
+        "Figure",
+        "Protagonist"
+    ],
+    "Launch_process": [
+        "Process",
+        "Agent"
+    ],
+    "Obscurity": [
+        "Entity"
+    ],
+    "Presence": [
+        "Location",
+        "Entity"
+    ],
+    "Make_possible_to_do": [
+        "Enablement",
+        "Enabled_action"
+    ],
+    "Measure_area": [
+        "Area",
+        "Unit",
+        "Count"
+    ],
+    "Redirecting": [
+        "Theme",
+        "Goal",
+        "Means",
+        "Agent"
+    ],
+    "Be_subset_of": [
+        "Total",
+        "Time",
+        "Part"
+    ],
+    "Path_shape": [
+        "Direction",
+        "Road",
+        "Path",
+        "Degree"
+    ],
+    "Replacing": [
+        "Old",
+        "New",
+        "Agent"
+    ],
+    "Becoming_dry": [
+        "Manner",
+        "Entity"
+    ],
+    "Cause_change_of_phase": [
+        "Undergoer",
+        "Agent"
+    ],
+    "Temporary_stay": [
+        "Guest",
+        "Location",
+        "Duration"
+    ],
+    "Behind_the_scenes": [
+        "Production",
+        "Artist",
+        "Place"
+    ],
+    "Quitting_a_place": [
+        "Intended_goal",
+        "Co_participant",
+        "Self_mover",
+        "Source",
+        "Purpose",
+        "Direction"
+    ],
+    "Delimitation_of_diversity": [
+        "Item",
+        "Limit1",
+        "Variable",
+        "Limit2"
+    ],
+    "Create_physical_artwork": [
+        "Location_of_representation",
+        "Representation",
+        "Descriptor",
+        "Creator",
+        "Place"
+    ],
+    "Locale_by_event": [
+        "Descriptor",
+        "Locale",
+        "Defining_event"
+    ],
+    "Ammunition": [
+        "Ammunition",
+        "Type"
+    ],
+    "Referring_by_name": [
+        "Name",
+        "Speaker",
+        "Entity"
+    ],
+    "Cause_to_experience": [
+        "Experiencer"
+    ],
+    "Suasion": [
+        "Addressee",
+        "Speaker",
+        "Content"
+    ],
+    "Commemorative": [
+        "Dedicated_entity"
+    ],
+    "Run_risk": [
+        "Bad_outcome",
+        "Action",
+        "Protagonist",
+        "Asset"
+    ],
+    "Reshaping": [
+        "Undergoer",
+        "Result"
+    ],
+    "Grinding": [
+        "Undergoer"
+    ],
+    "Ground_up": [
+        "Undergoer"
+    ],
+    "Candidness": [
+        "Speaker",
+        "Topic"
+    ],
+    "Translating": [],
+    "Speak_on_topic": [
+        "Speaker",
+        "Occasion",
+        "Topic"
+    ],
+    "Preference": [
+        "Experiencer",
+        "Contrast",
+        "Event"
+    ],
+    "Cause_impact": [
+        "Impactor",
+        "Impactee",
+        "Place"
+    ],
+    "Extradition": [
+        "Crime_jurisdiction",
+        "Legal_Basis",
+        "Suspect",
+        "Purpose"
+    ],
+    "Reassuring": [
+        "Experiencer"
+    ],
+    "Claim_ownership": [
+        "Claimant",
+        "Property"
+    ],
+    "Withdraw_from_participation": [
+        "Explanation",
+        "Time",
+        "Organization",
+        "Activity",
+        "Participant"
+    ],
+    "Encoding": [
+        "Speaker",
+        "Message",
+        "Manner"
+    ],
+    "Getting_vehicle_underway": [
+        "Source"
+    ],
+    "Being_in_effect": [
+        "Explanation",
+        "Binding_principle",
+        "Time"
+    ],
+    "Nuclear_process": [
+        "Element"
+    ],
+    "Scope": [
+        "Salient_entity",
+        "Event"
+    ],
+    "Accuracy": [
+        "Instrument",
+        "Degree"
+    ],
+    "Aging": [
+        "Place",
+        "Entity"
+    ],
+    "Intentionally_affect": [
+        "Event",
+        "Patient",
+        "Time",
+        "Agent"
+    ],
+    "Destiny": [
+        "State_of_affairs",
+        "Protagonist"
+    ],
+    "Dominate_competitor": [
+        "Time",
+        "Agent"
+    ],
+    "Medium": [
+        "Text",
+        "Item"
+    ],
+    "Precipitation": [
+        "Precipitation",
+        "Place",
+        "Frequency"
+    ],
+    "Stinginess": [
+        "Resource"
+    ],
+    "Historic_event": [
+        "Event",
+        "Entity"
+    ],
+    "Renunciation": [
+        "Speaker",
+        "Content",
+        "Time"
+    ],
+    "Into": [
+        "Landmark"
+    ],
+    "Hospitality": [
+        "Behavior"
+    ],
+    "Ineffability": [
+        "Attribute",
+        "Stimulus"
+    ],
+    "Preserving": [
+        "Undergoer"
+    ],
+    "Vocalizations": [
+        "Sound_source"
+    ],
+    "Location_of_light": [
+        "Light"
+    ],
+    "Coincidence": [
+        "State_of_affairs"
+    ],
+    "Carry_goods": [
+        "Goods",
+        "Place",
+        "Distributor"
+    ],
+    "Prominence": [
+        "Degree",
+        "Place",
+        "Entity"
+    ],
+    "Abundance": [
+        "Collection"
+    ],
+    "Extreme_value": [
+        "Value",
+        "Attribute",
+        "Period"
+    ],
+    "Hit_target": [
+        "Target",
+        "Place"
+    ],
+    "Frugality": [],
+    "Emanating": [
+        "Source",
+        "Emission",
+        "Time"
+    ],
+    "Birth": [
+        "Parents"
+    ],
+    "Addiction": [
+        "Addict"
+    ],
+    "Recovery": [
+        "Affliction",
+        "Patient"
+    ],
+    "Abusing": [
+        "Victim",
+        "Type"
+    ],
+    "Beyond_compare": [
+        "Standard",
+        "Variable"
+    ],
+    "Clothing_parts": [
+        "Subpart",
+        "Wearer"
+    ],
+    "Complaining": [
+        "Complaint",
+        "Complainer",
+        "Time",
+        "Manner"
+    ],
+    "People_by_morality": [
+        "Descriptor",
+        "Person"
+    ],
+    "Sharpness": [
+        "Entity"
+    ],
+    "Change_direction": [
+        "Direction",
+        "Goal"
+    ],
+    "Punctual_perception": [
+        "Phenomenon"
+    ],
+    "Assemble": [
+        "Individuals",
+        "Purpose",
+        "Time"
+    ],
+    "Being_in_category": [
+        "Item"
+    ],
+    "Reparation": [
+        "Gift",
+        "Injury"
+    ],
+    "Waking_up": [
+        "Sleeper",
+        "Time"
+    ],
+    "Offering": [
+        "Offerer",
+        "Theme"
+    ],
+    "Cause_to_perceive": [
+        "Phenomenon",
+        "Entity"
+    ],
+    "Proper_reference": [
+        "Entity"
+    ],
+    "Locale_by_ownership": [
+        "Descriptor",
+        "Locale"
+    ],
+    "Disembarking": [
+        "Vehicle",
+        "Place",
+        "Traveller"
+    ],
+    "Board_vehicle": [
+        "Path",
+        "Duration_of_final_state",
+        "Vehicle",
+        "Traveller",
+        "Time"
+    ],
+    "Try_defendant": [
+        "Governing_authority",
+        "Defendant"
+    ],
+    "Process_resume": [
+        "Process",
+        "Time"
+    ],
+    "Rotting": [
+        "Undergoer",
+        "Time"
+    ],
+    "Convey_importance": [
+        "Medium",
+        "Message"
+    ],
+    "Holding_off_on": [
+        "End_point",
+        "Agent"
+    ],
+    "Expected_location_of_person": [
+        "Location",
+        "Duration"
+    ],
+    "Rape": [
+        "Perpetrator",
+        "Result",
+        "Victim"
+    ],
+    "Robbery": [
+        "Victim",
+        "Goods"
+    ],
+    "Forgiveness": [],
+    "Adjusting": [
+        "Time",
+        "Agent"
+    ],
+    "Perception_body": [],
+    "Inhibit_movement": [
+        "Holding_location",
+        "Duration",
+        "Theme",
+        "Agent"
+    ],
+    "Immobilization": [
+        "Patient",
+        "Place"
+    ],
+    "Render_nonfunctional": [
+        "Artifact",
+        "Place",
+        "Time",
+        "Agent"
+    ],
+    "Fastener": [
+        "Fastener"
+    ],
+    "Intercepting": [
+        "Theme",
+        "Interceptor",
+        "Time"
+    ],
+    "Going_back_on_a_commitment": [
+        "Explanation",
+        "Time",
+        "Protagonist",
+        "Commitment"
+    ],
+    "Institutionalization": [
+        "Patient",
+        "Time"
+    ],
+    "Eventive_affecting": [
+        "Event",
+        "Entity"
+    ],
+    "Renting": [
+        "Lessee",
+        "Goods"
+    ],
+    "Explaining_the_facts": [
+        "Question",
+        "State_of_affairs",
+        "Fact",
+        "Manner"
+    ],
+    "Win_prize": [
+        "Prize",
+        "Competitor"
+    ],
+    "Turning_out": [
+        "State_of_affairs"
+    ]
+}
